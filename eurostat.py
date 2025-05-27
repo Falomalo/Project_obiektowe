@@ -12,24 +12,26 @@ class EurostatAPI:
 
 eurostat = EurostatAPI()
 
+
 class EurostatDataFetcher:
     def __init__(self, output_file="resources/car_stat.txt"):
         self.__output_file = output_file
-        self.__eurostat = EurostatAPI()
+
     def get_tsv_data(self, data_name):
         try:
             url = f"https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/{data_name}/?format=TSV"
-            response = requests.get(url)
+            response = requests.get(url, timeout=30)
             response.raise_for_status()
 
             with open(self.__output_file, "w", encoding='utf-8') as f:
                 f.write(response.text)
 
+            print("Dane pobrane pomyślnie")
             return response
 
-        except requests.exceptions.RequestException as e:
-            print(f"Error fetching data: {e}")
+        except requests.exceptions.RequestException:
+            print("Błąd pobierania danych - sprawdź połączenie internetowe")
             return None
-        except OSError as e:
-            print(f"Error writing file: {e}")
+        except:
+            print("Błąd zapisu danych")
             return None

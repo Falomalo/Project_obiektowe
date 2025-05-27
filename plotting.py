@@ -1,5 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
+from matplotlib.backends.backend_pdf import PdfPages
+
 
 class BasePlot:
     def __init__(self, data, specific_countries, start_year, end_year):
@@ -60,8 +62,43 @@ class BasePlot:
         ax.set_ylim(0, self._get_max_y_value() * 1.1)
 
     def _get_max_y_value(self):
-        return max(max(measurements) for measurements in self._num_of_cars.values() if measurements)
+        try:
+            max_values = []
+            for measurements in self._num_of_cars.values():
+                if measurements and any(val > 0 for val in measurements):
+                    max_values.append(max(measurements))
+            return max(max_values) if max_values else 1
+        except:
+            return 1
 
     def save_plot(self, file_path):
-        plt = self.add_new_plot()
-        plt.savefig(file_path)
+        plt_obj = self.add_new_plot()
+        plt_obj.savefig(file_path, bbox_inches='tight', dpi=300)
+        plt_obj.close()
+
+    def save_plot_to_pdf(self, file_path):
+        try:
+            plt_obj = self.add_new_plot()
+
+            # Sprawdź czy mamy jakiekolwiek dane do wykreślenia
+            valid_data = any(
+                any(self._data.get(country, []))
+                for country in self._specific_countries
+            )
+
+            if not valid_data:
+                print("Brak danych do wykreślenia")
+                return False
+
+            with PdfPages(file_path) as pdf:
+                pdf.savefig(plt_obj.gcf(), bbox_inches='tight', dpi=300)
+
+            plt_obj.close()
+            print(f"Wykres zapisany do PDF: {file_path}")
+            return True
+
+        except Exception as e:
+            print(f"Błąd podczas zapisywania do PDF: {e}")
+            import traceback
+            traceback.print_exc()
+            return False
