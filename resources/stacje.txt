@@ -1,0 +1,3271 @@
+51.024413 17.3055222 Oławska 194, 55-220 Jelcz-Laskowice
+50.443556 16.249667 1 Maja 25A, 57-350 Kudowa-Zdrój
+51.206745 16.180519 Stanisława Moniuszki 2, 59-220 Legnica
+50.6882288 16.4449561 3 Maja 26, 58-320 Walim
+51.0820339 16.9023667 Cedrowa 1, 54-433 Smolec
+51.09367844 17.02146763 Powstańców Śląskich 82A, 53-333 Wrocław
+51.04807 16.960276 Czekoladowa 9, 55-040 Bielany Wrocławskie
+51.2611373 15.5812306 aleja Tysiąclecia 26, 59-700 Bolesławiec
+50.783062 16.036734 aleja Wojska Polskiego 21, 58-400 Kamienna Góra
+51.2620481 15.5986212 Główna 1A, 59-700 Kruszyn
+51.0828997 17.0360174 Żegiestowska 1, 50-542 Wrocław
+51.1304902 17.0780325 Toruńska 73, 51-414 Wrocław
+51.10376565 17.0524013 ul. Walońska 17, 50-413 Wrocław
+50.785266 16.251949 Ratuszowa 6, 58-304 Wałbrzych
+51.505519 16.064973 Młyńska 4, 59-100 Polkowice
+51.094791 17.028638 Komandorska 66, 53-342 Wrocław
+51.1361598 17.06757722 Długosza 59-75, 21-162 Wrocław
+51.051618 16.972197 Francuska 6, 55-075 Bielany Wrocławskie
+51.186196 16.171504 Roberta Schumana 11, 59-200 Legnica
+50.822203 16.288844 Henryka Wieniawskiego 19, 58-300 Wałbrzych
+51.063007 16.999406 al. Karkonoska 47, 53-015 Wrocław
+51.13636067 17.08058422 Brucknera 38, 51-411 Wrocław
+51.13909053 17.08161493 Brucknera 54, 51-411 Wrocław
+51.0835 17.0511 Aleja Armii Krajowej 46, 50-541 Wrocław 46, 50-541 Wrocław
+50.505574 16.732737 Kolejowa 22 _, 57-526 Bardo
+51.1861752 16.83222523 Bolesława Chrobrego 26, 55-330 Brzezina
+51.0501474 16.198675 Piłsudskiego 7, 59-400 Jawor
+51.02719855 17.3327058 Sowia 22a, 55-220 Jelcz Laskowice
+50.3411296 16.87316862 Śnieżna 45, 57-540 Lądek Zdrój
+51.1746225 16.1704621 Jaworzyńska 257, 59-220 Legnica
+51.20411104 16.17979316 Rzeczypospolitej 12, 59-220 Legnica
+51.1989719 16.2119218 Sikorskiego 3, 59-220 Legnica
+50.7123083 16.0038562 Esperantystów 1, 59-800 Lubań
+51.40398103 16.17192404 Jana Pawła II 78, 59-300 Lubin
+51.5270181 17.2772268 Armii Krajowej 56, 56-300 Milicz
+50.94405145 17.2860293 Kilińskiego 4, 55-200 Oława
+50.9505822 17.27865399 Kutrowskieego 48, 55-200 Oława
+51.5830179 15.9539103 Mechaniczna 1G, 59-160 Radawanice
+50.85647567 16.48513429 Henryka Pobożnego 3, 58-100 Świdnica
+50.8550546 16.5124852 Przemysłowa 1a, 58-100 Świdnica
+50.84959 16.474104 Zamenhofa 10, 58-100 Świdnica
+50.864886 16.319693 Łączna 43, 58-160 Świebodzice
+51.0299253 17.1210593 Wojska Polskiego 12A, 86-105 Świecie
+51.1020887 17.1169667 Bacciarellego 56, 51-649 Wrocław
+51.1228788 16.9738081 Eugeniusza Horbbaczewskiego 22, 54-130 Wrocław
+51.0961874 16.9345041 Gagarina 19, 54-620 Wrocław
+51.1177731 16.9452458 Rogowska 119, 54-440 Wrocław
+51.049855 17.0585819 Sarnia 1, 52-129 Wrocław
+51.1231686 16.9255147 Żernicka 207, 54-510 Wrocław
+50.59293385 16.81093858 1 Maja 9a, 57-200 Ząbkowice Śląskie
+50.6040118 17.04388 Stawowa 2B, 57-220 Ziębice
+51.11557393 15.90905049 Hoża 11A, 59-500 Złotoryja
+51.11272819 17.02496865 Wszystkich Świętych 25, 50-136 Wrocław
+50.505306 16.403592 Bolesława Chrobrego 9, 57-420 Radków
+51.26281949 15.5757122 Hutnicza 7A, 59-700 Bolesławiec
+51.095945 17.021727 Powstańców Śląskich 15-17, 53-332 Wrocław
+51.20797 16.1347931 Chojnowska 150, 59-220 Legnica
+51.07991 17.020283 aleja Dębowa 21, 53-121 Wrocław
+50.815085 15.429853 Jakuszyce 8, 58-580 Szklarska Poręba
+51.099016 17.03841 Piłsudskiego 105 105, 50-085 Wrocław
+51.162378 15.02874 Słowiańska 7, 59-900 Zgorzelec
+51.023196 16.760833 Handlowa 4, 55-080 Kąty Wrocławskie
+51.338024 15.631673 Lipiany 34, 59-700 Bolesławiec
+51.02392526 17.15307316 Opolska 36, 55-011 Siechnice
+50.945891 14.915059 Młodych Energetyków 12, 59-916 Bogatynia
+51.309684 15.724304 RÓŻYNIEC 85, 59-706 GROMADKA
+51.0195 16.9039 ul. Rozwoju 3, 55-040 Biskupice Podgórne
+51.0986823 16.9286857 Rakietowa -, 54-621 Wrocław
+51.0986823 16.9286857 Rakietowa -, 54-621 Wrocław
+51.02660702 14.94640917 Krzewina 1, 59-916 Krzewina
+51.107318 16.948437 Graniczna 2, 54-610 Wrocław
+51.206986 16.153116 Chojnowska 41, 59-220 Legnica
+51.207384 16.190982 Marsa 30, 59-220 Legnica
+51.108361 17.040444 plac Dominikański 3, 50-159 Wrocław
+51.389942 16.216531 Prof. J. Zwierzyckiego 3, 59-300 Lubin
+50.84041 16.497023 Westerplatte 29, 58-100 Świdnica
+50.452213 16.637201 Noworudzka 2, 57-300 Kłodzko
+50.766219 16.265977 1 maja 64, 58-300 Wałbrzych
+51.20848 16.181638 Gwiezdna 4, 59-220 Legnica
+50.402187 16.391393 ul. Fryderyka Chopina dz. nr 290/24 -, 57-340 Duszniki Zdrój
+51.365695 17.468419 Pl. Piastów i Rynek, na działkach nr 51/2, 54/17, 117 i 119 0, 56-416 Twardogóra
+51.3350899 16.6476593 Rynek 34, 56-100 Wołów
+51.1099537 16.8818639 Graniczna 190, 54-530 Wrocław
+51.0987019 17.0263055 Powstańców Śląskich 7, 53-332 Wrocław
+51.1586667 15.014916 ul. Lubańska 9a, 59-900 Zgorzelec
+51.1049996 17.0466645 Haukego-Bosaka 22, 50-447 Wrocław
+51.303789 17.754843 Szosa Kępińska 81, 56-500 Syców
+50.411598 16.503634 Dębowa 19B, 57-320 Polanica-Zdrój
+50.411599 16.503635 Dębowa 19B, 57-320 Polanica-Zdrój
+50.411545 16.50365 Dębowa 19B, 57-320 Polanica-Zdrój
+50.411546 16.503651 Dębowa 19B, 57-320 Polanica-Zdrój
+50.894826 15.746547 Sudecka 63, 58-500 Jelenia Góra
+50.77181 15.763182 Obrońców Pokoju 5, 58-540 Karpacz
+50.413579 16.503095 Górska 2, 57-320 Polanica-Zdrój
+50.737989 16.794275 Gola Dzierżoniowska 21, 58-217 Gola Dzierżoniowska
+51.2613319 15.5720309 Popiełuszki 2, 59-700 Bolesławiec
+51.046585 16.961297 Czekoladowa 5, 55-040 Bielany Wrocławskie
+51.0478848 16.9552799 Czekoladowa 5, 55-040 Bielany Wrocławskie
+51.176876 15.033013 DK94 98b, 59-900 Jędrzychowice, Poland DK94, 59-900 Jędrzychowice
+51.1107642 17.0438813 Jana Ewangelisty Purkyniego 10, 50-156 Wrocław
+50.881 15.632556 Jeleniogórska 36, 58-560 Wojcieszyce
+50.7817737 15.7233339 Karkonoska 41, 58-540 Karpacz
+50.47511706 16.34123492 Karłów 6A, 57-350 Karłów
+51.09272833 17.03176667 Sieradzka 7, 50-568 Wrocław
+51.1221721 16.9895731 Legnicka 62, 54-204 Wrocław
+50.7756907 17.0791162 Kazimierza Pułaskiego 2, 57-100 Strzelin
+51.109158 17.025643 Kazimierza Wielkiego -, 50-043 Wrocław
+51.200114 16.213354 Generała Władysława Sikorskiego 3, 59-220 Legnica
+51.303211 15.726711 Osła 1H, 59-706 Osła
+51.408798 16.197661 Marii Skłodowskiej-Curie 48, 59-301 Lubin
+51.435552 16.156082 Marii Skłodowskiej-Curie 182 _, 59-301 Lubin
+51.188056 16.121667 KGHM, ul. Złotoryjska 194 _, 59-223 Legnica
+51.678722 15.995682 KGHM, ul. Żukowicka 1 _, 67-200 Głogów
+51.3357179 15.4332483 Kliczków 8, 59-724 Kliczków
+50.3339085 16.8798137 Kościuszki 78, 57-540 Lądek-Zdrój
+50.576222 16.656083 Krótka 1, 57-215 Srebrna Góra
+51.0522595 17.0142485 Kustronia 26, 52-007 Wrocław
+51.38119 16.197039 Kwiatowa 11, 59-300 Lubin
+51.64892758 16.06177717 Piłsudskiego 15, 67-200 Głogów
+51.39654486 16.21726856 Ścinawska 20, 59-300 Lubin
+51.47487 15.40555 Handlowa 1, 67-100 Rudno
+51.1279673 16.8798491 Piołunowa 18, 54-530 Wrocław
+51.210431 15.237604 Godzieszów 37D, 59-730 Godzieszów
+51.11897 16.990606 Legnicka 58, 54-204 Wrocław
+51.04916 16.968464 Tyniecka 3, 55-040 Bielany Wrocławskie
+50.8423656 16.4659476 Marii Skłodowskiej-Curie 7, 58-100 Świdnica
+51.1283859 17.04556185 Antoniego Słonimskiego 2, 50-304 Wrocław
+51.241168 17.499627 S8, MOP Jonas Północ _, 56-400 Poniatowice
+50.956016 17.076391 MOP Krajków Południe A4, 55-020 Krajków
+51.305899 15.720984 Różyniec 83BA, 59-706 Różyniec
+50.906155 15.734827 Mostowa 2, 58-500 Jelenia Góra
+50.9061248 15.7349244 Mostowa 2, 58-500 Jelenia Góra
+51.05563531 16.97743412 Karkonoska 81, 53-015 Wrocław
+51.0325 17.151389 Jana Pawła II 12, 55-011 Siechnice
+51.04572461 16.97111759 Wrocławska 1F, 55-040 Bielany Wrocławskie
+51.252006 16.160587 Legnicka 1, 59-222 Rzeszotary
+51.154695 17.128039 Wilanowska 2, 51-206 Wrocław
+50.7588957 16.3267252 Noworudzka 4B, 58-308 Wałbrzych
+51.09849 17.0247547 Powstańców Śląskich 7, 53-332 Wrocław
+50.49372 16.4578 Noworudzka 9, 57-411 Wambierzyce
+51.11025 17.038194 Świętego Wita 1, 50-141 Wrocław
+51.117897 16.99569967 Legnicka 48, 54-202 Wrocław
+50.82025 15.52175 Okrzei 17, 58-580 Szklarska Poręba
+51.31702805 15.59669399 Kraśnik Dolny A4, 59-700 Kraśnik Dolny
+51.30779648 15.57009888 Łąka 28A, 59-700 Łąka
+51.22624969 17.20555687 Łosice 30, 55-095 Mirków
+51.22455597 17.20025063 Łosice 30, 55-095 Mirków
+51.0728035 16.21528816 MOP Jawor Wschód S3, 00-000 Jawor
+51.07292175 16.21193123 MOP Jawor Zachód S3, 00-000 Jawor
+51.43797302 16.89719391 Morzęcino S5, 55-140 MOP Morzęcino Zachód
+51.25864029 17.04458237 Wisznia Mała S5, 55-114 MOP Wisznia Mała
+51.12683487 17.0460186 Jedności Narodowej 156, 50-303 Wrocław
+51.13043976 16.96651649 Szybowcowa 27, 54-130 Wrocław
+51.08425903 17.0247345 Ślężna 129A, 53-301 Wrocław
+51.11639023 17.0236454 Księcia Witolda 55, 50-203 Wrocław
+51.09824753 16.99272919 Grabiszyńska 187, 53-234 Wrocław
+51.15675354 15.02843285 Słowiańska 1, 59-903 Zgorzelec
+50.34639962 16.88576488 Parkowa 25, 57-540 Lądek-Zdrój
+51.112962 17.059357 plac Grunwaldzki 22, 50-363 Wrocław
+51.552803 16.039895 Sucha Górna 3, 59-101 Sucha Górna
+50.342822 16.884821 plac Marii Skłodowskiej-Curie 3, 57-540 Lądek-Zdrój
+51.10685 17.0268846 plac Wolności 1, 50-071 Wrocław
+50.148544 16.667061 plac Wolności 1, 57-530 Międzylesie
+50.758722 15.847417 Podgórze 55, 58-530 Kowary
+50.906246 15.731966 Podwale 25, 58-500 Jelenia Góra
+51.215029 17.405759 Oliwkowa 1, 56-400 Oleśnica
+51.135537 17.064301 Jana Długosza 60a, 51-162 Wrocław
+51.061633 16.999312 Aleja Karkonoska 54, 53-015 Wrocław
+51.061663 16.999298 Aleja Karkonoska 54, 53-015 Wrocław
+51.04680266 16.97082803 Wrocławska 1, 55-040 Bielany Wrocławskie
+51.381444 16.195556 Legnicka 69, 59-300 Lubin
+51.138972 17.082444 Al. Brucknera 55, 51-411 Wrocław
+51.13860769 17.08201049 Aleksandra Brucknera 55, 51-411 Wrocław
+50.725799 16.34096 Poznańska 17, 58-330 Jedlina-Zdrój
+50.4271087 16.538764 Szalejów Górny 146 -, 57-314 Szalejów Górny
+51.41115467 16.18615473 Hutnicza 2, 59-300 Lubin
+51.103534 17.031818 Świdnicka 40, 50-024 Wrocław
+51.017401 16.754001 Popiełuszki 21, 55-080 Kąty Wrocławskie
+51.04191544 16.94667363 Czekoladowa 5 Amazon, 55-040 Bielany Wrocławskie
+51.1768941 15.03233247 Jedrzychowice 98B DK94, 59-900 Jędrzychowice
+50.9083728 15.3285778 Sienkiewicza 21, 59-850 Świeradów-Zdrój
+51.0552954 16.9762695 aleja Karkonoska 81, 53-015 Wrocław, Polska #, 53-015 Wrocław
+51.03619 15.41331 Przemysłowa 4, 59-620 Gryfów Śląski
+50.784314 16.26062 Ludowa 1 D, 58-300 Wałbrzych
+51.077971 17.069332 Gazowa 3, 50-513 Wrocław
+51.16658 15.02593 Słowiańska 13a, 59-900 Zgorzelec
+51.216555 16.954544 Długa -, 55-114 Szewce
+51.55273311 16.87530497 Topolowa stacja paliw, 55-140 Korzeńsko
+50.450059 16.640528 Objazdowa 26A, 57-300 Kłodzko
+51.18563698 15.0511717 Jędrzychowice 114, 59-900 Zgorzelec
+51.037316 16.593695 Granitowa 7, 55-311 Kostomłoty
+50.443473 16.247297 Stanisława Moniuszki 2A, 57-350 Kudowa-Zdrój
+50.86831 16.296498 Jeleniogórska 52, 58-160 Świebodzice
+50.86831 16.296498 Jeleniogórska 2, 58-160 Świebodzice
+51.077527 17.047105 Świeradowska 70, 50-559 Wrocław
+51.4402932 16.0899071 Szklary Górne 29, 59-335 Lubin
+50.919348 16.099257 Szpitalna 16, 59-420 Bolków
+51.1011989 17.0410141 Tadeusza Kościuszki 82, 50-441 Wrocław
+51.035222 16.991028 Templariuszy 1, 55-040 Ślęza
+50.4093466 16.5149027 Tranzytowa 30, 57-320 Polanica-Zdrój
+50.7753497 15.7451365 Konstytucji 3 Maja 77, 58-540 Karpacz
+51.31013 17.063008 Plac Piłsudskiego 1, 55-100 Trzebnica
+50.7722977 15.7375184 Turystyczna 1A, 58-540 Karpacz
+50.85301241 16.48522547 Kazimierza Odnowiciela 1, 58-100 Świdnica
+51.664722 16.089278 Starowałowa _, 67-210 Głogów
+50.86275 15.7284268 ul. Zdrojowa 2, 58-500 Staniszów
+51.420069 16.184289 Marii Skłodowskiej - Curie 97D, 59-301 Lubin
+50.750315 16.420551 Wodna 1, 58-321 Zagórze Śląskie
+50.830861 15.513389 Wojska Polskiego 11, 58-580 Szklarska Poręba
+50.8047168 16.2530632 Wojska Polskiego 21, 58-310 Szczawno-Zdrój
+50.4137852 16.4467494 Wolności 2, 57-330 Szczytna
+51.0972866 17.0340187 Sucha 1, 50-086 Wrocław
+51.1113503 17.0024076 ul. Robotnicza 42a, 53-608 Wrocław
+50.829801 16.304834 Wrocławska 189, 58-306 Wałbrzych
+51.1184254 17.02076 Romana Dmowskiego 13, 50-203 Wrocław
+50.2435113 16.6315104 Zdrojowa 22, 57-520 Długopole-Zdrój
+51.1487008 15.0145505 Bohaterów II Armii Wojska Polskiego skrzyżowanie z S. Ba, 59-900 Zgorzelec
+50.3390169 16.3832434 Zieleniec 72, 57-340 Duszniki-Zdrój
+50.3370887 16.38587 Zieleniec 72, 57-340 Duszniki-Zdrój
+50.4435149 16.8783797 Złota 9, 57-250 Złoty Stok
+52.8692575 17.9478625 --- -, 88-190 Barcin-Wieś
+52.568107 19.013065 Autostrada Bursztynowa 1, 87-853 Ludwinowo
+52.567386 19.01218 Autostrada Bursztynowa 2, 87-853 Ludwinowo
+53.1432581 18.1307625 prof.Sylwestra Kaliskiego 7, 85-796 Bydgoszcz
+53.1244682 18.0093874 3 Maja 6, 85-016 Bydgoszcz
+53.128786 17.993257 Adama Naruszewicza 108, 85-230 Bydgoszcz
+53.1402969 17.5929241 aleja Mickiewicza 7, 89-100 Nakło nad Notecią
+53.483533 18.747419 Chełmińska 4, 86-300 Grudziądz
+53.146826 18.130654 Bydgoszcz 32, 85-950 Bydgoszcz
+53.126378 18.082702 Fordońska 225, 85-739 Bydgoszcz
+53.187466 19.037024 Lipnica 22, 87-207 Lipnica
+53.13658 18.114005 Mariana Rejewskiego 3, 85-791 Bydgoszcz
+53.114208 18.055876 AUDI/VW PLICHTA ul. Nowotoruńska 15, Bydgoszc _, 85-880 Czynne: pn.- pt. 7.00 - 18.00, sob. 7.00-14.0
+53.09641681 17.90392362 Szosa Szubińska 87b, 85-312 Białe Błota
+53.097726 18.041416 Białogardzka 16, 85-808 Bydgoszcz
+53.113667 17.9848762 Kossaka 17, 85-307 Bydgoszcz
+53.1281435 18.0221935 Sportowa 13, 85-091 Bydgoszcz
+53.1669743 18.1646662 Wyzwolenia 106, 85-790 Bydgoszcz
+53.1144369 17.9689302 Żwirki i Wigury 11C, 85-310 Bydgoszcz
+52.7961144 18.2662891 Świętego Ducha 42, 88-100 Inowrocław
+52.67417206 18.33290783 Tadeusza Kościuszki 31/34, 88-150 Kruszwica
+53.5861032 17.87434081 Warszawska 19, 89-500 Tuchola
+52.84941605 17.71881236 Szpitalna 2, 88-400 Żnin
+53.111919 17.991975 Bielicka 31, 85-135 Bydgoszcz
+53.195588 17.968873 Biwakowa 30/3, 85-483 Bydgoszcz
+53.447599 18.727233 Macieja Rataja 2, 86-300 Grudziądz
+53.109414 17.996 Brzozowa 72, 85-154 Bydgoszcz
+53.007917 18.597278 Bulwar Filadelfijski 11, 87-100 Toruń
+53.124296 18.017516 Jagiellońska 39, 85-097 Bydgoszcz
+53.594736 17.908132 Plaskosz 7D, 89-500 Tuchola
+52.939945 19.25163 Chrostkowo 99 _, 87-602 Chrostkowo
+53.6203658 18.2586444 Czerska 11, 86-150 Tleń
+52.67342022 18.32394568 Zamkowa 3, 88-150 Kruszwica
+53.135283 17.992965 Zygmunta Augusta 7 7, 85-082 Bydgoszcz
+52.88388443 18.79073906 Warzelniana 1, 87-720 Ciechocinek
+53.10309601 19.05308533 Sienkiewicza 4, 87-400 Golub-Dobrzyń
+53.0443573 18.59881592 Adama Freytaga 5, 87-100 Toruń
+53.05002975 18.58136749 Zbożowa 39A, 87-100 Toruń
+53.01846313 18.59107971 Józefa Bema 31, 87-100 Toruń
+53.01389313 18.58360863 Józefa Bema 124A, 87-100 Toruń
+53.0182457 18.56846619 Jurija Gagarina 126, 87-100 Toruń
+53.01540756 18.59805679 Czerwona Droga 2-6, 87-100 Toruń
+53.01192856 18.60196495 Fosa Staromiejska 20, 87-100 Toruń
+53.00920868 18.60128784 Mikołaja Kopernika 47, 87-100 Toruń
+53.01115799 18.61519432 Poniatowskiego 13, 87-100 Toruń
+53.02462387 18.6344986 Żółkiewskiego 1-5, 87-100 Toruń
+53.02640533 18.66392136 Ignacego Łyskowskiego 11, 87-100 Toruń
+53.01879883 18.67307472 Przy Skarpie 4A, 87-100 Toruń
+53.02715683 18.69352722 Kosynierów Kościuszkowskich 7, 87-100 Toruń
+53.05182648 18.70945168 Nad Strugą 132B, 87-100 Toruń
+53.02807236 18.66721725 Władysława Dziewulskiego 1, 87-100 Toruń
+53.01387787 18.61373329 Plac Św. Katarzyny 9, 87-100 Toruń
+53.0372467 18.63937187 Polna 109, 87-100 Toruń
+52.97573853 18.67732239 Zdrojowa 8-10, 87-100 Toruń
+53.02433395 18.61818314 Jana Brejskiego 2-4, 87-100 Toruń
+53.0008049 18.61306 Kujawska 7, 87-100 Toruń
+53.01279068 18.61869812 Stanisława Skrzyńskiego 2, 87-100 Toruń
+53.0335083 18.60364151 Kozacka 21, 87-100 Toruń
+53.03184128 18.59560204 Jana Mohna 34, 87-100 Toruń
+53.02251434 18.61207771 Grudziądzka 60, 87-100 Toruń
+52.99562454 18.61743355 gen. Hallera 79, 87-100 Toruń
+53.02719116 18.62676239 Dworcowa 8, 87-100 Toruń
+53.02107239 18.61162758 Grudziądzka 53, 87-100 Toruń
+53.01534653 18.61538506 Wały gen. Sikorskiego 35, 87-100 Toruń
+53.01720428 18.6136055 Przy Kaszowniku 37A, 87-100 Toruń
+53.01605225 18.5713501 Reja 25, 87-100 Toruń
+53.0246315 18.65722275 Ludwika Rydygiera 9, 87-100 Toruń
+53.03120041 18.67131424 Tymona Niesiołowskiego 21, 87-100 Toruń
+53.02222443 18.67119408 Konstytucji 3 Maja 3C, 87-100 Toruń
+53.0279274 18.68888092 Ludwika Kolonkowskiego 4, 87-100 Toruń
+52.97636795 18.56338692 Szubińska 15, 87-100 Toruń
+53.02739334 18.70195198 Olimpijska 22, 87-100 Toruń
+53.0273819 18.67936325 Dziewulskiego 38, 87-100 Toruń
+52.6555481 19.06636047 Plac Wolności 3/4, 87-800 Włocławek
+52.66032028 19.07142067 Stary Rynek 11, 87-800 Włocławek
+52.65409088 19.07001877 Miedziana 2/4, 87-800 Włocławek
+52.65385818 19.06040955 Okrzei 66, 87-800 Włocławek
+52.65901947 19.07778931 Bechiego 4, 87-800 Włocławek
+52.66159821 19.06971931 Zamcza 16, 87-800 Włocławek
+52.65583038 19.06015968 Ludwika Bauera 3, 87-800 Włocławek
+52.66421127 19.06304359 Piwna 1A, 87-800 Włocławek
+52.65922928 19.04598999 Wysoka 12, 87-800 Włocławek
+52.66733551 19.03922081 Promienna 7, 87-800 Włocławek
+52.68217087 19.01037979 Toruńska 148, 87-800 Włocławek
+52.66437149 19.04361916 Budowlanych 8, 87-800 Włocławek
+52.65393829 19.12387657 Płocka 145, 87-800 Włocławek
+52.65370941 19.08703041 Celulozowa 27, 87-800 Włocławek
+52.64332962 19.09000015 Ostrowska 8, 87-800 Włocławek
+52.6426506 19.07663918 Al. Fryderyka Chopina 10, 87-800 Włocławek
+52.64987946 19.04957962 Kolska 131, 87-800 Włocławek
+52.64151001 19.03771973 Wodna 96A, 87-800 Włocławek
+52.64830017 19.05699921 Żeromskiego 9-17, 87-800 Włocławek
+52.67137909 19.07242966 Grodzka 2, 87-800 Włocławek
+52.64445877 19.03492928 Cypriana Kamila Norwida 1, 87-800 Włocławek
+52.63903046 19.04949951 Kaliska 89A, 87-800 Włocławek
+52.63618851 19.04684067 Fredry 10, 87-800 Włocławek
+52.65166855 19.05887985 Węglowa 10, 87-800 Włocławek
+52.66889191 19.02984047 Promienna 4, 87-800 Włocławek
+52.6599617 19.02865982 Wieniecka 49, 87-800 Włocławek
+52.60654831 19.01880074 Kościelna 8, 87-800 Włocławek
+52.61091995 19.0248394 Szkolna 14, 87-800 Włocławek
+52.64531326 19.09295464 Żytnia 49, 87-800 Włocławek
+53.144025 17.949301 Filtrowa 1/4, 85-467 Bydgoszcz
+53.12550499 18.01925234 Jagiellońska 39-47, 85-097 Bydgoszcz
+53.1202725 18.0555694 Fordońska 74, 85-719 Bydgoszcz
+53.024944 18.637723 Stanisława Żółkiewskiego 15, 87-100 Toruń
+53.12392283 18.06752249 Fordońska 141, 85-739 Bydgoszcz
+52.783659 18.242694 Wojska Polskiego 16, 88-110 Inowrocław
+53.119284 17.953491 Generała Antoniego Madalińskiego 267, 85-331 Bydgoszcz
+53.486038 17.807919 Słoneczna 4, 89-520 Gostycyn
+52.95195471 17.91951517 Plac 1000-lecia 1, 89-210 Łabiszyn
+53.1207444 17.9925167 Grudziądzka 9/15, 85-130 Bydgoszcz
+53.137493 17.955687 Grunwaldzka 205, 85-451 Bydgoszcz
+53.48982451 18.75848937 Piłsudskiego 18, 86-300 Grudziądz
+53.132153 18.120304 Skandynawska 1, 85-776 Bydgoszcz
+53.48629062 18.7608955 Rapackiego 19, 86-300 Grudziądz
+53.123267 18.010524 Jagiellońska 27, 85-097 Bydgoszcz
+53.141932 18.151685 Fordońska 408 dz. nr 344, 85-752 Bydgoszcz
+53.145354 18.157026 Jana Brzechwy 151, 85-752 Bydgoszcz
+53.116345 17.972238 Kcyńska 199, 204, 85-312 Bydgoszcz
+53.418416 18.474515 Morsk 26, 86-100 Morsk
+52.644335 19.061205 Kruszyńska 13, 87-812 Włocławek
+53.1387335 18.1077039 Mariana Rejewskiego 5B, 85-796 Bydgoszcz
+53.4542653 17.6532604 Komierowo 1, 89-400 Sępólno Krajeńskie
+53.126668 18.01114 Księdza Ryszarda Markwarta 4, 85-015 Bydgoszcz
+53.36608 18.006606 Pomorska 73, 85-051 Bydgoszcz
+52.7858938 18.2527864 Prymasa Józefa Glempa 2, 88-100 Inowrocław
+53.3070229 17.9518863 Aleje Wolności 8B, 86-010 Koronowo
+53.1403058 17.6030853 Księdza Piotra Skargi 13A, 89-100 Nakło Nad Notecią
+53.138857 17.978191 Ludwikowo 11, 85-502 Bydgoszcz
+53.104018 18.013217 al. Jana Pawła II 123, 85-140 Bydgoszcz
+53.0390242 18.6860483 M.Skłodowskiej-Curie 105, 87-100 Toruń
+53.111822 17.996929 Marii Konopnickiej 119/12, 85-124 Bydgoszcz
+52.84960852 17.69856078 Aliantów 33G, 88-400 Żnin-Wieś
+53.142714 18.03266 Modrzewiowa 2/1, 85-674 Bydgoszcz
+53.1069461 18.0741989 Mokra 30, 85-834 Bydgoszcz
+52.761561 18.855861 Przywieczerzyn, 87-732 Lubanie -, 87-732 Lubanie
+52.761078 18.855861 Autostrada Bursztynowa -, 87-732 Lubanie
+53.348035 18.709346 Działowo 27, 87-214 Płużnica
+53.341232 18.70666 Działowo 27, 87-214 Płużnica
+53.14893 17.49342 Stawowa 1, 89-110 Śmielin
+53.261209 19.386365 Sądowa 16, 87-300 Brodnica
+53.096352 17.890039 Sosnowa 9, 86-005 Białe Błota
+52.986956 18.464571 Sosnowa 42, 87-165 Cierpice
+53.52798 18.504089 Leśna 25, 86-131 Jeżewo
+52.982191 18.822184 Zawały 101, 87-123 Dobrzejewice
+52.889919 18.406878 Dworcowa 10, 88-140 Gniewkowo
+53.148477 19.134237 Konstancjewo 3A, 87-400 Golub-Dobrzyń
+52.692664 17.76991 Gołąbki 5, 88-420 Rogowo
+53.57582 18.92515 Jamy 5, 86-318 Rogóźno
+53.473147 17.443536 Lutówko 18, 89-400 Lutówko
+52.591846 18.168991 Miradz 12, 88-320 Strzelno
+53.596679 18.345974 Rynek 11, 86-150 Osie
+53.327769 17.45312 Runowo Krajeńskie 55, 89-421 Runowo Krajeńskie
+53.016728 19.631492 Leśna 5, 87-510 Skrwilno
+53.016438 17.7525 Szubin Wieś 52, 89-200 Szubin
+53.037168 18.616344 Polna 34/38, 87-100 Toruń
+53.631885 18.153563 Trzebciny 30, 89-505 Małe Gacno
+52.637054 19.036692 Ziębia 13, 87-800 Włocławek
+53.669687 17.910195 Woziwoda 3, 89-504 Legbąd
+53.472324 17.896936 Zamrzenica 1A, 89-510 Bysław
+53.215875 18.058793 Parkowa 4A, 86-031 Osielsko
+52.859722 17.713369 Mickiewicza 37, 88-400 Żnin
+53.033347 18.709469 Sieradzka 14, 87-100 Toruń
+53.14681055 18.01029899 Zaświat 7, 85-685 Bydgoszcz
+53.12351728 18.01000984 Jagiellońska 21, 85-097 Bydgoszcz
+52.65527725 18.9291935 KS. Romana Jałocho 40, 87-880 Brześc Kujawski (Machnacz)
+52.67606354 18.19868088 Busewo 11, 88-320 Busewo
+53.1443634 18.15529633 Fordońska 419, 85-790 Bydgoszcz
+53.13726425 17.96184731 Grunwaldzka 142, 85-429 Bydgoszcz
+52.90073395 18.72458076 MOP Otłoczyn A1, 87-700 Otłoczyn
+53.41900635 18.47573853 Morsk 25, 86-100 Świecie
+52.99237442 18.63389015 Łódzka 83/85, 87-100 Toruń
+53.03652954 18.67436028 Marii Skłodowskiej-Curie 88, 87-100 Toruń
+52.70039749 18.96360016 Toruńska 282, 87-805 Włocławek
+53.6905886 18.1014843 Okoniny Nadjeziorne 65, 89-530 Śliwice
+53.126118 18.053156 Marii Skłodowskiej-Curie 33, 85-733 Bydgoszcz
+53.46906 18.7528 Konarskiego 43, 86-311 Grudziądz
+53.169778 18.162462 Pelplińska 96, 85-794 Bydgoszcz
+53.135755 18.126746 VW PLICHTA Fordońska 264 Bydgoszcz _, 85-790 Czynne: pn.- pt. 7.00 - 18.00, sob. 7.00-14.0
+53.033875 18.728638 SKODA PLICHTA Toruńska 85 Lubicz Dolny _, 87-162 Czynne: pn.- pt. 7.00 - 18.00, sob. 7.00-14.0
+53.024431 18.645387 VW PLICHTA Wschodnia 38 Toruń _, 87-100 Czynne: pn.- pt. 7.00 - 18.00, sob. 7.00-14.0
+53.394944 18.300333 Poledno 2, 86-122 Poledno
+53.13613473 18.12522507 Fordońska 339, 85-796 Bydgoszcz
+53.02021886 18.64258977 Szosa Lubicka 19, 87-100 Toruń
+53.160358 17.908213 Rekinowa 137, 85-436 Bydgoszcz
+53.149938 18.025815 Rekreacyjna 1, 85-687 Bydgoszcz
+52.870739 18.756298 Nowy Ciechocinek 9, 87-700 Nowy Ciechocinek
+52.625375 18.969308 Pikutkowo 45, 87-880 Pikutkowo
+52.689676 18.987797 Salon VW Wątarski, Toruńska 169 _, 87-800 Włocławek
+53.171303 17.968575 Smukalska 1/16, 1/28, 85-555 Bydgoszcz
+53.1272581 18.0230737 Sportowa 2, 85-091 Bydgoszcz
+53.061554 18.061977 Grzybowa b/n dz. nr 9/125, 05-367 Bydgoszcz
+53.034158 18.599526 Legionów 220, 87-100 Toruń
+52.64242966 19.06961137 Komunalna 4, 87-810 Włocławek
+52.752658 18.114069 Przemysłowa 5, 88-160 Janikowo
+52.93440085 19.26437277 JANISZEWO 54, 87-602 Chrostkowo
+53.120839 17.966519 Stawowa 120, 85-323 Bydgoszcz
+53.5806923 17.8754238 Świecka 89A, 89-500 Tuchola
+53.10855 18.046452 Szarych Szeregów 98/6, 85-829 Bydgoszcz
+53.115256 17.961971 Szubińska 23/72, 85-312 Bydgoszcz
+53.276643 19.409378 VW i SKODA KAMIŃSKI, Olsztyńska 5, Brodnica _, 87-300 Czynne: pn.- pt. 8.00 - 18.00, sob. 8.00-14.0
+53.3176026 19.5580238 Wielki Głęboczek 1, 87-313 Wielki Głęboczek
+53.129801 18.116452 Wiślana 9/13, 85-773 Bydgoszcz
+53.152258 18.124189 Wojciecha Łochowskiego 23, 85-796 Bydgoszcz
+52.8528528 19.180275 Wojska Polskiego 16, 87-600 Lipno
+53.12645828 17.97949015 Wrocławska 3, 85-211 Bydgoszcz
+53.116064 18.01079 Wojska Polskiego 1, 85-171 Bydgoszcz
+53.15039153 18.13801522 Fieldorfa Nila 12A, 85-796 Bydgoszcz
+53.134277 17.991671 Zygmunta Augusta 17/6, 18, 85-009 Bydgoszcz
+51.20619609 22.59771669 Głuska 24, 20-381 Lublin
+51.24937521 22.60263655 Gospodarcza 34.0, 20-211 Lublin
+51.20495689 22.54198757 Nałkowskich 211, 20-470 Lublin
+51.27617712 22.5719439 Spółdzielczości Pracy 68, 20-960 Lublin
+51.21356021 22.64224659 Piasecka 2, 20-283 Świdnik
+51.21801592 22.69859647 Spółdzielcza 4, 21-045 Świdnik
+51.2076584 22.68827893 Zbożowa 1, 21-040 Świdnik
+51.237829 22.568727 Aleje Zygmuntowskie 4, 20-101 Lublin
+51.243189 22.574158 Aleja Unii Lubelskiej 10, 20-108 Lublin
+51.7487531 22.2530406 SGO Polesie 4, 21-412 Adamów
+51.3367 22.0049 Nałęczowska 56, 24-120 Bochotnica
+51.14408203 23.45563095 Rejowiecka 120, 22-100 Chełm
+51.12571628 23.4821593 Wojsławicka 6, 22-100 Chełm
+50.796166 23.902842 Kolejowa 43, 22-500 Hrubieszów
+50.7086929 22.4186729 Sienkiewicza 46, 23-300 Janów Lubelski
+50.9317328 22.2253922 Chopina 12, 23-200 Kraśnik
+51.2705675 22.4910916 Szpakowa 4, 59-300 Lubin
+51.2262473 22.4792072 Gęsia 16, 20-719 Lublin
+51.2326046 22.5984382 Pogodna 48, 20-337 Lublin
+51.27664363 22.5072981 Sławinkowska 49b, 20-810 Lublin
+51.2083858 22.5709811 Zemobrzycka 78, 20-450 Lublin
+51.9223577 22.3791095 Wrocławska 3A, 68-300 Lubsko
+51.304924 22.892468 Szkolna 49, 21-010 Łęczna
+51.9803965 22.78072029 Partyzantów 6b, 21-560 Międzyrzec Podlaski
+52.07089818 23.60310799 Wojska Polskiego 81/83, 21-550 Terespol
+51.2705675 22.4910916 Główna 3, 20-803 Lublin
+51.602293 21.942824 Przemysłowa 12b, 08-500 Ryki
+52.0501426 23.1132442 Jana III Sobieskiego 7, 21-500 Biała Podlaska
+51.2305298 22.4829166 Aleja Kraśnicka 128, 20-718 Lublin
+51.139788 23.454789 Lubelska 133A, 22-100 Chełm
+51.251066 22.60002 Turystyczna 1, 20-207 Lublin
+51.232139 22.614528 Wincentego Witosa 32, 20-315 Lublin
+51.212113 22.645503 GG AUTO ul. Piasecka 18, Świdnik _, 21-040 Czynne: pn.- pt. 8.00 - 18.00, sob. 8.00-14.0
+50.98127933 23.16956955 Sikorskiego 10, 22-300 Krasnystaw
+51.25466431 22.55277814 Al. Kompozytorów Polskich 1, 20-848 Lublin
+51.23905227 22.57321453 Fabryczna 2 2, 20-301 Lublin
+51.639736 21.913061 Warszawska 59E, 08-500 Ryki
+51.247345 22.500158 Wojciechowska 29, 20-704 Lublin
+52.033978 23.068073 Warszawska 129, 21-500 Biała Podlaska
+50.9279894 22.2498475 Przemysłowa 24, 23-200 Kraśnik
+51.19424 22.436917 Zemborzyce Tereszyńskie 97A _, 20-515 Lublin
+51.42613 21.948457 Dęblińska 1, 24-100 Puławy
+51.282566 22.570065 Aleja Spółdzielczości Pracy 86, 20-147 Lublin
+51.282582 22.573622 Aleja Spółdzielczości Pracy 86, 20-147 Lublin
+50.99475682 23.15252195 Polewana 6, 22-300 Krasnystaw
+51.561546 21.843951 15 Pułku Piechoty Wilków 4, 08-530 Dęblin
+51.2789368 22.5406359 Mirosława Dereckiego 0, 20-875 Lublin
+51.2131799 22.543819 Diamentowa 19, 20-471 Lublin
+51.989108 22.7790111 Warszawska 36, 21-350 Międzyrzecz Podlaski
+51.4144918 21.988966 Lubelska 51A, 24-100 Puławy
+51.2144806 22.6890998 Aleja Lotników Polskich 58, 21-040 Świdnik
+50.7394541 23.2492958 Generała Władysława Sikorskiego 5, 22-400 Zamość
+51.247042 22.549135 Grottgera 2, 20-029 Lublin
+51.245032 22.54988 Lipowa 13, 20-020 Lublin
+51.23207 22.59492 Łabędzia 2, 20-325 Lublin
+51.2361569 22.599737 Chemiczna 5, 20-329 Lublin
+50.530781 22.709314 Aleja Jana Pawła II 51, 23-400 Biłgoraj
+51.19418673 22.58427435 Abramowicka 45, 20-067 Lublin
+51.28757 22.216164 Stanisława Augusta Poniatowskiego 2, 24-150 Nałęczów
+51.224465 22.612318 Droga Męczenników Majdanka 74A, 20-325 Lublin
+52.041422 23.157843 ul. Brzeska 170A _, 21-500 Biała Podlaska
+52.025019 23.123226 ul. Sidorska 2G _, 21-500 Biała Podlaska
+50.92927933 22.24893379 Lubelska 139, 23-200 Kraśnik
+51.23455429 22.49038887 Al. Kraśnicka 116A, 20-718 Lublin
+51.24211121 22.54127884 Głęboka 32, 20-001 Lublin
+51.26124747 22.56236951 Prof. A. Gębali 4, 20-093 Lublin
+51.222167 22.4635 Konopnica 157F, 21-030 Konopnica
+50.740436 23.25158 Lubelska 40, 22-400 Zamość
+51.9304733 22.3768381 Konwiktorska 10 -, 21-400 Łuków
+50.8983192 23.2588155 Kryniczki 120, 22-375 Izbica
+51.212181 22.6501 Aleja 1000 Lecia 6A, 21-040 Świdnik
+50.736972 23.248006 Lipowa 5, 22-400 Zamość
+51.23605 22.50078 Konstantynów 1 -, 20-400 Lublin
+51.219222 22.717944 aleja Armii Krajowej 24, 21-047 Świdnik
+51.3257587 21.950256 Tyszkiewicza 27, 24-120 Kazimierz Dolny
+51.249948 22.57614 Unii Lubelskiej 2, 20-108 Lublin
+51.6175 15.31163 Księżnej Żaganny 21, 68-100 Żagań
+51.9773016 15.48789997 Łężyca-Apartamentowa 1, 66-016 Zielona Góra
+51.9360674 15.5029218 aleja Konstytucji 3 Maja 1a, 65-805 Zielona Góra
+52.7267746 15.2185222 Aleje 11 Listopada 5, 66-400 Gorzów Wielkopolski
+52.34227367 15.75186791 Lutol Suchy 107, 66-304 Lutol Suchy
+52.080628 15.6190191 Armii Krajowej 51A, 66-100 Sulechów
+52.719385 15.252212 Koniawska 61 _, 66-400 Gorzów Wiekopolski
+52.23678121 15.54078469 Sulechowska 6, 66-200 Świebodzin
+52.74023 15.263137 VW BENEPOL Podmiejska 15A _, 66-403 Gorzów Wielkopolski
+52.76232101 15.27195396 Popławskiego 72, 66-400 Gorzów Wielkopolski
+51.96352627 14.72220903 Miodowa 28, 66-620 Gubin
+51.9470584 14.7278519 Śląska 25, 66-620 Gubin
+51.7514856 15.0088693 Graniczna 1, 68-320 Jasień
+52.058845 15.084283 Chopina 8, 66-600 Krosno Odrzańskie
+52.05639685 15.11295963 Wakacyjna 23, 66-600 Krosno Odrzańskie
+51.83435665 15.7094284 Zielonogórska 89, 67-100 Nowa Sól
+52.3483141 14.5679494 Wrocławska 9, 69-100 Słubice
+52.09365512 15.62342732 Styczniowa 31, 66-100 Sulechów
+51.56543135 15.54102064 Młynarska 25, 67-300 Szprotawa
+51.8010172 16.313848 Konradowska 4, 67-400 Wschowa
+51.615967 15.305736 E. Plater 6, 68-100 Żagań
+51.613741 15.3312977 Mikołaja Kopernika 10, 68-100 Żagań
+51.63713902 15.13644629 Artylerzystów 4, 68-200 Żary
+51.63522965 15.11936752 Katowicka 37, 68-200 Żary
+51.9378002 15.5609584 os. Kaszubskie 1, 65-548 Zielona Góra
+51.9767339 15.4863221 Iwestycyjna 1, 66-016 Zielona Góra
+51.97097839 15.54142108 Poznańska 11b, 65-137 Zielona Góra
+51.9565688 15.520336 Sulechowska 38, 65-119 Zielona Góra
+51.9303284 15.480337 Zachodnia 65, 65-552 Zielona Góra
+52.7316629 15.2251662 Bohaterów Warszawy 15, 66-400 Gorzów Wielkopolski
+52.697541 15.232011 Kasprzaka 8, 66-400 Gorzów Wielkopolski
+51.7780997 14.9633439 Budowlanych 2, 68-300 Lubsko
+52.7229041 15.2294189 Budowlanych 77, 66-400 Gorzów Wielkopolski
+52.760384 15.260378 Kombatantów 30, 66-400 Gorzów Wielkopolski
+51.958223 15.485954 Dekoracyjna 3, 65-409 Zielona Góra
+51.92592347 15.61637247 Nowy Kisielin - ul. Rozwojowa 7, 66-002 Zielona Góra
+51.92577087 15.6164736 Nowy Kisielin - ul. Rozwojowa 7, 66-002 Zielona Góra
+52.7007517 15.115928 Gorzowska 138, 66-450 Jenin
+52.20831345 15.37355172 Golfowa 1, 66-213 Kalinowo
+52.7345342 15.2239858 Chopina 45, 66-400 Gorzów Wielkopolski
+52.7317575 15.2448027 Hejmanowskiej 4, 66-400 Gorzów Wielkopolski
+52.7313251 15.2434468 Herberta 3, 66-400 Gorzów Wielkopolski
+52.7396181 15.22396 Mościckiego 12, 66-400 Gorzów Wielkopolski
+52.7645254 15.2643764 Obrońców Pokoju 42, 66-400 Gorzów Wielkopolski
+52.7545094 15.248243 Paderewskiego 66, 66-400 Gorzów Wielkopolski
+52.7282416 15.230507 Składowa 11, 66-400 Gorzów Wielkopolski
+52.73079804 15.23457305 Strzelecka -, 66-400 Gorzów Wielkopolski
+52.72518676 15.24526595 Targowa 10, 66-400 Gorzów Wielkopolski
+52.7565932 15.25109 Witosa 66, 66-400 Gorzów Wielkopolski
+52.58782621 15.47503706 Gorzowska 19A, 66-440 Skwierzyna
+52.464222 14.863472 Grunwaldzka 46, 69-220 Ośno Lubuskie
+52.4616417 15.1103109 Ignacego Daszyńskiego 57, 69-200 Sulęcin
+52.7391016 15.2190871 Fredry 10, 66-400 Gorzów Wielkopolski
+52.7514828 15.2255142 Dowbora-Muśnickiego 7, 66-400 Gorzów Wielkopolski
+52.741934 15.255232 Pomorska 71, 66-400 Gorzów Wielkopolski
+51.954378 15.478406 Zjednoczenia 118, 65-001 Zielona Góra
+52.31322486 14.64146823 Świecko 29, 69-100 Świecko
+51.807826 15.695905 Chałubińskiego 2, 67-100 Nowa Sól
+51.937216 15.516544 Lwowska 2, 65-225 Zielona Góra
+52.736739 15.199185 Myśliborska 33, 66-400 Gorzów Wielkopolski
+52.25107 15.505375 Zachodnia 82, 66-200 Świebodzin
+51.959656 15.539033 Kostrzyńska 5, 5, 65-127 Zielona Góra
+52.7174009 15.2539109 Koniawska 11, 66-400 Gorzów Wielkopolski
+52.736005 15.2106689 Matejki 50, 66-400 Gorzów Wielkopolski
+52.745718 15.2512229 Franciszka Walczaka 23G, 66-400 Gorzów Wielkopolski
+51.6174673 15.3092551 Księżnej Żaganny 21, 68-100 Żagań
+51.9591442 15.5344798 Gorzowska 2, 65-127 Zielona Góra
+51.560774 15.571097 Elektryczna 1, 67-300 Wiechlice
+52.78671 15.12053 Marwice Przy drodze S3, 66-432 Marwice
+52.78677 15.1173 Marwice Przy drodze S3, 66-432 Marwice
+52.74355594 15.25467598 Chemiczna 7, 66-400 Gorzów Wielkopolski
+52.138606 15.154097 Bytnica 160, 66-630 Bytnica
+52.7387143 15.2072838 Niemcewicza 478/2, 66-400 Gorzów Wielkopolski
+52.726861 15.243333 Przemysłowa 2, 66-400 Gorzów Wielkopolski
+51.8791899 16.0689988 Nowy Rynek 23c, 67-410 Sława
+51.89739411 15.56953085 Olimpijska 20, 66-004 Drzonków
+52.7450676 15.15620613 Złotego Smoka 1, 66-400 Gorzów Wielkopolski
+52.32503128 14.65295219 MOP Gnilec A2, 69-100 Gnilec
+51.90507126 15.59056664 Ługowo 110, 66-004 Zielona Góra
+51.90457153 15.58648872 Głogowska 119, 66-004 Zielona Góra
+52.32417679 14.65298653 MOP Sosna A2, 69-100 Sosna
+52.26024628 15.53341675 Wojska Polskiego 8, 66-200 Świebodzin
+52.955077 15.836691 Mierzęcin 1, 66-520 Dobiegniew
+52.761905 15.253926 Plac Jana Pawła II 2341, 66-400 Gorzów Wielkopolski
+52.760071 15.254127 Plac Jana Pawła II 415/3, 66-400 Gorzów Wielkopolski
+52.3139 15.78122 Chociszewo 101A, 66-304 Brójce
+52.31236 15.784015 Rogoziniec 11B, 66-210 Rogoziniec
+52.318981 15.08881 Sulęcińska 17, 66-235 Torzym
+52.34014828 14.84756514 Okrężna 17, 69-110 Rzepin
+52.7417818 15.2763901 Rondo Sybiraków 40, 66-400 Gorzów Wielkopolski
+51.52606878 15.22027576 Węzeł 18, 68-120 Iłowa
+52.31366427 14.6415949 DK29 -, 69-100 Świecko
+52.7442966 15.2159716 Słowiańska 16, 66-400 Gorzów Wielkopolski
+52.7392126 15.26886074 Podmiejska 20, 66-400 Gorzów Wielkopolski
+51.95547381 15.47021661 Naftowa 3, 65-705 Zielona Góra
+52.583257 15.02644 Skwierzyńska 46, 66-435 Krzeszyce
+52.33854 14.61626 Osiedle Przemysłowe 14, 69-100 Słubice
+52.26137 15.53389 Wojska Polskiego 10, 66-200 Świebodzin
+52.32151035 15.08659576 Sulęcińska 14, 66-235 Torzym
+51.63980759 15.12702426 Stanisława Moniuszki 34, 68-200 Żary
+51.93925 15.55878 Szosa Kisielińska 22, 65-247 Zielona Góra
+52.33795615 14.5901585 Transportowa 8, 69-100 Słubice
+52.3377458 14.5906452 Transportowa 8, 69-100 Słubice
+51.7873508 14.9772784 Traugutta 2, 68-300 Lubsko
+52.760984 15.264196 ul. Armii Krajowej 2154/6, 66-400 Gorzów Wielkopolski
+52.76106 15.234804 ul. Dekerta (parking przy SOR) 109/7, 66-400 Gorzów Wielkopolski
+52.762807 15.236888 ul. Dekerta 2322, 66-400 Gorzów Wielkopolski
+52.751145 15.226243 ul. Dowbora-Muśnickiego 258/8, 66-400 Gorzów Wielkopolski
+52.754913 15.232079 ul. Kazimierza Wielkiego 317, 66-400 Gorzów Wielkopolski
+52.751929 15.244112 ul. Piłsudskiego 2302, 66-400 Gorzów Wielkopolski
+52.737809 15.203322 ul. Rejewskiego 1323, 66-400 Gorzów Wielkopolski
+52.762737 15.264844 ul. Szarych Szeregów 2316, 66-400 Gorzów Wielkopolski
+52.754489 15.24151 ul. Wróblewskiego 636/12, 66-400 Gorzów Wielkopolski
+52.741333 15.253833 ul. Zamenhofa 2333, 66-400 Gorzów Wielkopolski
+51.939684 15.513678 Podgórna 7, 65-057 Zielona Góra
+51.95898 15.51758 Zdrojowa 2B, 65-142 Zielona Góra
+51.56786779 15.59240386 Wiechlice 45b, 67-300 Wiechlice
+52.725039 15.246823 Woskowa 1, 66-400 Gorzów Wielkopolski
+52.33436713 15.29293742 Zamkowa 3, 66-220 Łagów
+51.6127 15.173588 Armii Krajowej 39, 68-200 Żary
+52.7532348 15.2148675 Żwirowa 5, 66-400 Gorzów Wielkopolski
+51.9417111 15.5184983 Zyty 26, 65-046 Zielona Góra
+52.06947177 19.48026828 Kartuska 478, 80-298 Gdańsk
+54.357799 18.621408 Powstańców Warszawskich 45, 80-165 Gdańsk
+51.9693468 18.7910344 abp. Jakuba Świnki -, 99-210 Uniejów
+51.8860524 18.953601 Adama Mickiewicza 26, 99-200 Poddębice
+51.80012706 19.45779068 Rysownicza 52, 91-855 Łódź
+51.2249926 18.56484293 Głowackiego 41A, 98-300 Wieluń
+51.704736 19.477528 Aleja Matek Polskich -, 90-001 Łódź
+51.7345242 19.5831027 Aleja Ofiar Terroryzmu 11 Września 11, 92-410 Łódź
+51.754358 19.45723 aleja Tadeusza Kościuszki 128, 90-451 Łódź
+51.7462236 19.452584 aleje Politechniki 10, 90-924 Łódź
+51.7343125 19.45267 aleje Politechniki 91, 93-590 Łódź
+51.800645 19.425515 aleja Włókniarzy 91-348, 91-348 Łódź
+52.253978 19.2000471 Pomarzany 10a, 99-340 Pomarzany
+51.3919 19.405235 Dobrzelów 79A, 97-400 Dobrzelów
+51.757431 19.42651 Unii Lubelskiej 2, 90-001 Łódź
+51.714178 19.459601 Al. Władysława Bartoszewskiego 13, 93-341 Łódź
+51.750585 19.509337 Niciarniana 51/53, 92-320 Łódź
+52.78001 18.25958 Poznańska 100A, 88-100 Inowrocław
+50.78146032 16.26854726 Ludowa 58, 58-304 Wałbrzych
+51.80647 19.370192 Szczecińska 38A _, 91-222 Łódź
+51.366062 19.368216 Kościuszki 9, 97-400 Bełchatów
+52.230129 19.371213 Grunwaldzka 3, 99-300 Kutno
+51.37106215 18.4267431 Wieruszowska 44, 98-360 Lututów
+52.0576381 19.205978 Belwederska 1, 99-100 Łęczyca
+51.71692825 19.47328254 Łazowskiego 44, 93-379 Łódź
+51.7244111 19.4426971 Pabianicka 79, 93-486 Łódź
+51.71001225 19.47876763 Paradna 39, 93-345 Łódź
+51.74300039 19.61012455 Rokicińska 366/368, 92-620 Łódź
+51.7921259 19.4393367 Srebrna 4, 91-316 Łódź
+51.7928373 19.40862634 Woronicza 5, 92-430 Łódź
+51.7101333 19.4792625 Katarzynów 1, 99-400 Łowicz
+51.4012077 19.673187 Dmowskiego 28B, 97-300 Piotrków Trybunalski
+51.601615 18.95715 Długa 3, 98-220 Zduńska Wola
+51.602293 21.942824 Przemysłowa 12b, 08-500 Ryki
+52.7074674 15.2398386 Kasprzaka 6G, 66-400 Gorzów Wielkopolski
+53.38655427 14.64126711 Hangarowa 17, 70-767 Szczecin
+51.623476 19.235043 Wrocławska 18A _, 95-082 Dobroń
+51.632833 19.437306 Czyżeminek 63, 95-030 Czyżeminek
+51.771958 19.438299 Żeligowskiego 8/10 _, 90-753 Łódź
+51.661264 19.357101 Grobelna 8a, 95-200 Piabianice
+51.404868 19.660257 Aleja Generała Władysława Sikorskiego 13/17, 97-300 Piotrków Trybunalski
+51.07065062 19.4381619 Reymonta 48, 97-500 Radomsko
+51.30795456 18.36304922 Prusak 23, 98-420 Prusak
+51.795776 19.505596 Brzezińska 17 _, 90-103 Łódź
+51.983841 18.792177 Długa 7, 99-210 Uniejów
+51.7744679 19.4679327 Doktora Seweryna Sterlinga 27, 90-212 Łódź
+51.75706 19.4429 Łąkowa 29 Parking zewnętrzny, 90-554 Łódź
+51.764278 19.470389 Dowborczyków 18, 90-019 Łódź
+51.7607444 19.470775 Dowborczyków 36, 90-001 Łódź
+51.765472 19.469444 Dowborczyków 9, 90-019 Łódź
+51.7796036 19.4447386 Drewnowska 58, 91-002 Łódź
+51.779697 19.443892 Drewnowska 58, 91-002 Łódź
+51.75768204 19.53507845 Beli Bartoka 74, 92-530 Łódź
+52.07806778 19.19752312 Topola Królewska 67, 99-100 Topola Królewska
+51.744592 19.454033 Franciszkańska 1/5, 91-431 Łódź
+51.596944 18.725167 Wojska Polskiego 11, 98-200 Sieradz
+51.759186 19.465127 Al. J. Piłsudskiego 15/23, 98-420 Łódź
+51.353306 19.375717 Kolejowa 6, 97-400 Bełchatów
+51.892532 19.593571 Warszawska 1, 95-010 Stryków
+52.278959 19.39442 Sójki 1, 99-300 Sójki
+51.364775 19.38373 1 Maja 63, 97-400 Bełchatów
+51.70107101 19.41304031 Pabianicka 255, 93-457 Łódź
+51.22614 18.586372 Warszawska 8, 98-300 Wieluń
+52.219238 19.462149 Kaszewy Kościelne 23A, 99-314 Kutno
+51.900575 19.706463 IONITY MOP Nowostawy (dir. Poznan) A2, 95-061 Nowostawy
+51.897673 19.706832 IONITY MOP Nowostawy (dir. Warsaw) A2, 95-061 Nowostawy
+51.08204629 19.37518839 Portowa 14, 97-500 Radomsko
+51.7655092 19.4599796 Juliana Tuwima 7, 90-010 Łódź
+51.735848 19.479073 Jana Kilińskiego 296, 93-160 Łódź
+51.752161 19.533388 Puszkina 50, 92-516 Łódź
+51.749784 19.587817 Rokicińska 199, 92-620 Łódź
+51.81935422 19.30148172 Plac Kościuszki 7, 95-070 Aleksandrów Łódzki
+51.7623417 19.4083028 Konstantynowska 8, 94-303 Łódź
+51.4618224 18.8324394 Krótka 3, 98-260 Burzenin
+54.16353 15.59745 Dobrawy 1, 78-100 Kołobrzeg
+51.8006866 19.4221772 Pojezierska 93, 90-001 Łódź
+51.37089 19.3729051 Sienkiewicza 42, 97-400 Bełchatów
+51.7904627 19.4316132 Bolesława Limanowskiego 103/105, 91-334 Łódź
+51.7231927 19.441308 Pabianicka 116, 93-486 Łódź
+51.7877368 19.3879075 Traktorowa 21, 91-116 Łódź
+51.7980308 19.382524 Wici 3 3, 91-157 Łódź
+51.76675431 19.44725457 ul. Żeromskiego 48-50 0, 90-626 Łódź
+51.592988 18.7239932 Łokietka 2, 98-200 Sieradz
+51.5309676 20.0167341 Mościckiego 35, 97-200 Tomaszów Mazowiecki
+53.40830366 14.69867701 Goleniowska 64, 70-830 Szczecin
+51.757508 19.444989 Łąkowa 42, 90-050 Łódź
+51.76358816 19.4994554 al, Piłsudskiego 100, 92-318 Łódź
+51.761171 19.486716 al. marsz. Józefa Piłsudskiego 85, 92-332 Łódź
+51.5943891 18.9610838 Łódzka 27, 98-220 Zduńska Wola
+51.0839793 19.3794912 Łódzka 2A -, 97-500 Radomsko
+51.79398 19.510694 Brzezińska 27/29, 92-103 Łódź
+53.1460219 23.081051 al. Jana Pawła II 92, 15-704 Białystok
+51.771869 19.424915 Kasprzaka 8, 91-083 Łódź
+51.7620557 19.5364196 Rokicińska 78, 92-302 Łódź
+51.2201296 19.2496523 Milenijna 13a, 97-410 Żłobnica
+51.762823 19.48528 Dr. Stefana Kopcińskiego 62, 90-032 Łódź
+51.357443 18.522718 MOP Chojny S8, 98-360 Lututów
+51.527129 18.697421 MOP Dąbrowa Wielka S8, 98-200 Dąbrowa Wielka
+52.006854 19.544799 Autostrada A1 1, 95-015 Głowno
+52.006185 19.54292 Autostrada A1 1, 95-015 Głowno
+51.634377 19.437799 MOP I GUZEW PN 1 dz. nr 143, 144/5, 95-030 Rzgów
+52.035628 18.878598 Autostrada Wolności A2 1, 99-140 Kozanki Wielkie
+53.799582 19.7911073 Miałki szlak 4 S7, 14-140 Majdany Wielkie
+52.034104 18.877432 Autostrada Wolności A2 1, 99-140 Zaborów
+51.764749 19.431252 6 Sierpnia 90-001, 90-001 Łódź
+50.57436029 19.31736535 Pułaskiego 6, 42-300 Myszków
+51.684852 19.477148 Łódzka 40, 95-030 Rzgów
+51.728328 19.489944 Niższa -, 93-258 Łódź
+51.802919 19.448719 Ul. E. Orzeszkowej 31/35, 91-479 Łódź
+51.92730713 20.46288872 Zawady 45A, 96-111 Kowiesy
+51.75208664 19.53511238 Przybyszewskiego 327, 92-423 Łódź
+51.79597473 19.50954247 Brzezińska 25, 91-041 Łódź
+51.74022675 19.42092514 Obywatelska 181B, 94-104 Łódź
+51.75810623 19.55469322 Rokicińska 140, 92-412 Łódź
+51.78236008 19.48345184 Aleja Grzegorza Palki 7, 91-725 Łódź
+51.79039764 19.41962624 Lutomierska 143, 91-041 Łódź
+51.57379532 18.93542862 Paprotnia 23a, 98-161 Paprotnia
+51.70163727 19.60411072 Giemzów 59, 95-006 Wiśniowa Góra
+51.70380783 19.60361099 Kamieńca Podolskiego 10, 93-645 Wiśniowa Góra
+51.75094223 20.24302864 Katowicka 3, 96-200 Rawa Mazowiecka
+51.718704 19.436295 Pabianicka 119/131, 93-490 Łódź
+51.733203 19.455614 Pabianicka 56, 93-513 Łódź
+52.2311703 19.36107163 Plac Wolności 28, 99-300 Kutno
+51.754596 19.572788 ul. Rokicińska 164/166 _, 92-412 Łódź
+51.7598002 19.457113 Piotrkowska 157a, 90-440 Łódź
+51.757778 19.459 Piotrkowska 172/180, 90-368 Łódź
+51.772878 19.470667 plac Generała Henryka Dąbrowskiego 4, 90-249 Łódź
+51.761214 19.476094 Plac Zwycięstwa -, 90-001 Łódź
+51.78001308 19.48300922 Pomorska 106A, 91-402 Łódź
+51.702432 19.414165 Pabianicka 245, 93-457 Łódź
+51.083795 19.379472 Portowa 8 12, 97-500 Radomsko
+51.887362 19.384299 Sadowa 4, 95-100 Lućmierz
+51.70839974 19.48773838 Kolumny 1, 93-610 Łódź
+51.70844693 19.48774902 Kolumny 1, 93-610 Łódź
+51.75458086 19.57318519 Rokicińska 164, 92-412 Łódź
+51.75473431 19.57215543 Rokicińska 164, 92-412 Łódź
+51.4608848 19.7814851 Proszenie 1B, 97-320 Wolbórz
+52.53760099 17.589754 Łaskiego 8, 62-200 Gniezno
+51.647276 19.487228 Żeromskiego 8, 95-030 Rzgów
+54.43297074 18.5805713 Bitwy pod Płowcami 54, 81-731 Sopot
+51.809714 19.372156 Ratajska 57, 91-231 Łódź
+53.849022 20.965401 Biskupiec-Kolonia Trzecia 21, 11-300 Biskupiec-Kolonia Trzecia
+51.6048831 18.8493936 Stawiszcze 6, 98-200 Grabowiec
+51.44138848 19.67979097 Cała 45E, 97-300 Piotrków Trybunalski
+51.794684 19.591891 Byszewska 3A, 92-701 Łódź
+51.414958 19.676769 Wojska Polskiego 102 _, 97-300 Piotrków Trybunalski
+51.723629 19.482672 Rzgowska 142/146 _, 93-311 Łódź
+51.762725 19.5405639 Służbowa 2, 92-305 Łódź
+51.779167 19.459556 Solna 15, 90-001 Łódź
+51.7286443 19.39382316 Zamiejska 1, 91-001 Łódź
+51.760585 19.485421 Aleja marsz. Józefa Piłsudskiego 73, 90-329 Łódź
+51.881793 19.583552 DK14 25, 95-010 Stryków
+51.408216 19.646485 aleja Generała Władysława Sikorskiego 52, 97-300 Piotrków Trybunalski
+51.686056 18.985583 Łaska 7, 98-240 Szadek
+51.985585 19.910367 Kościelna 9, 99-420 Łyszkowice
+51.7652169 19.5117157 aleja Piłsudskiego 138, 92-230 Łódź
+51.792825 19.488925 Strykowska 11, 91-726 Łódź
+51.5199368 20.0276343 Strzelecka 24/26, 97-200 Tomaszów Mazowiecki
+51.5056215 19.8879239 Studzianki 29a, 97-320 Wolbórz
+51.7585694 19.5262173 Św. Brata Alberta Chmielowskiego -, 90-001 Łódź
+51.810656 19.385442 św. Teresy od Dzieciątka Jezus 105, 91-222 Łódź
+51.762371 19.491686 al. marsz. Józefa Piłsudskiego 86, 92-202 Łódź
+51.70258304 19.65956554 Rokicińska 45, 95-006 Bukowiec
+51.5306123 20.0056503 plac Tadeusza Kościuszki 11, 97-200 Tomaszów Mazowiecki
+51.8769509 19.5341215 Kiełmina 78, 95-010 Stryków
+51.8826188 19.6110045 ul. Cesarka 2, 95-010 Stryków
+53.61069397 22.06047457 Plac Adama Mickiewicza 25, 12-230 Biała Piska
+51.6115536 19.2157414 Wakacyjna 11, 98-100 Łask
+51.759781 19.453992 Wólczańska 112, 90-057 Łódź
+51.7531201 19.4561857 Wólczańska 180, 90-530 Łódź
+51.773036 19.451153 Wólczańska 9, 90-720 Łódź
+51.77868736 19.45247196 Ogrodowa 8, 91-062 Łódź
+51.7411028 19.5658028 Zakładowa 56, 92-402 Łódź
+51.781358 19.453784 Zgierska 2, 91-002 Łódź
+49.4871388 20.6514832 --- 302, 33-343 Rytro
+50.35746 20.04601 Racławicka 45B, 32-200 Miechów
+49.9989703 19.4123998 aleja 3 Maja 2, 32-640 Zator
+50.08640158 19.97573015 Aleja Generała Tadeusza Bora-Komorowskiego 25, 31-476 Kraków
+50.085795 19.975512 Aleja Generała Tadeusza Bora-Komorowskiego 25, 31-476 Kraków
+50.016926 20.992942 aleja Matki Bożej Fatimskiej 17A, 33-100 Tarnów
+49.981211 19.910658 Góra Libertowska 2, 32-031 Libertów
+49.3979 20.24555 DŁUGA 138 ANKAR GARNITURY, 34-442 ŁAPSZE NIŻNE
+49.294355 19.950042 Zaruskiego 5 _, 34-500 Zakopane
+50.008227 21.002192 Gumniska 34 _, 33-100 Tarnów
+49.995213 20.038419 Krakowska 33 _, 32-020 Wieliczka
+49.33334117 20.09646554 Kościuszki 183, 34-530 Bukowina Tatrzańska
+49.60294852 20.72221473 Wiśniowieckiego 123, 33-300 Nowy Sącz
+49.46552718 20.02449278 Szaflarska 170, 34-400 Nowy Targ
+50.13641 19.39901 Henryka 54, 32-500 Chrzanów
+50.144573 19.39697 Śląska 30D, 32-500 Chrzanów
+50.0811838 19.8629133 Balicka 157, 30-149 Kraków
+50.27844 19.58017 Kolberga 1, 32-300 Olkusz
+50.18952548 20.29624694 Kolejowa 13, 32-100 Proszowice
+50.24429383 20.08119595 Żeromskiego 4, 32-090 Słomniki
+50.12208714 20.6211468 Krakowska 134, 32-820 Szczurowa
+50.0119302 20.92427008 Czerwonych Klonów 9, 33-100 Tarnów
+50.1569083 19.4805333 Młoszowska 47, 32-540 Trzebinia
+50.085999 20.073464 Blokowa 3, 31-752 Kraków
+49.96974 20.433222 Pułaskiego Kazimierza gen. 1/4 Plac, 32-700 Bochnia
+50.0205 19.824611 Bolesława Śmiałego 60, 30-398 Kraków
+50.004699 21.008925 Braci Saków 5, 33-100 Tarnów
+50.039417 19.219333 Bulwary 2, 32-600 Oświęcim
+50.063609 20.007557 Centralna 53, 31-586 Kraków
+49.285353 19.971807 Tytusa Chałubińskiego 42a, 34-500 Zakopane
+50.142427 19.414569 Trzebińska 40, 32-500 Chrzanów
+49.963012 19.817964 Radziszowska 7, 32-050 Skawina
+49.352115 19.823004 Chochołów 400, 34-513 Chochołów
+50.0081216 20.9590367 Chyszowska 4, 33-100 Tarnów
+50.0109566 20.992021 Cicha 7, 33-100 Tarnów
+50.0629893 19.968996 Cystersów 21d, 31-553 Kraków
+49.9981791 20.9217574 Czarna Droga 77, 33-100 Tarnów
+49.421244 20.925936 Czarny Potok 28, 33-380 Krynica-Zdrój
+49.4075574 20.9322736 Czarny Potok 65, 33-380 Krynica-Zdrój
+50.064944 19.981583 Dąbska 5, 31-572 Kraków
+50.0199089 21.0070895 Długa 24, 33-100 Tarnów
+49.887205 20.080267 Zarabie 6J, 32-410 Dobczyce
+49.677043 20.077174 Spadochroniarzy 1, 34-730 Mszana Dolna
+49.728618 20.402062 Skrudlak 3, 34-600 Limanowa
+50.04459665 19.9679301 Powstańców Wielkopolskich 13E, 30-707 Kraków
+49.7181359 20.9594464 Zielona -, 38-325 Bobowa
+50.110029 19.84772 profesora Adama Rożańskiego 32, 32-085 Modlniczka
+50.0582994 19.9331447 Floriana Straszewskiego 17, 31-101 Kraków
+50.057438 19.912279 Focha 37, 30-119 Kraków
+50.12375605 19.87023174 Częstochowska 62, 32-085 Modlnica
+50.091643 19.896693 Stawowa 61, 31-346 Kraków
+50.005363 19.948685 Stanisława Stojałowskiego 12, 32-020 Kraków
+49.656649 21.16034 Ogrodowa 6, 38-300 Gorlice
+50.016862 21.000374 Słoneczna 29, 33-100 Tarnów
+50.053736 19.955881 Podgórska 34, 31-536 Kraków
+50.054545 19.955424 Podgórska 34, 31-536 Kraków
+50.06782395 19.94653804 Pawia 5, 31-154 Kraków
+50.067861 19.947389 Pawia 5, 31-154 Kraków
+49.978342 20.426879 Partyzantów 2a, 32-700 Bochnia
+49.5868889 20.67357438 Węgierska 168, 33-300 Nowy Sącz
+50.071549 19.895924 Armii Krajowej 18 _, 30-150 Kraków
+50.030278 21.003056 Nowodąbrowska 127, 33-100 Tarnów
+49.610957 19.953237 ul. Piłsudskiego dz. nr 3798/5 18, 34-700 Rabka Zdrój
+50.0173647 20.9900507 Goldhammera 14, 33-100 Tarnów
+49.9803402 19.9101704 Góra Libertowska 10, 30-444 Libertów
+50.014328 21.010117 Graniczna 2, 33-100 Tarnów
+49.553139 20.453727 Łącko 1050 _, 33-390 Łącko
+50.056389 19.962167 Grzegórzecka 69, 31-559 Kraków
+50.1061138 19.8410341 Handlowców 12, 32-089 Modlniczka
+50.1055427 19.8439304 Handlowców 2, 32-085 Modlniczka
+49.2975876 19.9568662 Henryka Sienkiewicza 6a, 34-500 Zakopane
+50.016673 20.9588946 Hodowlana 1C, 33-100 Tarnów
+49.9600613 20.5965001 Adama Mickiewicza 66 -, 32-800 Brzesko
+49.97320802 19.82304738 Kublińskiego 4, 32-050 Skawina
+49.379917 20.11263 Środkowa 63, 34-405 Białka Tatrzańska
+49.421695 20.926581 Czarny Potok 30, 33-380 Krynica-Zdrój
+49.421658 20.926607 Czarny Potok 30, 33-380 Krynica-Zdrój
+49.421604 20.926637 Czarny Potok 30, 33-380 Krynica-Zdrój
+49.421578 20.926661 Czarny Potok 30, 33-380 Krynica-Zdrój
+50.070452 19.89684 Armii Krajowej 11, 30-150 Kraków
+49.96326 20.598279 Pomianowska 2B, 32-800 Brzesko
+50.0815664 20.0479303 Bulwarowa 33, 31-751 Kraków
+49.994405 20.033681 Krakowska 14c, 32-020 Wieliczka
+49.3868 20.10652 Środkowa 167, 34-405 Białka Tatrzańska
+49.909169 20.603822 Uszew 502, 32-865 Uszew
+50.108521 19.837953 Kasztanowa 25, 32-085 Modlniczka
+50.06638342 19.96829301 Mogilska 53, 31-516 Kraków
+50.0788045 20.1344576 Igołomska 28m, 31-983 Kraków
+50.089289 19.8974552 Josepha Conrada 66, 31-357 Kraków
+49.988343 20.041313 Kościuszki 30, 32-020 Wieliczka
+49.989076 19.834399 Stanisława Chmielka 10, 32-050 Skawina
+49.4793702 20.0236281 Jana Kilińskiego 20, 34-400 Nowy Targ
+49.46520256 20.06067038 Jana Pawła II 120, 34-400 Nowy Targ
+50.0899512 19.9056472 Josepha Conrada 10, 31-357 Kraków
+50.14133075 19.40340049 Sądowa 4B, 32-500 Chrzanów
+49.45975 20.315278 Kamieniarska 30A, 34-440 Kluszkowce
+50.0678116 19.8020124 Kapitana Mieczysława Medweckiego 31, 32-083 Balice
+50.0840147 19.9356727 Bratysławska 4, 31-201 Kraków
+50.09048 20.006113 Osiedle Kombatantów 16A 0, 31-630 Kraków
+49.9768101 19.83342222 KRAKOWSKA 12, 32-050 SKAWINA
+49.870192 19.225371 Tadeusza Kościuszki 106, 32-650 Kęty
+49.980818 19.909194 Góra Libertowska 8, 30-444 Góra Libertowska
+50.091189 19.922382 Opolska 60A, 31-355 Kraków
+50.014152 21.011882 Lwowska 116, 33-100 Tarnów
+49.474417 20.016528 Kolejowa 165, 34-400 Nowy Targ
+50.071175 19.898114 Kołowa 8, 30-134 Kraków
+49.985488 20.052919 E. Dembowskiego 22, 32-020 Wieliczka
+50.071511 19.799616 Kpt. Mieczysława Medweckiego 1, 32-083 Balice
+50.0093942 20.9774278 Krakowska 37, 33-100 Tarnów
+50.14721714 19.38193284 Śląska 64, 32-500 Chrzanów
+49.383917 20.233389 Leśna 46, 34-442 Łapsze Niżne
+50.02875 19.198278 Leszczyńskiej 16, 32-600 Oświęcim
+50.10653 19.33314 Rouvroy 1, 32-590 Libiąż
+49.8780136 19.217732 Tadeusza Kościuszki 44, 32-650 Kęty
+50.1027625 19.9289584 Glogera 26, 31-222 Kraków
+49.4389269 20.3990233 Jagiellońska 153, 34-450 Krościenko nad Dunajcem
+50.13246706 19.6428789 Krakowska 35, 32-065 Krzeszowice
+50.1262862 19.8688706 Polna 1, 32-085 Modlnica
+49.62473 20.7154351 Lwowska 125, 33-300 Nowy Sącz
+50.0369238 19.2288893 Józefa Nojego 2A, 32-600 Oświęcim
+50.064865 19.950866 Lubicz 23, 31-503 Kraków
+50.015959 19.891244 Lubostroń dz 111/44, 30-383 Kraków
+50.012865 21.027811 Lwowska 205, 33-100 Tarnów
+49.6239931 20.7065807 Lwowska 80, 33-300 Nowy Sącz
+50.06375 20.00095 Aleja Pokoju 67, 31-580 Kraków
+50.064477 19.998967 aleja Pokoju 67, 31-580 Kraków
+50.0891667 19.8947222 Jasnogórska 2, 31-358 Kraków
+50.0099541 19.9291349 Zakopiańska 70A, 30-418 Kraków
+50.0158692 20.9869965 Mickiewicza 4, 33-100 Tarnów
+50.0350598 19.8193978 Mirowska 203, 30-244 Kraków
+49.8531863 19.5096716 Zakopiańska 64, 34-100 Jaroszowice
+50.047459 19.9297859 Monte Cassino 2, 30-337 Kraków
+49.998383 20.622566 Bagno -, 32-800 Brzesko
+49.998001 20.612562 Mokrzyska -, 32-800 Brzesko
+50.287353 19.538232 Wspólna 1, 32-300 Olkusz
+50.287908 19.538178 Wspólna 1A, 32-300 Olkusz
+49.849977 19.347296 Słowackiego 2E, 34-120 Andrychów
+49.468148 21.373868 Czarne 1, 38-307 Sękowa
+49.58698 20.673359 Węgierska 168, 03-330 Nowy Sącz
+49.285575 19.989106 Balzera 21d, 43-500 Zakopane
+49.298239 19.959656 Tadeusza Kościuszki 18, 34-500 Zakopane
+49.617348 20.716878 Al. Piłsudskiego 1, 33-300 Nowy Sącz
+49.61731805 20.71697725 Al. Piłsudskiego 1, 33-100 Nowy Sącz
+49.6253325 20.690625 Rynek 1, 33-300 Nowy Sącz
+49.469391 20.001804 Ludźmierska 44, 34-400 Nowy Targ
+50.087257 19.953461 Opolska 112, 31-355 Kraków
+50.1848307 19.8083315 Ojcowska 21, 32-089 Czajowice
+50.073338 19.80856 Olszanicka 174, 30-241 Kraków
+50.0812149 19.7740593 Aleksandrowice 130, 32-084 Aleksandrowice
+50.07124329 19.89355469 Armii Krajowej 21A, 30-150 Kraków
+50.06904221 19.97939491 Mogilska 122, 31-445 Kraków
+50.04587936 19.97729492 Nowohucka 71, 33-332 Kraków
+49.98469543 19.91225052 Zakopiańska 289, 30-435 Kraków
+50.07511902 19.91026688 Kazimierza Wielkiego 121, 30-081 Kraków
+50.07718277 19.94788933 Kamienna 18, 31-403 Kraków
+50.01033401 20.01005554 Erazma Jerzmanowskiego 39, 30-836 Kraków
+50.01772308 19.93224907 Zakopiańska 58D, 30-418 Kraków
+50.0882225 20.00544357 os. Strusia 24, 31-807 Kraków
+50.07889938 19.75838089 Morawica 285, 32-084 Morawica
+49.84228516 19.9288063 Jana Sobieskiego 17C, 32-400 Myślenice
+50.01712799 20.86192703 Wierzchosławice 852, 33-122 Wierzchosławice
+49.32134247 19.985569 Ustup 1B, 34-500 Zakopane
+50.16087341 19.44239807 Fabryczna 22, 32-540 Trzebinia
+49.290027 19.998212 Chłabówka 31a _, 34-500 Zakopane
+50.0267126 21.0014066 Osiedle Legionów Dąbrowskiego -, 33-100 Tarnów
+50.02219 21.012644 osiedle Zielone 3, 33-100 Tarnów
+49.2912324 19.9822785 Pardałówka 3b, 34-500 Zakopane
+50.042584 19.202185 Powstańców Śląskich 13, 32-600 Oświęcim
+50.01405 19.931312 ul. Zakopiańska 62, 30-418 Kraków
+49.425475 20.952345 Park Sportowy Imienia Juliana Zawadowskiego 4, 33-380 Krynica-Zdrój
+49.98808698 19.44100767 Parkowa 2, 32-640 Zator
+50.094868 19.950968 Siewna 30A/B szlaban 511471634, 31-231 Kraków
+50.0627605 19.9021971 Piastowska 18, 30-065 Kraków
+50.027668 19.788635 Piekary 363, 32-060 Piekary
+49.421994 20.954687 Piękna 23, 33-380 Krynica-Zdrój
+50.0240804 20.988933 Piłsudskiego 32, 33-100 Tarnów
+50.0555377 19.9319086 plac Na Groblach 24, 31-101 Kraków
+50.140855 19.861931 Plac Wspólnoty 1, 32-089 Szyce
+49.3004786 19.9861829 Podhalańska 70, 34-500 Zakopane
+50.074278 19.998909 Aleja Jana Pawła II 43, 31-000 Kraków
+50.0170605 20.1689297 Podłęże 168, 32-003 Podłęże
+50.0188322 20.1691872 Podłęże 247A, 32-003 Podłęże
+49.375139 20.009889 Jana Pawła II 250, 34-425 Biały Dunajec
+50.04519684 19.99742833 Myśliwska 68, 30-718 Kraków
+50.04570236 19.97127789 Klimeckiego 1, 30-705 Kraków
+50.10210352 19.92870224 Glogera 24, 31-222 Kraków
+49.723417 20.323417 Polna 354, 34-650 Tymbark
+49.9657895 19.8993169 Myślenicka 7, 32-031 Gaj
+50.0913579 19.9188479 Władysława Łokietka 83, 31-280 Kraków
+50.037028 19.948083 aleja Powstańców Śląskich 22, 30-570 Kraków
+50.047544 19.914247 Praska 34 A i B, 30-328 Kraków
+50.1075916 19.8486891 profesora Adama Rożańskiego 28, 32-089 Modlniczka
+49.9946594 20.4317161 Proszowska 123, 32-742 Bochnia
+50.0643392 19.9661238 Pułkownika Francesco Nullo 28, 31-543 Kraków
+50.130965 19.635831 Kolejowa 0, 32-065 Krzeszowice
+50.130965 19.635831 Kolejowa 0, 32-065 Krzeszowice
+49.564045 19.877722 Raba Wyżna 38, 34-721 Raba Wyżna
+50.07198 19.928588 Kościelna 1, 30-034 Kraków
+50.03353 19.81264 Kryspinów 502, 32-060 Kryspinów
+50.02158 20.985457 Romanowicza 1, 33-100 Tarnów
+50.0134989 20.9889981 Rybna 4, 33-100 Tarnów
+49.648682 19.8295786 Rynek 10, 34-240 Jordanów
+49.44099059 19.85390961 Rynek 15, 34-470 Czarny Dunajec
+49.982461 19.42159 SCANDINAVIA RESORT, Stawowa 11 _, 32-640 Zator
+49.998685 19.919157 SEAT INTER CAR NOWAK, Zakopiańska 167 _, 30-435 Kraków
+50.0696168 19.9877982 Lema 17, 31-572 Kraków
+50.063117 19.9079465 Aleja 3 Maja 51A, 30-062 Kraków
+49.834551 19.948633 Słoneczna 2D, 32-400 Myślenice
+50.017591 20.983534 Słowackiego 4, 33-100 Tarnów
+49.9856 20.04641 Kościuszki 15, 32-020 Wieliczka
+49.3886037 20.1019929 Środkowa 182, 34-405 Białka Tatrzańska
+50.081062 19.873861 Balicka 84, 30-149 Kraków
+50.011756 21.028151 Lwowska 199A, 33-100 Tarnów
+50.1712 19.472465 Piłsudskiego 103, 32-540 Trzebinia
+49.9885604 20.0161488 Marszałka Józefa Piłsudzkiego 18 -, 32-020 Wieliczka
+49.9885604 20.0161488 Marszałka Józefa Piłsudzkiego 18 -, 32-020 Wieliczka
+50.069575 21.019308 Lisia 1, 33-140 Brzozówka
+49.6475526 19.8866083 Naprawa 574 -, 34-240 Jordanów
+49.8805333 20.1493198 Stadniki 145, 32-410 Stadniki
+50.07836 19.894219 Stańczyka 5, 33-332 Kraków
+50.0109659 20.2063197 Staniątki 253, 32-005 Staniątki
+50.0290734 19.9092016 Stefana Grota-Roweckiego 28, 30-348 Kraków
+49.6999472 19.5602049 Straszywa 667, 34-205 Stryszawa
+49.2991375 19.9587674 Tadeusza Kościuszki 19, 34-500 Zakopane
+50.03523 21.00617 Błonie 5, 33-100 Tarnów
+49.655475 20.689496 Tarnowska 159, 33-395 Nowy Sącz
+50.086158 19.992295 Bora-Komorowskiego -, 31-876 Kraków
+49.980383 20.909215 Krakowska -, 33-113 Zgłobice
+49.608454 19.956602 Orkana 41, 34-700 Rabka Zdrój
+50.138479 19.888426 Władysława Hermana 18, 32-085 Giebułtów
+50.137244 19.423546 Szpitalna 45 _, 32-500 Chrzanów
+50.117917 19.920643 Krakowskie Przedmieście 116, 32-067 Zielonki
+50.076946 19.946428 Aleja 29 Listopada 22, 30-001 Kraków
+50.089056 19.946228 Opolska 100, 31-323 Kraków
+49.8678703 19.4087162 Wadowicka 167, 34-120 Inwałd
+49.5866601 20.6725395 Węgierska 170, 33-300 Nowy Sącz
+50.116678 19.968414 A10 56, 32-086 Węgrzce
+49.8756103 19.5132904 Wenecja 11, 34-100 Wadowice
+50.0301345 21.011471 Westerplatte 15, 33-100 Tarnów
+50.0398658 19.9647507 Wielicka 28, 30-552 Kraków
+49.430889 20.812111 Wierchomla Mała 42, 33-350 Wierchomla Mała
+49.2793188 19.8588141 Witów 322, 34-512 Witów
+50.031188 20.960232 Zagumnie 34A, 33-100 Tarnów
+50.301819 19.492584 Kluczewska 87, 32-329 Bolesław
+50.08345528 19.9295232 Wybickiego 3A, 31-261 Kraków
+49.748922 19.971339 Pcim 1180 _, 32-432 Pcim
+49.9981256 19.9197877 Zakopiańska 169A, 32-020 Kraków
+50.0077788 19.9246299 Zawiła 3, 30-435 Kraków
+50.0080196 19.8989387 Zawiła 61, 30-390 Kraków
+49.419449 20.320443 Widokowa 3, 34-441 Niedzica
+50.1194494 19.9284485 Galicyjska 21, 32-087 Zielonki
+52.266252 21.05774 Piotra Skargi 3a, 03-543 Warszawa
+51.834134 20.878183 Skurów 84, 05-600 Skurów
+52.298342 21.029867 Toruńska 90, 03-226 Warszawa
+51.6984957 20.929199 Promna-Kolonia 113, 26-803 Promna-Kolonia
+53.053486 21.529197 Warszawska 1, 07-415 Olszewo-Borki
+52.550631 19.676749 Kobylińskiego 29, 09-400 Płock
+52.2475334 20.979433 Okopowa 58/72, 01-042 Warszawa
+52.148896 21.045004 Aleja Komisji Edukacji Narodowej 61, 02-777 Warszawa
+52.1421984 20.9065234 Aleja Krakowska 5A, 05-090 Falenty
+52.20917913 21.00953795 Aleja Niepodległości 162, 02-521 Warszawa
+52.20901144 21.00811362 Aleja Niepodległości 162, 02-521 Warszawa
+52.1543123 21.0777123 Aleja Rzeczypospolitej 5, 02-972 Warszawa
+52.1743749 21.0498563 Aleja Wilanowska 122, 02-900 Warszawa
+52.1522062 20.7912304 Aleja Wojska Polskiego 127, 05-800 Pruszków
+52.190195 21.528856 Warszawska 63A, Stojadła 63A, 05-303 Stojadła
+51.391192 21.154314 Księcia Józefa Poniatowskiego 1, 26-600 Radom
+51.412509 21.130994 Stanisława Wernera 52, 26-601 Radom
+52.2575923 20.9828601 al. Jana Pawła II 82, 00-175 Warszawa
+52.23089 21.10512 Ostrobramska 75C, 04-175 Warszawa
+52.213096 20.951989 Aleje Jerozolimskie 148, 02-326 Warszawa
+52.303694 21.058305 Głębocka 15, 00-001 Warszawa
+52.29465 21.000062 Modlińska 8, 03-216 Warszawa
+52.096662 21.021319 Puławska 46, 05-500 Piaseczno
+52.536345 19.749637 Wyszogrodzka 140, 09-410 Płock
+52.291139 21.077652 Radzymińska 267, 03-643 Warszawa
+52.114697 20.859459 Aleja Katowicka 43, 05-870 Wolica
+51.38312525 21.16438626 Juliana Ursyna Niemcewicza 2/4, 26-611 Radom
+52.122625 21.012391 AUTO BLAK Farbiarska 25, Warszawa _, 02-862 Czynne: pn.- pt. 7.00 - 20.00, sob. 7.00-13.0
+52.18056 20.887959 Al. Jerozolimskie 249B _, 05-816 Michałowice
+52.538192 19.738038 ul. Wyszogrodzka 114 _, 09-410 Płock
+52.533801 19.763116 ul. Wyszogrodzka 154 _, 09-410 Płock
+52.212314 20.690106 VW BENEPOL Zaborowska 1, Święcice _, 05-860 Czynne: pn.- sob. 6.00-22.00
+51.6433423 20.9581674 Krakowska 88, 26-800 Białobrzegi
+52.73429638 20.00106721 Płońska 7, 09-210 Drobin
+51.976466 21.215337 Jagiellonów 8, 56-200 Góra
+52.3748765 20.9243674 Parkowa 2, 05-110 Jabłonna
+52.4775785 21.625605 Poniatowskiego 27A, 05-280 Jadów
+52.5272203 21.6816215 Lubelska 98-100, 21-100 Lubartów
+52.693394 22.049685 ul. Biegańskiego 74/7, 07-320 Małkinia Górna
+52.58880225 20.81273661 Elektronowa 3, 05-190 Nasielsk
+51.4363792 21.0079201 Natalin 46B, 26-652 Natalin
+52.55355447 19.70881531 Chopina 51, 09-402 Płock
+52.634581 20.363309 Młodzieżowa 28h, 09-100 Płońsk
+52.62478959 20.3875324 Pułtuska 60a, 09-100 Płońsk
+51.36757604 21.12363125 Sobótki 1a, 26-620 Radom
+51.4069674 21.1188446 Wandy Malczewskiej 9, 26-601 Radom
+51.3923148 21.1239946 Maratońska 23, 26-612 Radom
+52.3999838 21.1687388 Al. Jana Pawła II 66, 05-250 Radzymin
+52.1853 22.2736 Mieszka I 23, 08-119 Siedlce
+52.20035768 21.12139954 Bronowska 13, 03-995 Warszawa
+52.3465387 21.255947 Kościelna 56G, 05-200 Wołomin
+52.3906817 20.1877875 Mickiewicza 16, 09-450 Wyszogród
+51.355925 21.589657 Wyszyńskiego 8, 26-700 Zwoleń
+52.240843 21.026322 Leszczyńska 2B, 00-351 Warszawa
+52.216185 20.857882 Poznańska 46, 05-850 Jawczyce
+52.216185 20.857892 Poznańska 46, 05-850 Jawczyce
+52.185386 21.002943 Wołoska 22A, 02-675 Warszawa
+51.991328 20.5445088 Boczna 18, 96-325 Radziejowice-Parcel
+52.1681105 21.0009678 Bokserska 55, 02-690 Warszawa
+52.14004 21.052096 Braci Wagów 7, 02-791 Warszawa
+52.153116 21.0931448 Europejska 125, 02-964 Warszawa
+52.601502 21.439753 Piłsudskiego 48, 07-200 Wyszków
+52.235408 20.986765 Krochmalna 61, 00-844 Warszawa
+52.235344 20.986788 Krochmalna 61, 00-844 Warszawa
+52.3231624 20.8964294 Brukowa 46, 05-092 Łomianki
+52.1494053 22.3053143 Brzeska 181, 08-110 Siedlce
+52.1500253 22.3060964 Brzeska 181, 08-110 Siedlce
+52.18931 20.98437 Żwirki i Wigury 18, 02-092 Warszawa
+52.1904376 20.9824321 ul. Żwirki i Wigury 18, 02-092 Warszawa
+52.18931 20.98437 ul.Żwirki i Wigury 18, 02-092 Warszawa
+52.22997 21.023825 ul. Książęca 4, 00-498 Warszawa
+52.55299 19.69441 Przemysłowa 1, 09-400 Płock
+52.13588 20.894165 Mszczonowska 3, 05-090 Janki
+52.305124 21.087741 al. Marszałka Józefa Piłsudskiego 1, 05-270 Marki
+52.312969 21.184099 Józefa Poniatowskiego 97, 05-220 Zielonka
+52.0586264 20.8628634 Nadrzeczna 16, 05-552 Wólka Kosowska
+52.2354077 20.982505 Chłodna 51, 00-105 Warszawa
+52.2277454 20.9924931 Chmielna 132/134, 00-805 Warszawa
+52.195028 20.937306 Równoległa 2, 02-235 Warszawa
+52.22042699 20.91597405 Połczyńska 30, 01-337 Warszawa
+52.20607 20.8908255 Cykady 2, 02-401 Warszawa
+51.2642391 20.9351455 Czerwienica 25, 26-502 Jastrząb
+52.309809 21.080608 Geodezyjna 76, 03-290 Warszawa
+52.0878772 21.0209384 Puławska 42E, 05-500 Piaseczno
+52.39053235 20.92122835 Jerzego Siwińskiego 2, 05-120 Legionowo
+52.1845173 21.0120911 Domaniewska 30, 02-669 Warszawa
+52.1941677 21.0261622 Dominika Merliniego 4, 02-511 Warszawa
+52.22882 21.00287 Al.Jerozolimskie 54 54, 00-019 Warszawa
+52.233663 21.129241 SEAT, VW DYNAMICA, Płowiecka 17, Warszawa _, 04-501 Czynne: pn.- pt. 6.00 - 20.00, sob. 8.00 -12.
+51.357147 20.633858 Radomska 16d, 26-400 Przysucha
+52.17814 20.99689 Postępu 14, 02-676 Warszawa
+52.22731781 20.96192932 Marcina Kasprzaka 25, 01-224 Warszawa
+52.52955627 19.77563858 Harcerska 2, 09-410 Płock
+52.54877853 19.71827888 Otolińska 17F, 09-407 Płock
+52.53852844 19.73238945 Wyszogrodzka 106, 09-400 Płock
+52.54033279 19.75113869 Łączniczek 14, 09-410 Płock
+52.55947113 19.68377876 Plac Celebry Papieskiej 1, 09-400 Płock
+52.52999878 19.75102806 Al. Świętego Jerzego 1, 09-410 Płock
+52.54394531 19.7242775 Faustyna Piaska 6, 09-407 Płock
+52.54463959 19.71088982 Piłsudskiego 6, 09-400 Płock
+52.53811264 19.70013809 Warszawska 8, 09-402 Płock
+52.54727936 19.69005585 Królewiecka 3, 09-400 Płock
+52.54030609 19.75724983 Gen. Tadeusza Kutrzeby 2, 09-410 Płock
+52.53427887 19.75027847 Czwartaków 6, 09-410 Płock
+52.55669403 19.65225029 Medyczna 19, 09-400 Płock
+52.57088852 19.72644424 Bielska 66, 09-400 Płock
+52.5423317 19.69436073 Plac Obrońców Warszawy 8, 09-402 Płock
+52.53025055 19.68180656 Kolejowa 10, 09-401 Płock
+52.54138947 19.6867218 Rybaki 10, 09-401 Płock
+52.55169296 19.67691612 Kobylińskiego 30, 09-400 Płock
+52.5537796 19.68430519 Tysiąclecia 13, 09-400 Płock
+52.55333328 19.68738937 Tysiąclecia 7, 09-400 Płock
+52.49516678 19.68002892 Browarna 6, 09-401 Płock
+52.54700089 19.68547249 Kwiatka 51, 09-400 Płock
+52.54983139 19.69802856 Jana Kochanowskiego 3-1, 09-402 Płock
+52.169029 22.2876549 Eugeniusza Wiszniewskiego 4, 08-110 Siedlce
+52.2214848 20.9747105 Al. Jerozolimskie 134, 02-305 Warszawa
+52.1489714 21.0446763 Indiry Gandhi -, 02-722 Warszawa
+52.2245617 20.9627902 Ignacego Prądzyńskiego 12/14, 01-222 Warszawa
+52.232228 20.990701 Żelazna 51/53, 00-841 Warszawa
+52.553643 19.694229 Tysiaclecia 2a _, 09-400 Płock
+52.21488 20.861442 Wspólna Droga 1, 05-850 Mory
+52.1850826 20.9875399 Suwak 7b, 02-676 Warszawa
+52.26444 20.93254 Powstańców Śląskich 126, 01-466 Warszawa
+52.108 21.2596 Kupiecka 2, 05-400 Otwock
+52.324259 20.901055 Brukowa 25, 05-092 Łomianki
+52.296124 20.931026 Zgrupowania AK "Kampinos" 15, 01-943 Warszawa
+52.179694 21.004917 Wołoska 12, 02-675 Warszawa
+52.3174511 20.966983 Światowida 17, 03-144 Warszawa
+52.2544719 21.0359436 Targowa 72, 03-734 Warszawa
+52.595281 21.451531 Generała Józefa Sowińskiego 62, 07-200 Wyszków
+52.080242 21.033422 Armii Krajowej 22 _, 05-500 Piaseczno
+52.119403 21.102829 Drewny 24 _, 02-968 Warszawa
+53.076148 21.576782 Generala Augusta Emila Fieldorfa "Nila" 28, 07-410 Ostrołęka
+52.3981217 20.9230341 Generała Józefa Sowińskiego -, 05-120 Legionowo
+52.4056386 21.3327287 Gen. Fr. Żymirskiego 38, 05-205 Klembów
+51.598047 21.528096 Warszawska brak, 26-900 Kozienice
+51.597016 21.530043 Warszawska brak, 26-900 Kozienice
+52.586879 20.812658 Elektronowa 3, 05-190 Nasielsk
+52.70582602 21.09148926 Rynek 41, 06-100 Pułtusk
+52.090858 20.9362085 Gminna 66, 05-506 Lesznowola
+52.2432828 21.0967668 Grochowska 163, 04-111 Warszawa
+52.111556 20.621148 Traugutta 19, 05-825 Grodzisk Mazowiecki
+52.2340315 20.9895712 Grzybowska 49, 00-844 Warszawa
+52.209583 20.949951 Al. Jerozolimskie 185, 02-222 Warszawa
+51.867755 21.64402 Bitumiczna 2, 08-400 Sulbiny Górne
+52.226156 21.042199 Zagórna 1,1A, 00-441 Warszawa
+52.18546222 21.00280366 Wołoska 24, 02-675 Warszawa
+52.132379 20.89531 Plac Szwedzki 3, 05-090 Janki
+52.304238 21.084364 Malborska 51, 03-286 Targówek
+52.256528 20.993361 Inflancka 4a, 00-189 Warszawa
+52.484194 20.967361 Jachranka 77, 05-140 Jachranka
+52.2719409 21.0134384 Jagiellońska 57, 03-301 Warszawa
+52.109722 20.994167 Karczunkowska 145, 02-871 Warszawa
+52.2900569 20.9313393 Kasprowicza 119, 01-949 Warszawa
+52.2904319 20.9274761 Kasprowicza 145, 01-823 Warszawa
+52.1696519 22.272585 Katedralna 5, 08-110 Siedlce
+52.231483 20.895163 Batalionów Chłopskich 73, 01-374 Warszawa
+52.08175389 21.02705647 Okulickiego 10, 05-500 Piaseczno
+52.19065994 20.85491004 Warszawska 1, 05-820 Piastów
+52.5592904 19.6797323 Konstantego Ildefonsa Gałczyńskiego 11, 09-400 Płock
+52.1672029 22.2739719 Kazimierza Pułaskiego 61, 08-110 Siedlce
+51.381232 21.18148 Juliusza Słowackiego 179, 26-604 Radom
+51.410313 21.177461 Andrzeja Struga 73, 26-610 Radom
+52.342647 21.225671 Kobyłkowska 1A, 05-250 Wołomin
+51.354644 20.822944 Kochanowskiego 1, 26-432 Zawady
+52.18255 20.9656239 Komitetu Obrony Robotników 45B, 02-146 Warszawa
+52.43476639 21.04154624 Aleja Wojska Polskiego 3, 05-126 Nieporęt
+52.181781 21.558745 Kościuszki 2, 05-303 Mińsk Mazowiecki
+52.22219954 21.01101867 Koszykowa 61/63, 00-067 Warszawa
+52.47645382 21.63515374 Jana Pawła II 17, 05-280 Jadów
+52.353043 22.617241 ks. Stanisława Brzóski 18, 08-108 Korczew
+52.302525 20.930012 Książąt Mazowieckich 5, 01-990 Warszawa
+52.2714304 21.0583806 Kuflewska 6, 03-554 Warszawa
+52.39715726 19.90967041 Leonów 7a, 09-533 Słubice
+52.537139 19.7395 Trasa Popiełuszki 2, 09-410 Płock
+52.2030618 20.5575745 Piorunów 21, 05-870 Piorunów
+52.2037356 20.5582257 Piorunów 21, 05-870 Piorunów
+52.3040348 20.9873607 Modlińska 35, 03-199 Warszawa
+51.8981585 21.6015493 Cmentarna 5, 08-400 Garwolin
+50.28739246 18.65599213 Nowy Świat 67, 44-100 Gliwice
+52.33281504 21.1944294 Napoleona 2H 0, 05-230 Kobyłka
+52.0984733 21.1160097 1000-lecia Państwa Polskiego 2, 05-510 Konstancin Jeziorna
+52.0838333 20.9572197 Słoneczna 178, 05-506 Lesznowola
+52.6817404 22.2746112 Wodociągowa -, 18-100 Łapy
+52.1710549 20.8107231 Bohaterów Warszawy 6, 05-800 Pruszków
+52.1532445 20.7882676 Bolesława Prusa 121, 05-800 Pruszków
+51.3915771 21.138523 1905 Roku 26, 26-610 Radom
+51.4024109 21.1155286 Główna 69, 26-600 Radom
+51.374542 21.1235289 Wierzbicka 94, 26-612 Radom
+52.49802108 21.05491685 Warszawska 66, 05-140 Serock
+52.1090019 21.0175357 Puławska 540, 02-684 Warszawa
+52.2067421 21.17280007 Mieczysława Pożaryskiego 31, 04-703 Warszawa
+52.31741862 21.0374558 Juranda ze Spychowa 0, 03-257 Warszawa
+52.1914213 20.9553043 Aleja Krakowska 253, 02-220 Warszawa
+52.242256 21.0963861 Grochowska 147, 04-139 Warszawa
+52.166047 21.2026697 Halna 35, 04-961 Warszawa
+52.1972053 20.8793253 Władysława Jagiełły 6, 02-495 Warszawa
+52.2300277 21.08168 Jana Nowaka-Jeziorańskiego 35, 03-982 Warszawa
+52.28886 20.9293251 Jana Kasprowicza 117, 01-949 Warszawa
+52.2199059 20.8927755 Kopalniana 24, 01-321 Warszawa
+52.17357968 20.93925474 Aleja Krakowska 79, 02-183 Warszawa
+52.1832102 20.890783 Generała Kazimierza Sosnkowskiego 2, 02-495 Warszawa
+52.2227833 21.1358097 Trakt Lubelski 367, 04-667 Warszawa
+52.1644512 21.1051712 Zygmunta Vogla 45, 02-990 Warszawa
+52.25260578 21.06497526 Żupnicza 15, 03-821 Warszawa
+52.3009079 21.1517686 Prymasa Stefana Wyszyńskiego 33a, 05-220 Zielonka
+52.0532333 20.436635 Stefana Okrzei 54B, 96-300 Żyrardów
+52.1718 20.977631 ul. Żwirki i Wigury 1 Lotnisko Chopina, 02-143 Warszawa
+52.2909263 21.0496303 Ludwika Kondratowicza 22, 03-285 Warszawa
+52.28635 21.084195 Łodygowa 24, 03-687 Warszawa
+52.1927067 20.9508236 Łopuszańska 22, 02-220 Warszawa
+52.1948859 20.937905 Łopuszańska 72, 02-232 Warszawa
+52.1944634 20.9382612 Łopuszańska 72, 02-232 Warszawa
+52.652743 20.429558 Wieś Koziminy-Stachowo 1 A, 09-100 Płońsk
+52.1368244 22.292376 Łukowska 111, 08-110 Białka
+52.1337634 22.2932636 Łukowska 113, 08-110 Siedlce
+51.380962 21.169371 Aleja Józefa Grzecznarowskiego 28, 26-600 Radom
+52.201093 20.9331138 Al.Jerozolimskie 184, 02-486 Warszawa
+52.3007768 20.9351604 Kolumbijska 1, 01-991 Warszawa
+52.3041037 21.0919603 al.gen.Władysława Andersa 545, 05-091 Ząbki
+52.30458865 21.07957501 Malborska 41, 03-286 Warszawa
+52.58904 20.452678 Dalanówek 43A, 09-100 Dalanówek
+51.8246218 20.7902463 Mała Wieś 40, 05-622 Mała Wieś
+52.333003 21.12643 Wspólna 40, 05-270 Marki
+52.319385 21.00858 Marywilska 44, 03-042 Warszawa
+52.321747 21.007189 Marywilska 44, 03-042 Warszawa
+52.3145263 20.9993148 Marywilska 51, 03-042 Warszawa
+51.444032 20.544397 Broniszew 107, 05-610 Goszczyn
+52.1737341 20.85016304 al. Jerozolimskie 335, 05-816 Reguły
+52.2076005 21.1710413 Mieczysława Pożaryskiego 35, 04-703 Warszawa
+52.290638 21.121425 Słowackiego 21, 05-091 Ząbki
+52.1755306 20.9372205 Mineralna 5, 02-285 Warszawa
+52.3775 20.918333 Modlińska 152, 05-110 Jabłonna
+52.1781645 21.0164468 Modra 90, 02-661 Warszawa
+52.057231 21.393033 Św. Kazimierza 7, 05-430 Celestynów
+52.1630208 22.2476789 Monte Cassino 40, 08-110 Siedlce
+52.2134695 21.1582984 Mrówcza 218, 04-697 Warszawa
+52.212278 20.948083 Mszczonowska 5, 02-337 Warszawa
+52.22512 20.26852 Wojtówka 2d, 96-500 Sochaczew
+51.2303374 20.8652365 Jastrzębska 21B, 26-500 Szydłowiec
+52.184963 21.132115 Heliotropów 59, 04-796 Warszawa
+52.10132865 20.80488237 Pruszkowska 38, 05-830 Nadarzyn
+52.15247 21.01064 Tango 4, 02-825 Warszawa
+52.56289 19.708601 Bielska 67, 09-400 Płock
+52.233435 21.123719 Lotnicza 3/5, 04-192 Warszawa
+51.448802 21.144033 ul. Warszawska 220 _, 26-600 Radom
+52.063015 20.264855 Nowa Wieś 31, 96-315 96-315 Wiskitki
+52.4230274 20.7275683 Morawicza 2, 05-100 Nowy Dwór Morawicza
+52.2559122 20.9786725 Burakowska 14, 01-066 Warszawa
+52.163733 21.083435 Royal Wilanów, ul. Klimczaka 1 Warszawa _, 02-797 KLIENCI ZAREJESTROWANI KORZYSTAJĄ Z NIŻSZYCH
+52.17057337 20.93484659 Aleja Krakowska 61, 02-183 Warszawa
+52.421618 20.9256639 Olszankowa 52, 05-120 Legionowo
+52.2426171 21.0968025 Omulewska 26A, 04-128 Warszawa
+52.13678 21.059987 Przy Bażantarni 10, 02-793 Warszawa
+52.223476 20.984095 Aleje Jerozolimskie 160, 02-326 Warszawa
+52.5755806 19.65676308 Chemików 7, 09-411 Płock
+52.22581482 21.02691078 Wiejska 4/6/8, 00-489 Warszawa
+52.17260742 20.97409821 Żwirki i Wigury 1H, 00-906 Warszawa
+52.57959366 19.65560722 Chemików 7, 09-411 Płock
+52.58649445 19.65037537 Chemików 7, 09-411 Płock
+51.90994263 21.60499954 Kościuszki 64, 08-400 Garwolin
+51.86877441 20.8517971 Mszczonowska 44, 05-600 Grójec
+52.11202621 20.46686172 MOP Baranów Północ A2, 96-314 Holendry Baranowskie
+52.03961563 20.69740486 Przeszkoda 17, 96-321 Przeszkoda
+52.02857971 20.67483711 Warszawska -, 96-321 Huta Żabiowolska
+52.53380966 19.76083755 Wyszogrodzka 150, 09-411 Płock
+52.61397171 20.38602829 Warszawska 78A, 09-100 Płońsk
+51.41038132 21.18352509 Struga 102, 26-600 Radom
+52.17130661 22.21863937 Topolowa 3, 08-103 Stare Iganie
+51.62023926 20.97414017 Radomska 18, 26-800 Sucha
+52.2591629 20.95947075 Powązkowska 43, 01-797 Warszawa
+52.15736008 21.02099991 Wawrzyńca Surowieckiego 14, 02-784 Warszawa
+52.23661041 21.0878067 Ostrobramska 124, 04-026 Warszawa
+52.25058746 21.06585884 Chodakowska 35, 03-816 Warszawa
+52.22383118 21.05938911 Wersalska 3, 03-955 Warszawa
+52.23862076 20.98301125 Aleja Solidarności 100, 01-016 Warszawa
+52.23913956 20.89705658 Lazurowa 40, 01-315 Warszawa
+52.22555542 20.9584713 Aleja Prymasa Tysiąclecia 52, 01-242 Warszawa
+52.14819336 21.05924988 Migdałowa 2, 02-796 Warszawa
+52.29244232 21.07900047 Radzymińska 283, 03-643 Warszawa
+52.24564743 21.00563622 Bielańska 12, 00-085 Warszawa
+52.37416501 20.78043151 Gdańska 60, 05-152 Czosnów
+52.133306 21.240444 Sikorskiego 127B, 05-420 Józefów
+52.56207052 21.7164174 Aleja Łochowska 4/1 działka 2052/31, 07-130 Łochów
+52.31358 21.01331 ANNOPOL 20, 03-236 WARSZAWA
+52.026808 21.11971 Łubna 69, 05-532 Łubna
+52.3501897 20.9454962 Modlińska 347, 03-107 Warszawa
+52.4303264 19.4557603 Zamkowa 29A, 09-500 Gostynin
+52.187164 20.987897 Konstruktorska 12, 02-673 Warszawa
+51.955129 21.5351286 Dworcowa 5, 08-440 Pilawa
+52.18212069 20.83986553 Księcia Józefa Poniatowskiego brak, 05-819 Piastów
+52.1127706 20.6236658 Żydowska 11, 05-825 Grodzisk Mazowiecki
+52.091516 20.7999429 Graniczna 3-5, 05-830 Nadarzyn
+52.179069 21.013355 Wilanowska 361, 02-665 Warszawa
+52.342026 21.055179 Pavarottiego 1, 03-289 Warszawa
+52.53727328 19.75557336 Wyszogrodzka 133, 09-410 Płock
+52.2237099 21.0192839 Piękna 20, 00-549 Warszawa
+52.13601044 20.89830174 plac Szwedzki 3, 05-090 Janki
+52.229708 21.0233264 plac Trzech Krzyży 10/14, 00-535 Warszawa
+51.86674 20.865499 plac Wolności 4, 05-600 Grójec
+52.1623764 22.2724414 plac Zdanowskiego 1, 08-110 Siedlce
+52.4362455 19.468497 Płocka 34A, 09-500 Gostynin
+52.80231 21.894535 Pocztowa 1, 07-300 Ostrów Mazowiecka
+51.432596 21.322509 Radomska 49, 26-630 Jedlnia-Letnisko
+52.194061 20.98455 Białej Floty 1, 02-654 Warszawa
+52.300676 21.027322 Annopol 2, 03-236 Warszawa
+52.20225 20.8946 Plac Czerwca 1976r. 6, 02-495 Warszawa
+52.2266 21.018668 Krucza 24, 00-526 Warszawa
+52.193413 20.929295 Jutrzenki 114, 02-230 Warszawa
+52.1054061 21.0227434 Kuropatwy 41, 05-500 Mysiadło
+52.170749 21.0137 Szturmowa 2, 02-678 Warszawa
+52.1502912 21.0061606 Poloneza 85b, 02-826 Warszawa
+52.40944 20.94003 Polskiej Organizacji Wojskowej 11, 05-120 Legionowo
+52.2159443 20.8889158 Połczyńska 109, 01-303 Warszawa
+52.2171615 20.8815991 Połczyńska 118A, 01-304 Warszawa
+52.2159955 20.8754887 Połczyńska 125, 01-303 Warszawa
+53.055102 21.529678 Warszawska 45, 07-415 Olszewo-Borki
+52.149445 20.809391 Ulica Kolejowa brak, 05-806 Komorów
+52.539647 19.734128 Wyszogrodzka 103, 09-410 Płock
+52.107028 21.017194 Puławska 558/560, 09-884 Warszawa
+52.184551 20.900587 Aleje Jerozolimskie 239, 02-495 Warszawa
+52.229135 21.137829 Płowiecka 62, 04-510 Warszawa
+52.1980803 20.6232468 Powstańców 18, 05-870 Błonie
+52.2798055 21.1297734 Powstańców 25H, 05-091 Ząbki
+52.209528 20.809333 Poznańska 151, 05-850 Ożarów Mazowiecki
+52.209787 20.800922 Poznańska 177a, 05-850 Ożarów Mazowiecki
+52.1853736 20.9959981 Konstruktorska 5A, 02-673 Warszawa
+52.105485 21.098588 Prawdziwka 2, 02-973 Warszawa
+52.275427 21.027165 Staniewicka 5, 02-781 Warszawa
+52.230772 20.9802 Przyokopowa 31, 01-208 Warszawa
+52.107089 20.833192 Aleja Katowicka 62, 05-830 Nadarzyn
+52.1561406 21.0193615 Puławska 303, 02-785 Warszawa
+52.1415187 21.0169698 Puławska 336, 02-819 Warszawa
+52.1514218 21.0184203 Puławska 361, 02-801 Warszawa
+52.08624 21.0207699 Puławska 42, 05-500 Piaseczno
+52.51525 21.06983 Pułtuska 60, 05-140 Serock
+52.62337082 20.37559974 Rynek Płońsk, pl. 15 Sierpnia -, 09-100 Płońsk
+52.2024063 20.9551876 Włodarzewska 58, 02-384 Warszawa
+52.187917 21.060267 Powsińska 31, 02-903 Warszawa
+51.4539506 21.1420199 Warszawska 234, 26-617 Radom
+51.4539506 21.1420199 Warszawska 234, 26-617 Radom
+52.1845555 20.9579869 Sekundowa 1, 02-178 Warszawa
+52.1841146 20.9591571 Sekundowa 1A, 02-178 Warszawa
+52.1841299 20.9598953 Sekundowa 1b, 02-178 Warszawa
+52.210861 20.448 Seroki Wieś -, 96-515 Teresin
+52.23056 20.970035 Siedmiogrodzka 9, 01-204 Warszawa
+52.856435 20.629063 Marcina Kasprzaka 5 _, 06-400 Ciechanów
+52.12368588 21.01978749 Puławska 543, 02-844 Warszawa
+52.56541057 19.69726448 Przemysłowa 21, 09-400 Płock
+51.377374 21.131365 Wjazdowa 4, 26-600 Radom
+52.224474 20.963867 Prądzyńskiego 16, 01-222 Warszawa
+52.35467 21.13046 Ziołowa 1, 05-270 Marki
+52.4091082 21.2038318 Słowackiego 58 -, 05-250 Radzymin
+52.34402 21.23717 Wileńska 12 -, 05-200 Wołomin
+52.099081 20.606815 Żyrardowska 14, 05-825 Grodzisk Mazowiecki
+52.18916 20.96204 Słowicza 28 -, 02-170 Warszawa
+52.194352 20.961422 Aleje krakowska 271, 02-133 Warszawa
+52.883845 20.618171 Zamkowa dz. nr 1189 dz. ewid. nr 1189, 06-400 Ciechanów
+52.092908 21.036296 Geodetów 148, 05-500 Piaseczno
+52.1533446 21.0542618 Jana Rosoła 63, 02-796 Warszawa
+52.10825 22.386979 Chromna 37, 08-106 Chromna
+52.528312 21.069918 Wierzbica 6, 05-140 Wierzbica
+52.869333 21.112999 STACJA PALIW GOZANA Mazowiecka 18, _, 06-200 Maków Mazowiecki
+53.118056 20.398833 ul. Dzierzgowska 140, 06-500 Mława
+51.6465816 20.9397761 Kościelna 91, 26-800 Białobrzegi
+51.624209 21.478757 Chinów 10A, 26-900 Chinów
+52.292454 21.545317 Armii Krajowej 2388 dz.nr 2388, 05-304 Stanisławów
+52.07344341 20.76834097 Stara Wieś, al. Katowicka 316, 05-830 Nadarzyn
+52.14250886 20.65501776 Kwiatowa 6A, 05-822 Milanówek
+52.172622 21.157067 Strzygłowska 28, 04-872 Warszawa
+52.210284 20.806034 SubSoleLAB, Poznańska 246 _, 05-850 Ożarów Mazowiecki
+52.317084 21.103337 Szkolna 9, 05-270 Marki
+52.40111 20.94402 Szwajcarska 6, 05-119 Legionowo
+52.8655 19.662361 Tadeusza Kościuszki 34a, 09-200 Sierpc
+53.0730147 21.61821317 ŁAWY 97, 07-411 RZEKUŃ
+53.073427 21.616897 Przemysłowa 1, 07-411 Rzekuń
+52.1800072 20.9898053 Taśmowa 7, 02-677 Warszawa
+52.189554 20.94599 Krakowiaków 50, 02-255 Warszawa
+52.2347064 20.9993674 Twarda 18, 00-105 Warszawa
+52.36868 19.938961 Płocka 32, 09-533 Słubice
+52.12191 20.727245 Akacjowa 39/41, 05-807 Podkowa Leśna
+52.703028 21.092667 Staszica 35, 06-100 Pułtusk
+52.2287 20.9994 Chmielna 71, 00-801 Warszawa
+52.2287 20.9991 Chmielna 73, 00-801 Warszawa
+52.2144619 20.8491887 Sadowa 2, 05-850 Jawczyce
+52.113602 20.8584 Aleja Katowicka 47, 05-830 Wolica
+52.09498926 20.81343254 Aleja Katowicka 83, 05-830 Nadarzyn
+52.261825 21.055336 Radzymińska 78, 03-752 Warszawa
+52.322081 20.972825 ul. Sąsiedzka 4 _, 03-168 Warszawa
+51.4495 21.143857 Warszawska 222 _, 26-600 Radom
+52.231735 20.984066 Plac Europejski 1, 00-844 Warszawa
+52.1473 21.0917 Pałacowa 2, 02-962 Warszawa
+52.1666 21.1089 Syta 100, 02-993 Warszawa
+52.449944 21.008056 Warszawska 31A, 05-130 Zegrze
+52.433083 20.698528 Warszawska 36, 05-100 Nowy Dwór Mazowiecki
+53.055102 21.529678 Warszawska 45, 07-415 Grabowo
+52.1894444 21.5319444 Warszawska 57, 05-303 Stojadła
+52.1920584 21.5259567 Warszawska 84, 05-303 Stojadła
+52.215579 20.843217 Poznańska 98, 05-850 Bronisze
+52.2864181 20.937631 Wergiliusza 31, 01-859 Warszawa
+52.2315471 20.9798317 Przyokopowa 33, 01-208 Warszawa
+52.241245 20.929083 Górczewska 124, 01-460 Warszawa
+52.184643 21.003579 Wołoska 22, 02-675 Warszawa
+52.538065 19.751577 Wyszogrodzka 127, 09-410 Płock
+51.193583 21.628139 Gołębiów 31, 27-300 Lipsko
+52.753521 21.786332 Nagoszewska Druga 102, 07-300 Ostrów Mazowiecka
+52.869388 19.646125 Studzieniec 3e, 09-200 Studzieniec
+52.8838769 20.6181748 Zamkowa -, 06-400 Ciechanów
+52.205738 21.170587 Żegańska 1, 04-713 Warszawa
+52.3471487 21.2406221 Żelazna 7, 05-200 Wołomin
+52.231006 21.0031245 Złota 44, 00-120 Warszawa
+52.2301216 21.0039547 Złota 59, 00-120 Warszawa
+52.23023366 21.00255155 Złota 59, 00-120 Warszawa
+52.222875 21.149534 ZTM P+R WAWER, ul. Widoczna 2A _, 04-647 Warszawa
+50.34161358 18.19596616 Kozielska 16A, 47-224 Kędzierzyn-Koźle
+50.6799889 17.8796815 Wrocławska 152-154, 45-001 Opole
+50.3561524 18.2540465 Tuwima 3, 32-500 Kędzierzyn Koźle
+50.97518718 18.21828304 Jagiellońska 7, 46-325 Kluczbork
+50.4902568 17.97105609 3 Maja 36, 47-303 Krapkowice
+51.0716626 17.722042 Stawowa 1, 46-100 Namysłów
+50.48201225 17.33647839 Kadłubka 5, 48-300 Nysa
+50.654701 17.9545068 Jagiellonów 91, 45-560 Opole
+50.682105 17.941503 Oleska 104, 45-231 Opole
+50.6820926 18.2156959 Sportowa 1a, 46-040 Ozimek
+50.45984586 17.00865125 Sienkiewicza 13, 48-370 Paczków
+50.3150051 17.57701544 Sienkiewicza 3, 48-200 Prudnik
+50.69104465 17.9518091 Oleska 152, 45-239 Opole
+50.463719 18.276689 Irlandzka 13, 47-143 Olszowa
+50.663044 17.928181 1 Maja 4, 45-068 Opole
+50.314625 18.055039 Lotnicza 5-7, 47-325 Kamień Śląski
+50.664829 17.92627 Krakowska 45/47, 45-018 Opole
+50.737183 18.443216 Oleska 35, 46-380 Dobrodzień
+50.337241 18.130229 B. Chrobrego 25, 47-200 Kędzierzyn- Koźle
+50.6673534 17.9231107 Plac Wolności 8, 46-020 Opole
+50.691005 17.95122 Oleska 152, 45-239 Opole
+50.6910446 17.9517091 OLESKA 152, 45-239 OPOLE
+50.989058 18.211812 Byczyńska 101, 46-203 Kluczbork
+50.341593 18.19102 Armii Krajowej 38, 47-220 Kędzierzyn-Koźle
+50.971635 18.213358 gen. Pułaskiego 27, 46-200 Kluczbork
+50.36960388 18.0134047 Opolska 23a, 47-344 Walce
+50.676749 17.6573 A4 highway direction, 49-100 Wrocław, Poland A4, 49-100 Rzędziwojowice
+50.677548 17.651843 A4 highway direction, 49-100 Rzędziwojowice, Poland A4, 49-100 Rzędziwojowice
+50.981702 18.217364 Jana Pawła II 36, 46-325 Kluczbork
+50.6906765 17.9505843 OLESKA 152, 45-239 OPOLE
+50.67640869 17.91823441 Budowlanych 4B 0, 45-121 Opole
+50.6945373 18.2860333 Klasztorna 5, 46-040 Grodziec
+50.663722 17.926417 Krakowska 57, 45-018 Opole
+50.6601043 17.9080663 Krapkowicka 13, 46-020 Opole
+50.3527255 18.2328842 Aleja Jana Pawła II 49A, 47-220 Kędzierzyn-Koźle
+50.677427 17.9407961 Generała Leopolda Okulickiego 2, 45-271 Opole
+50.6771096 18.2134796 Hutnicza 3, 46-040 Ozimek
+50.6957902 17.8812552 Partyzancka 84, 45-802 Opole
+50.504602 17.27271 Księdza Makarskiego 20, 49-305 Brzeg
+49.693311 19.194118 Aleja Wolności 34, 34-300 Żywiec
+50.397142 18.1623261 Młyńska 11, 47-150 Raszowa
+50.4726482 17.9677597 Młyńska 5, 47-300 Krapkowice
+50.974516 18.215562 Moniuszki 4, 46-200 Kluczbork
+50.756162 17.433625 MOP Jankowice A4, 49-332 Jankowice Wielkie
+50.568767 17.859865 MOP Przysiecz A4, 46-060 Przysiecz
+50.76398 17.413771 MOP, Autostrada A4 _, 49-200 Wierzbnik
+50.304415 18.33957 Brzozowa 48, 47-246 Kotlarnia
+50.366695 18.311187 Zielna 4, 47-230 Kędzierzyn-Koźle
+50.3372306 18.13023056 Bolesława Chrobrego 25, 47-200 Kędzierzyn Koźle
+50.6968056 17.877025 Opolska 2C, 45-960 Opole
+50.688458 17.949521 Pużaka 6, 45-272 Opole
+50.653626 17.933879 Marka z Jemielnicy 1, 45-952 Opole
+50.46541 17.344348 ul. Piłsudskiego 7 (dz. nr 34/14) -, 48-303 Nysa
+50.691151 17.952266 Oleska 154, 46-020 Opole
+50.66643807 17.91769119 Barlickiego 13, 45-083 Opole
+50.67952325 17.91588641 Budowlanych 9, 45-005 Opole
+50.6806847 17.9317236 Chabrów 98, 45-222 Opole
+50.67056119 17.91846045 Marii Konopnickiej 3, 45-004 Opole
+50.66660761 17.90560377 Niemodlińska 19, 45-710 Opole
+50.66160175 17.88922177 Niemodlińska 84, 45-720 Opole
+50.67824002 17.93776775 Oleska 70, 45-222 Opole
+50.66749914 17.93784048 Ozimska 48b, 45-368 Opole
+50.65169717 17.90491651 Prószkowska 96, 45-771 Opole
+50.46149826 18.16081619 Autostrada A4, 47-154 Góra Św. Anny
+50.68008423 17.87627792 Wrocławska 135, 45-837 Opole
+50.46321106 18.16150665 Autostrada A4, 47-154 Wysoka
+50.783833 17.347638 Węzeł Przylesie 150, 49-200 Młodoszowice gm. Grodków
+50.465051 17.172521 Rynek _, 48-385 Otmuchów
+50.8462942 17.4194122 ul. Parkowa 0, 49-318 Skarbimierz-Osiedle
+50.668088 17.930065 plac Teatralny 13, 46-020 Opole
+50.2885989 17.473207 Pokrzywna 48, 46-267 Jarnołtówek
+50.6675549 17.9525741 Ozimska 72, 46-020 Opole
+50.969715 18.217961 Skłodowskiej-Curie 15, 46-200 Kluczbork
+50.60305514 17.97351829 Oświęcimska 115 C, 45-641 Opole
+50.988374 18.209765 Byczyńska 120, 46-203 Kluczbork
+50.49498 17.349431 Grodkowska 9, 48-300 Nysa
+50.513398 18.301783 Kościuszki - dz. 1737, 47-100 Strzelce Opolskie
+50.8448314 17.418834 ul. Parkowa 12, 49-318 Skarbimierz
+50.656234 17.905054 Prószkowska 71, 45-710 Opole
+50.37475 18.327722 Władysława Orkana 14, 47-230 Kędzierzyn-Koźle
+50.6666011 18.1129858 Ozimska 21, 46-053 Dębska Kuźnia
+50.6706 17.9247 ul. Henryka Sienkiewicza 2, 45-037 Opole Sienkiewicza 2, 45-037 Opole
+49.5919494 22.62936 --- 1, 38-700 Arłamów
+50.0276934 22.0116195 Aleja Majora Wacława Kopisto 3, 35-515 Rzeszów
+50.0257518 22.0174932 aleja Tadeusza Rejtana 33, 35-001 Rzeszów
+50.56957 22.0658447 Aleje Jana Pawła II 2a, 37-450 Stalowa Wola
+50.1334504 22.7568752 Anny Szczepanik 145, 37-523 Radawa
+50.0639948 22.007764 Antoniego Gromskiego 2, 35-233 Rzeszów
+50.543551 22.065706 Ludwika Tołwińskiego 14, 37-450 Stalowa Wola
+50.038499 22.066585 Krasne 20B, 36-007 Rzeszów
+50.569301 22.041093 Komisji Edukacji Narodowej 49, 37-450 Stalowa Wola
+50.1027717 22.3220653 Białobrzegi 56A, 37-100 Łańcut
+49.8234577 22.2350152 Grunwaldzka 38, 36-065 Dynów
+50.0195622 22.6583541 Krakowska 32, 37-500 Jarosław
+49.7492954 21.93269863 Jasienica Rosielna 204, 36-220 Jasienica Rosielna
+50.445466 22.253873 Sanowa 11, 37-420 Rudnik nad Sanem
+50.06474692 22.01048851 Lubelska 65, 35-233 Rzeszów
+50.3011059 21.4356136 Biernackiego 12, 39-300 Mielec
+49.6783403 21.7743245 Bieszczadzka 1, 38-400 Krosno
+50.050329 21.998451 Warszawska 18 _, 35-205 Rzeszów
+49.93987191 22.66615213 Boratyn 232, 37-561 Boratyn
+50.552824 22.0396485 Centralnego Okręgu Przemysłowego 1, 37-450 Stalowa Wola
+49.644121 21.786898 Handlowa 4, 38-430 Miejsce Piastowe
+50.135516 22.7645957 Cicha 54, 37-523 Radawa
+50.05585076 21.99190971 Wyzwolenia 6 PKS Rzeszów, 35-201 Rzeszów
+49.5791109 21.8604166 dra Bieleckiego 8, 38-480 Rymanów
+50.04613 21.412965 Księdza Nosala 2, 39-200 Dębica
+50.015292 22.682726 gen. Władysława Eugeniusza Sikorskiego 21, 37-500 Jarosław
+50.067182 22.014142 GG AUTO RZESZÓW Lubelska 50, Rzeszów, Czynne _, 35-233 sob. 8.00-15.00, niedz. nieczynne
+50.513809 22.152168 Polna 33, 37-400 Nisko
+50.017405 21.996171 Hetmańska 120, 35-001 Rzeszów
+50.063497 21.731134 Sielec 79A, 39-120 Sędziszów Małopolski
+50.0726479 21.7670389 Olchowa 211F, 39-127 Będziemyśl
+50.025502 22.041988 Ignacego Paderewskiego 124A, 35-330 Rzeszów
+50.0278723 21.7563025 Iwierzyce 80, 39-124 Iwierzyce
+49.557417 22.202444 Jagiellońska 30, 38-500 Sanok
+50.5727697 21.9411191 Jamnica 160, 39-410 Grębów
+50.049564 21.989689 Aleja Generała Leopolda Okulickiego 14, 35-222 Rzeszów
+49.67485374 21.77387476 Bieszczadzka 12a, 38-400 Krosno
+49.971679 23.037062 Młyny 90, 37-552 Młyny
+49.69598829 21.77035921 Aleksandra Fredry 12, 38-400 Krosno
+50.04183 22.034623 Kurpiowska nr dz 1526/1, 35-001 Rzeszów
+50.0394442 22.0352877 Kurpiowska 2, 35-001 Rzeszów
+49.55623 22.2034351 Kochanowskiego 1, 38-500 Sanok
+50.0722561 21.9401154 Ludwika Chmury 32, 35-001 Rzeszów
+50.06818 22.23107 pl. Sobieskiego 11 dz 3807/2, 37-100 Łańcut
+49.426111 22.236944 Łukowe 105, 38-516 Łukowe
+50.03041 22.0380691 aleja Armii Krajowej 92, 35-307 Rzeszów
+50.027056 22.014944 Aleja Kopisto 1, 35-315 Rzeszów
+50.27748 21.382909 Wola Mielecka 592 _, 39-300 Mielec
+50.112817 22.407554 MOP Budy A4, 37-114 Budy Łańcuckie
+50.11174 22.407984 MOP Młyniska A4, 37-114 Budy Łańcuckie
+50.018839 22.016482 Rejtana 67, 35-326 Rzeszów
+50.048573 21.975822 Krakowska 20, 35-111 Rzeszów
+49.43039562 22.60097197 29 listopada 36A, 38-700 Ustrzyki Dolne
+50.040385 22.004145 Piłsudskiego 35 dz. nr 1916/8, 35-074 Rzeszów
+50.09776306 21.52040291 MOP Paszczyna A4, 39-207 Paszczyna
+50.06262589 22.01153183 Lubelska 46, 35-233 Rzeszów
+50.06145096 21.94266319 Krakowska 291, 35-213 Rzeszów
+49.79225013 22.72255898 Ostrów 312C, 37-700 Przemyśl
+50.040401 22.006126 Piłsudskiego nr dz 566/11, 35-074 Rzeszów
+50.059199 21.986298 płk. Iranka-Osmeckiego 6b, 35-055 Rzeszów
+50.019894 21.979294 Podkarpacka nr dz 1911/2, 35-082 Rzeszów
+50.0285214 22.0015028 Podpromie 12, 35-051 Rzeszów
+50.105389 21.977028 Rudna Mała 610, 36-060 Rudna Mała
+50.105382 21.977073 Rudna Mała 610, 36-060 Głogów Małopolski
+49.7877625 22.7659058 ul. 3 Maja 19 CH Szpak, 37-700 Przemyśl
+50.06667 21.930668 Droga Ekspresowa S19 _, 36-072 Świlcza
+50.0697977 21.6999171 Rynek 9, 39-120 Sędziszów Małopolski
+50.03304 21.98154 ul. Malczewskiego dz nr 677, 35-114 Rzeszów
+50.03088 21.9799 ul. Wita Stwosza dz nr 696, 35-113 Rzeszów
+50.0648364 21.6487058 Rzeszowska 7, 39-100 Ropczyce
+49.1756862 22.4319046 Smerek 71, 38-607 Smerek
+50.5571074 22.0654017 Solidarności 6A, 37-450 Stalowa Wola
+50.0410004 21.9874416 Sportowa 19, 35-111 Rzeszów
+50.282864 21.430498 Wojsławska 1A, 39-300 Mielec
+50.072434 22.019963 Lubelska 54, 35-233 Rzeszów
+50.246 23.132 Kościuszki 1, 37-611 Cieszanów
+49.471554 22.413277 Uherce Mineralne 122A przy browarze, 38-623 Uherce Mineralne
+49.435821 22.5699077 Strwiążyk 2, 38-700 Ustrzyki Dolne
+50.0712617 21.8961213 świlcza 340, 36-072 Świlcza
+50.5698848 22.0977468 Szubargi 96, 37-403 Pysznica
+50.3074807 21.4416416 Padykuły 9, 39-300 Mielec
+50.0714692 21.8350974 Trzciana 353c, 36-071 Trzciana
+50.5522222 22.04694444 Eugeniusza Kwiatkowskiego 1, 37-450 Stalowa Wola
+50.585924 22.063293 Chopina 42, 37-450 Stalowa Wola
+50.569611 22.041389 Komisji Edukacji Narodowej 49, 37-450 Stalowa Wola
+49.681628 21.773765 Lwowska 39, 38-400 Krosno
+50.312099 21.459495 Wojska Polskiego 3, 39-300 Mielec
+50.202374 22.104002 Nienadówka 875, 36-052 Nienadówka
+49.69656 21.7702 Aleksandra Fredry 1,38-400 Krosno 1, 38-400 Krosno
+54.1168138 22.9346669 Pułaskiego 71, 16-400 Suwałki
+54.09007028 22.94513644 Utrata 109, 16-402 Suwałki
+53.16182192 22.07676888 aleja Marszałka Józefa Piłsudskiego 14a, 18-400 Łomża
+53.12389 23.179663 Czesława Miłosza 2, 15-201 Białystok
+53.133967 23.119373 Hetmańska 16, 15-727 Białystok
+53.147324 23.068102 Kolonia Porosły 2c _, 16-070 Choroszcz
+53.13312098 23.08704809 Bacieczki 217, 15-685 Białystok
+53.1283519 23.0824236 Popiełuszki 111, 15-657 Białystok
+53.2975757 23.27804375 Fabryczna 4, 16-020 Czarna Białostocka
+54.1256578 22.9278167 Daszyńskiego 8, 16-402 Suwałki
+54.0296714 22.8955936 Poddubówek 57, 16-402 Poddubówek
+53.169903 22.076706 Zawadzka 38, 18-400 Łomża
+52.973266 22.253053 Legionowa 11, 18-300 Zambrów
+54.1069245 22.9320066 Generała Józefa Dwernickiego 15, 16-400 Suwałki
+54.0826369 22.9395293 Innowacyjna 3, 16-400 Suwałki
+53.632882 22.475302 Białostocka 4, 19-200 Grajewo
+54.125463 22.944164 Generała Kazimierza Pułaskiego 68b, 16-400 Suwałki
+53.129067 23.0739224 Księdza Jerzego Popiełuszki 118, 15-729 Białystok
+53.156174 23.1931582 Trawiasta 1A, 15-161 Białystok
+54.1102622 22.9326189 ulica, Papieża Jana Pawła II 1, 16-400 Suwałki
+54.123063 22.92061 Mikołaja Reja 71, 16-402 Suwałki
+53.25 23.3 Plac Kościuszki 8 C, 16-100 Sokółka
+53.146035 23.071477 Elewatorska 39, 15-620 Białystok
+53.14863968 23.15552711 Al. Tysiąclecia Państwa Polskiego 11A, 15-111 Białystok
+53.99782562 22.825737 Raczki-Suwałki S61, 16-420 MOP Rudniki Południe
+52.90814209 22.09314919 kpt. Antoniego Kozłowskiego 21A, 18-305 Szumowo
+53.64671832 22.45216537 ul. Ks. J. Popiełuszki - dz. nr 2527/16, 19-200 Grajewo
+53.832354 22.964216 Wojska Polskiego 69B, 16-300 Augustów
+54.051182 22.893694 Dubowo Drugie 40, 16-402 Suwałki
+53.144711 23.078478 Jana Pawła II 89, 15-703 Białystok
+52.982889 22.892131 Żwirki i Wigury 25, 18-100 Łapy
+53.832861 22.964306 Wojska Polskiego 69A, 16-302 Augustów
+53.130567 23.063025 Krupniki 25 _, 15-641 Białystok
+53.161802 23.185357 Wysockiego 65 _, 15-168 Białystok
+53.85829 22.9984939 Zdrojowa 1, 16-300 Augustów
+53.13955709 23.12750716 Władysława Broniewskiego 14, 15-959 Białystok
+54.5932 18.3599 Obwodowa 21, 84-240 Reda
+54.32262408 18.55516851 Czermińskiego 4, 80-174 Gdańsk
+54.41669317 18.47764112 Raatza 2, 80-299 Gdańsk
+54.3940969 18.5823333 aleja Grunwaldzka 309, 80-309 Gdańsk
+54.409583 18.568389 aleja Grunwaldzka 507, 80-320 Gdańsk
+54.5191 18.551626 aleja Jana Pawła II 1, 81-345 Gdynia
+54.3720702 18.6272332 Aleja Zwycięstwa 14, 80-219 Gdańsk
+54.473071 18.512871 Wielkopolska 260, 81-531 Gdynia
+54.331298 18.53429 AUDI PLICHTA Lubowidzka 44 Gdańsk _, 80-174 Czynne: pn.- pt. 7.00 - 18.00, sob. 7.00-14.0
+54.494819 18.535762 AUDI PLICHTA Łużycka 3A Gdynia _, 81-537 Czynne: pn.- pt. 7.00 - 18.00, sob. 7.00-14.0
+54.387051 18.64632 PLICHTA DEALER PARK, ul. Marynarki Polskiej 9 _, 80-864 Czynne: pn.- pt. 7.00 - 18.00, sob. 7.00-14.0
+54.387051 18.64632 PLICHTA DEALER PARK, ul. Marynarki Polskiej 9 _, 80-864 Czynne: pn.- pt. 7.00 - 18.00, sob. 7.00-14.0
+54.36892 18.39378 Gdańska 62, 83-330 Pępowo
+54.5830015 16.8895296 Niemcewicza 33, 76-270 Ustka
+54.327292 18.538679 VW BENEPOL Lubowidzka 33, Gdańsk _, 80-174 Czynne: pn-sb 6.00 - 22.00
+53.88280989 17.71640243 Wojska Polskiego 56, 89-632 Brusy
+53.6936267 17.5582141 pl. Piastowski 31, 89-600 Chojnice
+54.40233558 18.63139999 Gdańska 21, 80-518 Gdańsk
+54.0727007 18.4573999 Tczewska 7A 7A, 83-250 Skarszewy
+53.97414883 18.5384792 Zielona 14, 83-250 Starogard Gdański
+54.79074149 18.42376577 Starowiejska 25, 84-120 Władysławowo
+54.432294 18.483454 Odyseusza 1, 80-299 Gdańsk
+54.399472 18.628459 BOHEMIA CITY MOTORS Uczniowska 36 _, 80-530 Gdańsk
+54.3701227 18.4475882 Botaniczna 18, 80-298 Gdańsk
+54.3102264 18.5533885 ul.Kominkowa 21, 80-180 Kowale
+54.4564956 16.98735774 Szczecińska 40, 76-200 Słupsk
+54.801887 18.397193 ul. Żeromskiego 52 _, 84-120 Władysławowo
+54.1640857 17.4886251 Dworzec 2, 77-100 Bytów
+54.521079 18.531003 Plac Konstytucji 1 1, 81-354 Gdynia
+54.35664749 18.64769745 Rajska 1/5f, 80-850 Gdańsk
+54.36098862 18.64734077 Nowomiejska 1, 80-864 Gdańsk
+54.37767029 18.57307243 Trawki 7A, 80-257 Gdańsk
+54.35357666 18.55171013 Andersa (parking PKM Jasień) 1, 80-126 Gdańsk
+54.43056488 18.47023773 Balcerskiego 10, 80-299 Gdańsk
+54.36096954 18.71128273 Stryjewskiego 27, 80-623 Gdańsk
+54.32585526 18.61861992 Krzemowa 6D, 80-041 Gdańsk
+54.38079453 18.61352921 Waryńskiego 15, 80-433 Gdańsk
+54.38500977 18.59051132 Karłowicza 2, 80-280 Gdańsk
+54.36656952 18.62933159 Skłodowskiej-Curie 2, 80-210 Gdańsk
+54.38043213 18.58911705 Słowackiego 21, 80-257 Gdańsk
+54.37237167 18.62804985 Towarowa 38, 80-218 Gdańsk
+54.42129898 18.60149384 Piastowska 198, 80-241 Gdańsk
+54.40938187 18.56217957 Opata Jacka Rybińskiego 17, 80-320 Gdańsk
+54.40707779 18.61689949 Czarny Dwór 18/7, 80-980 Gdańsk
+54.38014221 18.62176895 Generała Józefa Hallera 16/18, 80-426 Gdańsk
+54.39001846 18.60264015 Dywizjonu 303 25, 80-462 Gdańsk
+54.39716339 18.59461594 Startowa 4A, 80-462 Gdańsk
+54.30509949 18.58128166 Tenisowa 2, 80-180 Gdańsk
+54.34914017 18.59007263 Stanisława Lema 12, 80-126 Gdańsk
+54.35794067 18.57538033 Marusarzówny 9, 80-288 Gdańsk
+54.32829285 18.58021164 Piotrkowska 41, 80-180 Gdańsk
+54.34001923 18.61623764 Dragana 20, 80-809 Gdańsk
+54.32377243 18.61886024 Dywizji Wołyńskiej 8, 80-041 Gdańsk
+54.32722855 18.60677147 Królowej Jadwigi 111, 80-034 Gdańsk
+54.35117722 18.64428329 Targ Rakowy 5/7, 80-806 Gdańsk
+54.35566711 18.64298439 3 Maja (Dworzec PKS) 12, 80-802 Gdańsk
+54.36630249 18.63376236 Aleja Zwycięstwa 45, 80-210 Gdańsk
+54.38801956 18.62381554 Baczyńskiego 2, 80-410 Gdańsk
+54.41266632 18.58128738 Bolesława Krzywoustego 30, 80-360 Gdańsk
+54.40493393 18.58548164 Krynicka 29, 80-393 Gdańsk
+54.39660263 18.58855629 Pilotów 23D, 80-460 Gdańsk
+54.40790558 18.62845421 Korzeniowskiego 50A, 80-508 Gdańsk
+54.40353012 18.6423645 Dunikowskiego 5D, 80-516 Gdańsk
+54.40158844 18.65841866 Wyzwolenia 17, 80-537 Gdańsk
+54.36101151 18.71563911 Pawia 4, 80-631 Gdańsk
+54.38542557 18.56966019 Michałowskiego 48, 80-300 Gdańsk
+54.39447784 18.61486053 Leszczyńskich 1, 80-464 Gdańsk
+54.34412766 18.56337357 Damroki 58, 80-177 Gdańsk
+54.3506012 18.60121918 Kurpińskiego 18, 80-169 Gdańsk
+54.35374069 18.61410522 Powstańców Warszawskich 68, 80-152 Gdańsk
+54.32154465 18.61330414 Dywizji Wołyńskiej 16, 80-041 Gdańsk
+54.34170532 18.62694931 Styp-Rekowskiego 14, 80-808 Gdańsk
+54.34984207 18.58222389 Piekarnicza 23, 80-126 Gdańsk
+54.35216522 18.57605553 Bulońska 46, 80-001 Gdańsk
+54.35473251 18.49463844 Fundamentowa 3, 80-298 Gdańsk
+54.37250519 18.72995949 Wydmy 1, 80-600 Gdańsk
+54.37639618 18.58097839 Srebrniki 12, 80-282 Gdańsk
+54.34266663 18.6008091 Łostowicka 27C, 80-001 Gdańsk
+54.41706467 18.57557678 Pomorska 96, 80-333 Gdańsk
+54.37981796 18.63411522 Marynarki Polskiej 130, 80-557 Gdańsk
+54.42338181 18.59787369 Kapliczna 38, 80-341 Gdańsk
+54.37941742 18.60453224 al. Grunwaldzka 103, 80-244 Gdańsk
+54.40732956 18.56991005 al. Grunwaldzka 491, 80-309 Gdańsk
+54.34902954 18.62297058 Kartuska 82, 80-138 Gdańsk
+54.34258652 18.64745522 Jana Augustyńskiego 2, 80-819 Gdańsk
+54.35325623 18.64883041 Kowalska 8, 80-846 Gdańsk
+54.34186172 18.6227169 Chałubińskiego 7, 80-809 Gdańsk
+54.37343979 18.62569046 Towarowa 1B, 80-001 Gdańsk
+54.35883713 18.64089394 Gradowa 1, 80-802 Gdańsk
+54.37935638 18.60743332 Dmowskiego 7, 80-243 Gdańsk
+54.41685867 18.59100342 Piastowska 90E, 80-332 Gdańsk
+54.37670517 18.63236809 Okrąg 1, 80-871 Gdańsk
+54.33465195 18.6280365 Zamiejska 35, 80-766 Gdańsk
+54.34948349 18.63680458 Księdza Franciszka Rogaczewskiego 55, 80-807 Gdańsk
+54.37724304 18.60703087 Grunwaldzka 82, 80-244 Gdańsk
+54.35061264 18.524683 Szczęśliwa 3, 80-176 Gdańsk
+54.53225708 18.49443245 Morska 118C, 81-225 Gdynia
+54.49398804 18.43657875 Staniszewskiego 15, 81-603 Gdynia
+54.51063538 18.5216713 Witomińska 76, 81-311 Gdynia
+54.46966553 18.46997643 Sojowa 22, 81-589 Gdynia
+54.49555969 18.53467178 Łużycka 2, 81-537 Gdynia
+54.47616959 18.50403976 Strzelców 11, 81-661 Gdynia
+54.48504257 18.52597809 Łowicka 51, 81-504 Gdynia
+54.56106186 18.49029922 Porębskiego 9, 81-185 Gdynia
+54.56107712 18.50831604 Ledóchowskiego 12, 81-189 Gdynia
+54.54266357 18.46040916 Kartuska 20B, 81-003 Gdynia
+54.59381485 18.09840202 Ks. Twardowskiego 2, 84-242 Kębłowo
+54.52656555 18.52386284 Polska 39A, 81-334 Gdynia
+54.52997208 18.49671173 Komandorska 48, 81-222 Gdynia
+54.53007126 18.49628258 Komandorska 50, 81-222 Gdynia
+54.00503159 16.98440742 Marii Konopnickiej 2, 77-201 Miastko
+54.72161484 18.41514206 Męczenników Piaśnicy 1, 84-100 Puck
+54.60811996 18.79868317 Portowa 11, 84-150 Hel
+54.37454987 17.16102409 Antoniego Kani 26, 76-248 Dębnica Kaszubska
+53.94986725 18.47284508 Rokocin 4G, 83-200 Rokocin
+54.46441269 17.02813721 Plac Zwycięstwa 3, 76-200 Słupsk
+54.46173477 17.00714493 Szczecińska 99, 76-200 Słupsk
+54.48699951 18.21712494 Samorządowa 1, 84-217 Szemud
+54.11030579 18.78652573 Malinowska 24, 83-110 Tczew
+54.349249 18.642839 Targ Sienny 7, 80-806 Gdańsk
+54.4400901 18.5624655 Dworcowa 7, 81-704 Sopot
+54.382631 18.604937 Jana Kilińskiego 4, 80-452 Gdańsk
+54.409496 18.593683 Obrońców Wybrzeża 1, 80-398 Gdańsk
+54.383996 18.593531 Cypriana Kamila Norwida 1, 80-280 Gdańsk
+54.383996 18.593531 Cypriana Kamila Norwida 1, 80-280 Gdańsk
+54.383996 18.593531 Cypriana Kamila Norwida 1, 80-280 Gdańsk
+54.383996 18.593531 Cypriana Kamila Norwida 1, 80-280 Gdańsk
+54.383996 18.593531 Cypriana Kamila Norwida 1, 80-280 Gdańsk
+54.383996 18.593531 Cypriana Kamila Norwida 1, 80-280 Gdańsk
+54.448514 16.963106 Sezamkowa 7 _, 76-251 Kobylnica
+54.367012 18.692889 prof. Witolda Andruszkiewicza 5, 80-601 Gdańsk
+54.345382 18.651385 Lastadia 2, 80-880 Gdańsk
+54.494478 18.535561 Łużycka 3c, 81-537 Gdynia
+54.5099956 18.5394792 Generała Józefa Bema 26, 81-381 Gdynia
+54.1967349 18.3259098 Szkolna 1, 83-047 Przywidz
+54.5760892 17.8675474 Godętowo 1, 84-218 Godętowo
+53.932564 18.351768 Osiedle Dębowe 4, 83-210 Zblewo
+54.5812246 16.8682982 Grunwaldzka 14A, 76-270 Ustka
+54.2470183 18.6329935 Grunwaldzka 97, 83-000 Pruszcz Gdański
+54.347988 18.670747 GRUPA MAKURAT VW, SKODA, SEAT, CUPRA, TESLA - _, 00-000 Czynne: pn.- pt. 7.00 - 18.00, sob. 7.00-13.0
+54.4456638 18.5681441 Powstańców Warszawy 7 -, 81-718 Sopot
+54.4456638 18.5681441 Powstańców Warszawy 7 -, 81-718 Sopot
+54.4456638 18.5681441 Powstańców Warszawy 7 -, 81-718 Sopot
+54.57464 18.39386 ul. Morska 24a, 84-230 Rumia
+54.57277107 18.3834941 Grunwaldzka 7, 84-230 Rumia
+54.5539503 18.4156918 Sobieskiego 125, 84-230 Rumia
+54.2211425 18.3765864 Leśników 3, 83-047 Przywidz Pomlewo
+54.5037533 18.5358712 al. Zwycięstwa 14, 81-525 Gdynia
+53.741927 17.513189 Wczasowa 1, 89-606 Charzykowy
+54.373341 18.518663 Złota Karczma 26, 80-298 Gdańsk
+53.887003 18.631078 IONITY MOP Olsze (dir. Gdańsk) A1, 83-250 Olsze
+53.88921 18.630799 A1 Mop, 83-250 Olsze, Poland A1, 83-250 Olsze
+54.764843 17.548942 Jachtowa 8, 84-360 Łeba
+54.3604184 18.64694969 Jana z Kolna 11, 80-980 Gdańsk
+54.3829596 18.4667226 Juliusza Słowackiego 200, 80-298 Gdańsk
+54.382979 18.4667681 Juliusza Słowackiego 206, 80-298 Gdańsk
+54.3819054 18.4691957 Juliusza Słowackiego 210, 80-298 Gdańsk
+54.3810014 18.4700021 Juliusza Słowackiego 210, 80-298 Gdańsk
+54.381536 18.471632 Juliusza Słowackiego 210, 80-298 Gdańsk
+54.381085 18.469554 Juliusza Słowackiego 210, 80-298 Gdańsk
+54.529805 18.504617 Morska 82, 81-228 Gdynia
+54.130047 18.000716 Drogowców 12, 83-400 Kościerzyna
+54.309104 18.561893 Glazurowa 2, 88-180 Kowale
+53.888138 18.632972 MOP Olsze A1, 83-132 Olsze
+53.888472 18.629222 MOP Olsze A1, 83-132 Olsze
+53.7555202 19.2106073 Kolejowa 1, 82-550 Prabuty
+54.664972 17.057876 Kościelna 16, 76-212 Rowy
+54.49333 18.205634 Mercerstwo 2C, 84-217 Szemud
+54.406824 18.661272 PORT MORSKI GDAŃSK, Przemysłowa _, 80-542 Gdańsk
+53.69759 17.58276 Gdańska 60, 89-600 Chojnice
+54.34555 18.597865 Kartuska 224, 80-122 Gdańsk
+54.5797433 18.493363 Derdowskiego 68, 81-198 Kosakowo
+54.5339083 17.75224 Toruńska 6, 84-300 Lębork
+54.6440763 18.33882099 Lipowa 24, 84-100 Rekowo Górne
+54.4921741 18.5354899 Łużycka 9, 81-537 Gdynia
+54.3370673 18.7341397 Główna 6, 83-021 Przejazdowo
+54.5436621 18.483462 Hutnicza 8, 81-061 Gdynia
+54.708694 18.65225 Mickiewicza 164, 84-140 Jastarnia
+54.7605163 17.756546 Morska 47, 84-210 Sasino
+54.529118 18.505725 SKODA PLICHTA Morska 80 Gdynia _, 81-225 Czynne: pn.- pt. 7.00 - 18.00, sob. 7.00-14.0
+54.4503549 18.5628306 Powstańców Warszawy 53A, 81-712 Sopot
+54.400416 18.675136 Na Zaspę 3, 80-546 Gdańsk
+53.808597 17.950647 Cisowa 12, 89-650 Malachin
+53.999091 17.66646 Przymuszewo 3, 89-634 Leśno
+53.749557 17.732372 Rytel-Dworzec 4, 89-642 Rytel
+54.570991 16.874761 Słupska 25, 76-270 Ustka
+54.76729 17.587305 Nadmorska 23A, 84-360 Łeba
+54.44643415 18.56606088 Powstańców Warszawy 19, 81-718 Sopot
+54.32432539 18.54680655 Jabłoniowa brak, 80-175 Gdańsk
+54.3098555 18.597908 Niepołomicka 36, 80-180 Gdańsk
+54.109967 18.7880919 Malinowska 24 A, 83-110 Tczew
+54.39479446 18.5789814 Aleja Grunwaldzka 258, 80-266 Gdańsk
+54.32632065 18.60787392 Świętokrzyska 2, 80-041 Gdańsk
+54.40263748 18.58432007 Kołobrzeska 28A, 80-394 Gdańsk
+54.55049515 18.42565727 Morska 495, 81-005 Gdynia
+54.47445679 18.51586151 Wielkopolska 239, 81-531 Gdynia
+54.19119263 18.63324738 MOP Kleszczewko A1, 83-031 Kleszczewko
+54.19105148 18.63111687 MOP Kleszczewko A1, 83-031 Kleszczewko
+54.45101547 16.9681015 Szczecińśka 19A, 76-251 Kobylnica
+54.30901718 18.56152534 Glazurowa 2, 80-180 Kowale
+54.5763855 18.37903214 Grunwaldzka 16B, 84-230 Rumia
+54.27715302 18.58871269 Starogardzka 9, 83-010 Straszyn
+54.480099 18.559958 Orłowska 27, 81-522 Gdynia
+54.37275 18.519473 Złota Karczma 26, 80-298 Gdańsk
+54.491187 18.535761 Stryjska Lotnikow, 81-001 Gdynia
+54.3567085 18.6465702 Podwale Grodzkie 6, 80-895 Gdańsk
+54.4001 18.67795 PORT MORSKI GDAŃSK, ul. Zamknięta _, 80-955 Gdańsk
+54.40321 18.68077 PORT MORSKI GDAŃSK, Pokładowa TPW _, 80-561 Gdańsk
+53.69491617 17.56781928 Gdańska 1, 89-600 Chojnice
+54.516595 18.543599 plac Grunwaldzki 2, 81-372 Gdynia
+54.60277 18.295822 SKODA PLICHTA Gdańska 13c Wejherowo _, 84-200 Czynne: pn.- pt. 7.00 - 18.00, sob. 7.00-14.0
+54.331913 18.534183 SKODA PLICHTA Lubowidzka 46 Gdańsk _, 80-176 Czynne: pn.- pt. 7.00 - 18.00, sob. 7.00-14.0
+54.552669 18.421093 VW/SEAT PLICHTA Morska 318 Gdynia _, 81-225 Czynne: pn.- pt. 7.00 - 18.00, sob. 7.00-14.0
+54.330404 18.535801 SEAT PLICHTA, Lubowidzka 40 Gdańsk _, 80-176 Czynne: pn.- pt. 7.00 - 18.00, sob. 7.00-14.0
+54.036302 19.066842 Wojska Polskiego 88, 82-200 Malbork
+54.35172 18.498581 Kartuska 480, 80-298 Gdańsk
+53.741004 18.63958 Smarzewo 48, 83-230 Kopytkowo
+54.584791 18.375558 Grunwaldzka 108, 84-230 Rumia
+54.39889907 18.62999605 Uczniowska 40, 80-530 Gdańsk
+54.55196566 18.42253947 Morska 314, 81-006 Gdynia
+54.47215 18.515136 Parkowa 2, 81-549 Gdynia
+54.4947189 18.5375263 Aleja Zwycięstwa 96/98, 81-451 Gdynia
+54.493879 18.53818 Aleja Zwycięstwa 96/98, 81-451 Gdynia
+54.8327099 18.3173062 Rozewska 38, 84-104 Władysławowo
+54.832167 18.319444 Rozewska 40, 84-104 Jastrzębia Góra
+54.8321405 18.3214247 Rozewska 42, 84-120 Władysławowo
+54.337444 19.222278 Rybacka 17, 82-110 Kąty Rybackie
+53.8335767 18.8284768 Rycerska 4, 83-140 Gniew
+54.50066116 17.01058546 Rzemieślnicza 3, 76-200 Włynkówko
+54.442029 17.000436 Główna 41, 76-251 Kobylnica
+53.935279 17.594938 Rolbik 22H, 89-632 Rolbik
+53.9757096 18.5200729 Skarszewska 5, 83-200 Starogard Gdański
+54.396335 18.579018 SKODA PLICHTA Grunwaldzka 339 Gdańsk _, 80-309 Czynne: pn.- pt. 7.00 - 18.00, sob. 7.00-14.0
+54.50768 18.553886 Skwer Arki Gdynia 58, 81-386 Gdynia
+51.906475 19.58296 Ozorkowska 96a, 95-010 Stryków
+54.385709 18.470867 Spadochroniarzy 12A, 80-298 Gdańsk
+54.3875581 18.4716767 Spadochroniarzy 17, 80-298 Gdańsk
+54.3841063 18.4669662 Spadochroniarzy 3, 80-298 Gdańsk
+54.3840304 18.4677108 Spadochroniarzy 3, 80-298 Gdańsk
+54.39111435 18.69199667 Budowniczych Portu Północnego 11, 80-601 Gdańsk
+54.456371 18.451736 Chwaszczyńska 165, 81-571 Gdynia
+54.33963499 18.82128316 Łąkowa 1, 83-011 Wiślinka
+54.100519 18.779 Gdańska 20, 83-110 Tczew
+53.672985 17.34719 Koszalińska 27a, 77-300 Człuchów
+54.448617 16.993683 Profesora Poznańskiego 1A, 76-251 Słupsk Kobylnica
+54.758435 17.740717 ul. Południowa -, 84-210 Sasino
+54.3170345 18.5539234 Starowiejska 33, 80-180 Kowale
+54.3680731 18.7766163 Stogi 20, 80-642 Gdańsk
+54.524895 16.951912 Strzelinko 14, 76-200 Strzelinko
+54.102517 17.944984 Szarlota -, 83-400 Szarlota
+54.3535654 18.6580064 Targ Rybny 1, 80-838 Gdańsk
+54.3437799 18.6500757 Toruńska 12, 80-747 Gdańsk
+54.460117 18.554478 Al. Niepodległości 899, 81-861 Sopot
+54.4285649 18.5628783 Al. Niepodległości 659, 81-855 Sopot
+54.6093861 18.216471 Usługowa 7, 84-200 Wejherowo
+54.5875582 16.8829312 Wczasowa 26, 76-270 Ustka
+54.60704632 18.22407906 I Brygady Pancernej Wojska Polskiego 75, 84-200 Wejherowo
+53.960612 18.4974595 Zblewska 20c, 83-250 Starogard Gdański
+54.474062 18.514396 Wielkopolska 250b _, 81-531 Gdynia
+54.7428563 17.5798045 Żwirowa 24, 84-360 Łeba
+50.8037 19.1121 Korczaka 11, 42-202 Częstochowa
+50.308995 18.784321 Karola Miarki 6, 41-800 Zabrze
+50.278401 18.862593 1 Maja 320, 41-700 Ruda Śląska
+50.492238 19.420117 11 Listopada 2/4, 42-400 Zawiercie
+50.2813981 19.1340579 3 Maja 36, 41-200 Sosnowiec
+50.810444 19.098722 7 Kamienic -, 42-217 Częstochowa
+50.7715 19.144528 Adama Bienia -, 42-208 Częstochowa
+50.818361 19.119861 Adama Jerzego Czartoryskiego 15, 42-202 Częstochowa
+50.3107308 18.8539472 Adama Mickiewicza 15, 41-700 Ruda Śląska
+50.786694 19.146778 Adama Próchnika -, 42-202 Częstochowa
+50.26496543 19.05882388 al. Rozdzieńskiego 188H, 40-203 Katowice
+50.32663806 19.18585854 Przybylaka 2, 41-300 Dąbrowa Górnicza
+50.19653066 19.26839784 Matejki 29, 43-600 Jaworzno
+50.28437471 18.97174893 Ułańska 6, 40-887 Katowice
+50.29248454 19.23772948 Główna 35, 41-215 Sosnowiec
+50.03464315 18.67489316 Armii Krajowej 29, 44-240 Żory
+50.118004 18.982363 aleja Bielska 82, 43-100 Tychy
+50.11469 18.995765 aleja Niepodległości 200, 43-100 Tychy
+50.11443 18.996616 aleja Niepodległości 49, 43-100 Tychy
+50.2779376 19.1340477 Aleja Zwycięstwa 20, 41-200 Sosnowiec
+50.3668757 18.8474922 Alojzego Felińskiego 1, 41-908 Bytom
+50.291366 19.005878 Bytkowska 105, 40-147 Katowice
+50.371767 18.894907 Strzelców Bytomskich 66F, 41-914 Bytom
+50.292375 18.958654 Katowicka 28, 41-500 Chorzów
+49.928513 18.991233 Węglowa 15, 43-502 Czechowice-Dziedzice
+50.088982 18.533119 Władysława Stanisława Reymonta 45, 44-200 Rybnik
+50.137397 18.97558 Mikołowska 80, 43-100 Tychy
+50.309703 18.789782 Bytomska 2A, 41-800 Zabrze
+50.036957 18.701792 Tadeusza Kościuszki 57, 44-240 Żory
+49.626158 18.908532 Czarne 3 _, 43-460 Wisła
+50.334181 18.94104 Arki Bożka 21, 41-910 Bytom
+49.832547 18.976278 1 Dywizji Pancernej 45, 43-382 Bielsko-Biała
+49.833131 18.983867 Bohaterów Monte Cassino 421, 43-300 Bielsko-Biała
+49.75149969 18.6555284 Stawowa 54, 43-300 Cieszyn
+50.7306275 19.1540856 Krakowska 10, 42-262 Poczesna
+50.257442 18.656716 Rybnicka 207, 44-122 Gliwice
+50.178956 18.885408 Gliwicka 3, 43-190 Mikołów
+50.303184 19.163301 Zuzanny 20, 41-207 Sosnowiec
+50.274187 18.965038 Trasa Nikodema i Józefa Renców 30, 40-001 Katowice
+50.039468 18.70247 Francuska 11, 44-240 Żory
+50.85133274 19.14715768 Makuszyńskiego 78/80, 42-209 Częstochowa
+50.123999 18.979029 Barona 30, 43-100 Tychy
+50.339375 18.934086 Bartosza Głowackiego 2, 41-910 Bytom
+49.972095 18.944383 Bednorza 2, 43-200 Pszczyna
+50.3388889 18.9216667 Bernardyńska 1, 41-902 Bytom
+50.0874738 19.0058285 Beskidzka 105, 43-109 Tychy
+49.716839 19.0282449 Beskidzka 40, 43-370 Szczyrk
+50.126041 18.983875 Biblioteczna 24, 43-100 Tychy
+50.33733337 18.86893351 Konstytucji 41, 41-905 Bytom
+50.328222 18.929309 Krzyżowa 32, 41-909 Bytom
+50.35176164 18.89533258 Łużycka 13, 41-902 Bytom
+49.75651 18.63958598 Wiejska 1, 43-400 Cieszyn
+50.317764 19.076296 Będzińska 10, 41-250 Czeladź
+50.77146544 19.15087536 Bohaterów Katynia 37, 42-208 Częstochowa
+50.811214 19.14103863 Faradaya 21, 42-202 Częstochowa
+50.80663412 19.10273256 Pułaskiego 30, 42-217 Częstochowa
+50.2590359 19.0567066 1 Maja 128, 40-237 Katowice
+50.12068424 18.54960007 Gliwicka 101B, 44-207 Rybnik
+50.09997259 18.56186978 Sybiraków 7, 44-200 Rybnik
+50.32851776 19.0376564 Bańgowska 52, 41-103 Siemianowice Śląskie
+50.30611401 19.18067449 Długosza 43, 41-219 Sosnowiec
+50.2726081 18.926214 Bukowa 157, 41-600 Świętochłowice
+50.260644 19.043781 Bogucicka 7, 40-215 Katowice
+50.094083 18.542861 Bolesława Chrobrego 1, 44-200 Rybnik
+50.450444 19.55325 Bonerów 33, 42-440 Podzamcze
+50.23595 18.832255 Borowa 4, 41-706 Ruda Śląska
+50.784222 19.137556 Botaniczna -, 42-216 Częstochowa
+50.2240213 19.244093 Grunwaldzka 275, 43-603 Jaworzno
+50.837333 19.12925 Bronisława Czecha -, 42-224 Częstochowa
+50.225273 18.995067 Żytnia 2, 40-544 Katowice
+50.087245 18.57047 Brzezińska 47, 44-203 Rybnik
+50.0873718 18.5707683 Brzezińska 47, 44-203 Rybnik
+50.126666 18.976396 Budowlanych -, 43-100 Tychy
+50.282526 18.852991 Bukowa 9, 41-711 Ruda Śląska
+49.928167 18.991594 Węglowa 17, 43-502 Czechowice-Dziedzice
+50.318949 18.877573 Bytomska 15, 41-712 Ruda Śląska
+50.199702 18.982285 Bażantów 2, 40-668 Katowice
+50.219993 19.155799 Ziętka 45-47, 41-400 Mysłowice
+50.373499 18.932628 Karola Miarki 13, 41-940 Piekary Śląskie
+50.108414 18.979999 Bielska 107, 43-100 Tychy
+50.1731909 18.9001468 Kolejowa 1, 43-190 Mikołów
+50.434611 18.946708 Parkowa _, 41-622 Świerklaniec
+50.159252 18.846509 ZIM, ul. Sienkiewicza _, 43-170 Łaziska Górne
+50.196955 18.981163 Pijarska 3, 40-750 Katowice
+50.269228 19.061908 aleja Roździeńskiego 200, 40-315 Katowice
+50.29335 18.93411 75 Pułku Piechoty 1, 41-500 Chorzów
+50.3032199 18.8461665 Chryzantem 10, 41-700 Ruda Śląska
+50.383832 18.91256 Ciepłownicza 1, 41-922 Radzionków
+49.74988 18.65066 Bielska 62, 43-300 Cieszyn
+50.2893425 19.10329306 Gen. Stefana Grota-Roweckiego 130 130, 41-200 Sosnowiec
+50.110623 18.761488 COMPLEX-BUD, Żorska 78a _, 43-188 Orzesze
+50.308255 19.070808 Bolesława i Władysława Dehnelów 2 _, 41-250 Czeladź
+50.288865 19.2091 Lenartowicza 186, 41-200 Sosnowiec
+50.2782365 18.8535473 Cynkowa 24, 41-700 Ruda Śląska
+50.2822099 18.8660271 Czarnoleśna 12, 41-709 Ruda Śląska
+50.295842 19.1225551 Czeladzka 51, 41-200 Sosnowiec
+50.827944 19.119667 Dekabrystów -, 42-202 Częstochowa
+50.22989 19.176382 Orląt Lwowskich 138, 41-208 Sosnowiec
+50.819167 19.114722 Dominika Zbierskiego -, 42-218 Częstochowa
+50.291388 18.9319331 Drogowa Trasa Średnicowa 2, 41-600 Świętochłowice
+50.154194 18.776789 Dworcowa 1, 43-180 Orzesze
+50.8082778 19.12022222 Aleja Wolności 21 21, 42-200 Częstochowa
+50.3005 18.67675 Bohaterów Getta Warszawskiego 12 12, 44-100 Gliwice
+50.2566944 19.01630556 Plac Oddziałów Młodzieży Powstańczej 11 11, 40-098 Katowice
+50.2263333 18.97730556 Franciszkańska 1 1, 40-706 Katowice
+50.2683073 18.8321742 Edmunda Kokota 170, 41-711 Ruda Śląska
+50.122971 18.98957 Edukacji 7, 43-100 Tychy
+50.83986069 19.13770323 Jerzego Kukuczki 4, 42-224 Częstochowa
+50.83598515 19.12705936 Krzysztofa Kamila Baczyńskiego 4, 42-224 Częstochowa
+50.379811 18.81216 ELZAB 1 _, 41-813 Zabrze
+49.8307 19.04443 Warszawska 16, 43-300 Bielsko-Biała
+49.8163402 19.0531233 Rychlińskiego 19, 43-300 Bielsko-Biała
+49.8163402 19.0531233 Rychlińskiego 19, 43-300 Bielsko-Biała
+49.82153535 19.051217 pl. Ratuszowy 7, 43-300 Bielsko-Biała
+49.820704 19.051415 Dmowskiego 16, 43-300 Bielsko-Biała
+49.82352933 19.05398812 pl. Wolności 8, 43-300 Bielsko-Biała
+49.798151 18.984114 Jaworzańska 105, 43-300 Bielsko-Biała
+49.790249 19.055298 Startowa 36, 43-300 Bielsko-Biała
+49.8005914 19.028571 Kowalska 67, 43-300 Bielsko-Biała
+49.781352 19.05374 Czołgistów 42, 43-300 Bielsko-Biała
+49.7847808 19.0563798 Czołgistów 17, 43-300 Bielsko-Biała
+49.80172 19.07814 Górska 16, 43-300 Bielsko-Biała
+49.82327483 19.0440708 Kącik 4, 43-300 Bielsko-Biała
+49.8217668 19.0410067 Waryńskigo 2, 43-300 Bielsko-Biała
+49.815134 19.050895 Broniewskiego 31, 43-300 Bielsko-Biała
+49.815134 19.050895 Broniewskiego 31, 43-300 Bielsko-Biała
+49.833431 19.036466 Filarowa 18, 43-300 Bielsko-Biała
+49.818055 19.084782 Skowronków 9, 43-300 Bielsko-Biała
+49.784684 19.022174 Karbowa 31, 43-300 Bielsko-Biała
+49.784714 19.022121 Karbowa 31, 43-300 Bielsko-Biała
+49.818699 19.025776 Konopnickiej 27, 43-300 Bielsko-Biała
+49.8282493 19.0491608 Grażyńskiego 2c, 43-300 Bielsko-Biała
+50.315851 18.760864 Gdańska 48, 41-800 Zabrze
+50.315851 18.760864 Gdańska 48, 41-800 Zabrze
+50.307536 18.786822 Średnia 5, 41-800 Zabrze
+50.307536 18.786822 Średnia 5, 41-800 Zabrze
+50.308356 18.785125 Powstańców Śląskich 5, 41-800 Zabrze
+50.308356 18.785125 Powstańców Śląskich 5, 41-800 Zabrze
+50.308962 18.786817 Religi 1, 41-800 Zabrze
+50.305693 18.78651 plac Dworcowy 1, 41-800 Zabrze
+50.305693 18.78651 plac Dworcowy 1, 41-800 Zabrze
+50.303828 18.787999 Plac Warszawski 6, 41-800 Zabrze
+50.303828 18.787999 Plac Warszawski 6, 41-800 Zabrze
+50.303828 18.787999 Plac Warszawski 6, 41-800 Zabrze
+50.303845 18.790735 Wandy 1a, 41-800 Zabrze
+50.303845 18.790735 Wandy 1a, 41-800 Zabrze
+50.302506 18.787919 Plac Krakowski 2, 41-800 Zabrze
+50.302506 18.787919 Plac Krakowski 2, 41-800 Zabrze
+50.302506 18.787919 Plac Krakowski 2, 41-800 Zabrze
+50.301429 18.788119 Świętego Floriana 14, 41-800 Zabrze
+50.301362 18.786639 Świętego Floriana 4, 41-800 Zabrze
+50.301362 18.786639 Świętego Floriana 4, 41-800 Zabrze
+50.323624 18.772971 Aleja Korfantego 18, 41-800 Zabrze
+50.323624 18.772971 Aleja Korfantego 18, 41-800 Zabrze
+50.323624 18.772971 Aleja Korfantego 18, 41-800 Zabrze
+50.294703 18.768006 Roosevelta 81, 41-800 Zabrze
+50.294703 18.768006 Roosevelta 81, 41-800 Zabrze
+50.294703 18.768006 Roosevelta 81, 41-800 Zabrze
+50.294703 18.768006 Roosevelta 81, 41-800 Zabrze
+50.324521 18.825313 Drzymały 10, 41-800 Zabrze
+50.324521 18.825313 Drzymały 10, 41-800 Zabrze
+50.312662 18.76203 Tatarkiewicza 7, 41-800 Zabrze
+50.312772 18.762266 Tatarkiewicza 7, 41-800 Zabrze
+50.330546 18.772849 Heweliusza 31, 41-800 Zabrze
+50.330546 18.772849 Heweliusza 31, 41-800 Zabrze
+50.322224 18.776985 Heweliusza 2, 41-800 Zabrze
+50.328283 18.776859 Heweliusza 14, 41-800 Zabrze
+50.365647 18.790247 Budowlana 34, 41-800 Zabrze
+50.366292 18.794964 Krakowska 31, 41-800 Zabrze
+50.374248 18.803676 Jordana 31a, 41-800 Zabrze
+50.374248 18.803676 Jordana 31a, 41-800 Zabrze
+50.374248 18.803676 Jordana 31a, 41-800 Zabrze
+50.377933 18.808474 Jordana 78, 41-800 Zabrze
+50.377933 18.808474 Jordana 78, 41-800 Zabrze
+50.380578 18.809489 Niepokólczyckiego 26, 41-800 Zabrze
+50.381433 18.806721 Niepokólczyckiego 8, 41-800 Zabrze
+50.299373 18.786251 Sądowa 2, 41-800 Zabrze
+50.28955 18.774437 Czołgistów 7, 41-800 Zabrze
+50.235868 18.977556 Ligocka 103, 40-570 Katowice
+50.101615 19.010747 Fabryczna 2, 43-110 Tychy
+50.2544 19.061484 Porcelanowa 23, 40-246 Katowice
+50.258119 18.656086 Rybnicka 205, 44-122 Gliwice
+50.2565484 18.9849404 Feliksa Bocheńskiego 100, 40-818 Katowice
+50.2592481 18.9852206 Feliksa Bocheńskiego 99, 40-847 Katowice
+50.267852 19.00711 Chorzowska 100, 40-001 Katowice
+50.265593 18.895172 Franciszka Wilka 9, 41-717 Ruda Śląska
+50.2500425 19.027631 Francuska 34, 40-001 Katowice
+50.3545754 18.8407157 Francuska 60, 41-923 Bytom
+50.245144 19.026386 Francuska 70, 40-015 Katowice
+50.333467 18.898283 Frycza-Modrzewskiego 5, 41-907 Bytom
+50.112014 18.987983 Jana Pawła II 16, 43-100 Tychy
+50.202948 19.267911 Grunwaldzka 59, 43-600 Jaworzno
+50.807956 19.13074 aleja Wojska Polskiego 207, 42-208 Częstochowa
+50.258237 19.017637 3 Maja 30, 40-097 Katowice
+49.80184 18.789725 Fabryczna 9, 43-430 Skoczów
+50.275672 18.696081 Pszczyńska 192, 44-100 Gliwice
+50.30732763 18.78314826 Wolności 273, 41-800 Zabrze
+50.2629374 18.986479 Bocheńskiego 69, 40-487 Katowice
+49.860302 19.023295 ul. Warszawska 360 _, 43-346 Bielsko-Biała
+49.803467 19.050403 Leszczyńska 20, 43-300 Bielsko-Biała
+50.096638 19.008611 Towarowa 2C, 43-100 Tychy
+50.285401 18.86168 gen. Józefa Hallera 61, 41-709 Ruda Śląska
+50.821694 19.119667 Generała Ignacego Prądzyńskiego -, 42-202 Częstochowa
+50.823111 19.095583 Generała Leopolda Okulickiego -, 42-202 Częstochowa
+50.804333 19.146833 Generała Wilhelma Orlik-Rückemanna -, 42-202 Częstochowa
+50.67598 19.12642 BOTANICZNA 4, 42-260 ZAWADA
+50.2628324 19.0065559 Gliwicka 49, 40-079 Katowice
+50.131194 18.688694 Główna 1D, 44-237 Bełk
+50.752251 19.278679 Kazimierza Wielkiego dz. nr 1926/11 27, 42-256 Olsztyn k. Częstochowy
+49.721389 19.376222 Krakowska 148, 34-323 Ślemień
+50.271181 18.880989 Gołębi 1, 41-710 Ruda Śląska
+50.249126 19.006289 Barbary 21, 40-053 Katowice
+50.117116 18.991241 Grota-Roweckiego -, 43-100 Tychy
+50.266564 18.8863157 Gwarecka 27B, 41-717 Ruda Śląska
+50.3521271 18.7643556 Handlowa 2B, 41-807 Zabrze
+50.277383 19.072067 al. Walentego Rozdzieńskiego 191, 40-315 Katowice
+50.265831 19.029141 Henryka Mikołaja Góreckiego -, 40-206 Katowice
+50.26582 19.029343 Henryka Mikołaja Góreckiego -, 40-206 Katowice
+49.755769 18.638574 Hilarego Filasiewicza 3, 43-400 Cieszyn
+50.459206 19.087011 Równoległa _, 42-625 Pyrzowice
+50.81972 19.141734 Drogowców 8, 42-202 Częstochowa
+50.817359 19.135142 Jaskrowska 22, 42-200 Częstochowa
+49.806439 19.056657 Żywiecka 93, 43-300 Bielsko-Biała
+50.263302 18.989964 Pukowca 17A, 40-847 Katowice
+49.765058 18.634088 Motelowa 21 `, 43-400 Cieszyn
+50.813457 19.104359 Popiełuszki 2, 42-200 Częstochowa
+50.25833776 19.01926777 ul. Młyńska 6, 40-098 Katowice
+49.658908 18.825355 Jawornik 52A, 43-460 Wisła
+50.693718 18.68743 Lubliniecka 9, 42-713 Kochcice
+50.820611 19.096972 Ignacego Mościckiego -, 42-218 Częstochowa
+50.2734561 18.8530905 Ignacego Paderewskiego 4, 41-710 Ruda Śląska
+50.271241 19.060653 aleja Roździeńskiego 95, 40-203 Katowice
+50.450965 18.879105 Leśna 2, 42-600 Tarnowskie Góry
+50.2579986 19.1981094 Innowacyjna 8, 41-200 Sosnowiec
+50.29966 18.66784 INSTYTUT ONKOLOGII Wybrzeże Armii Krajowej 15 _, 44-100 Gliwice
+50.234261 18.646193 Szpitalna 42, 44-100 Knurów
+49.5741741 18.9088725 Istebna 1688, 43-470 Istebna
+49.555528 18.918778 Istebna 1820, 43-470 Istebna
+49.8388892 19.0369463 ul. Sarni Stok 1, 43-300 Bielsko Biała
+50.2990452 19.1185857 Jabłoniowa 2A, 41-214 Sosnowiec
+50.271698 18.90674 Jacka Malczewskiego 9, 41-707 Ruda Śląska
+50.287504 18.874444 Jadwigi Markowej 13, 41-700 Ruda Śląska
+50.265057 18.885608 Jana Karskiego 4, 41-717 Ruda Śląska
+50.779 19.136583 Jana Lechonia -, 42-202 Częstochowa
+50.35026 18.925784 Jana Smolenia 35, 41-901 Bytom
+50.0611371 18.5054456 Jana Zamojskiego 35a, 44-274 Rybnik
+50.838306 19.123361 Jarosława Iwaszkiewicza 4, 42-224 Częstochowa
+49.666694 19.077778 Jaski 14, 34-324 Lipowa
+49.94984 18.59193 Piłsudskiego dz nr 398/2, 44-335 Jastrzębie Zdrój
+50.830306 19.118833 Jerzego Kurpińskiego-Ponurego -, 42-215 Częstochowa
+50.809778 19.116139 Jerzego Waszyngtona -, 42-217 Częstochowa
+50.780361 19.149639 Józefa Mireckiego -, 42-202 Częstochowa
+49.947468 18.582432 Jana Pawła II 4, 44-330 Jastrzębie-Zdrój
+50.221917 18.672249 Dworcowa 1, 44-190 Knurów
+49.965789 18.690348 Krucza 18, 43-251 Pawłowice
+49.7586398 19.026612 Juliana Fałata 222A, 43-360 Bystra
+50.340542 18.9275862 Juliana Tuwima 15c, 41-900 Bytom
+50.632124 18.8510199 Juliusza Ligonia 21, 42-286 Koszęcin
+50.803889 19.104861 Juliusza Słowackiego -, 42-217 Częstochowa
+49.956712 18.966705 Spokojna 72, 43-230 Goczałkowice Zdrój
+50.810806 19.108028 Karola Szymanowskiego -, 42-217 Częstochowa
+50.258925 18.996524 Żeliwna 38, 40-599 Katowice
+50.0454412 18.7022285 Katowicka 10, 44-240 Żory
+49.801039 19.031114 ANDERSA 81, 43-316 BIELSKO BIAŁA
+50.82456772 19.09890309 Generała Leopolda Okulickiego 50, 42-218 Częstochowa
+50.2836358 19.17634866 11 LISTOPADA 124, 41-200 SOSNOWIEC
+50.1043752 18.9892417 Tischnera 1, 43-100 Tychy
+50.032043 18.699882 Okrężna 2, 44-240 Żory
+50.816139 19.132056 Kazimierza Knauera -, 42-200 Częstochowa
+50.3490402 18.8929492 Kazimierza Pułaskiego 71, 41-902 Bytom
+49.6312313 19.2566941 Kępka 3, 34-331 Przyłęków
+50.236221 18.992229 Kępowa 39, 40-582 Katowice
+50.290019 18.934156 Żołnierska 34, 41-600 Świętochłowice
+50.833528 19.117111 Kiedrzyńska 97, 42-200 Częstochowa
+50.259463 19.062472 1 Maja 162a, 40-240 Katowice
+49.697272 18.827489 3 Maja 130, 43-450 Ustroń
+50.837222 19.164833 Kontkiewicza -, 42-209 Częstochowa
+50.28933 18.792615 3 Maja 93, 41-800 Zabrze
+50.232488 18.99789 Kościuszki 169, 40-047 Katowice
+50.274677 18.830305 Księdza Józefa Niedzieli 51, 41-711 Ruda Śląska
+50.315295 18.875099 L. Solskiego 15, 41-703 Ruda Śląska
+50.806333 19.151333 Legionów 52, 42-202 Częstochowa
+50.761833 19.062111 Leśna -, 42-271 Częstochowa
+49.8057726 19.0412991 Partyzantów 65, 43-300 Bielsko-Biała
+49.82434 19.0121551 Jana III Sobieskiego 163, 43-300 Bielsko-Biała
+49.73574602 19.0667445 Bielska 0, 43-374 Buczkowice
+50.397469 18.8034517 Żołnierska 85, 41-936 Bytom
+50.2944918 18.9417843 Strzelców Bytomskich 30, 41-500 Chorzów
+49.75021 18.6453751 Bielska 55, 43-400 Cieszyn
+50.3352903 19.2093646 Aleja Zagłębia Dąbrowskiego 9, 41-300 Dąbrowa Górnicza 9, 41-300 Dąbrowa Górnicza
+50.287695 18.65610759 Nowy Świat 67, 44-100 Gliwice
+50.30378 18.67306 Toszecka 7, 44-100 Gliwice
+49.941444 18.6040101 Podhalańska 1A, 44-335 Jastrzębie-Zdrój
+50.23406 18.9736852 Ligocka 107, 40-570 Katowice
+50.903158 18.92787173 Henryka Sienkiewicza 2, 42-100 Kłobuck
+50.17249364 18.91444444 Podleska 14, 43-190 Mikołów
+50.3273509 19.0463447 Marii Skłodowskiej-Curie 63a 0, 41-940 Piekary Śląskie
+50.3998444 18.6169179 Wielowiejska 6, 44-120 Pyskowice
+50.0803955 18.2011474 Opawska 122B, 47-400 Racibórz
+50.0473727 18.4698877 Józefa Rymera 7, 44-310 Radlin
+50.3202 19.0073851 Elizy Orzeszkowej 2/d, 41-103 Siemianowice Śląskie
+50.43737362 18.94422701 Oświęcimska 6, 42-622 Świerklaniec
+50.1291204 18.9677505 Burschego 3, 43-100 Tychy
+49.7194821 18.8047457 Księdza Ludwika Kojzara 3, 43-450 Ustroń
+50.3052256 18.7645141 Księdza Konstantego Damrota 1, 41-800 Zabrze
+50.317288 18.8108313 Kasprowicza 2a, 41-800 Zabrze
+50.489239 19.435806 Leśna 18, 42-400 Zawiercie
+50.470644 19.068786 Wolności 90, 42-325 Ożarowice
+50.2908597 19.1217066 Ludwika Zamenhofa 16, 41-214 Sosnowiec
+50.379312 18.890816 Strzelców Bytomskich 96, 41-902 Bytom
+50.320194 19.105913 Będzińska 80, 41-250 Czeladź
+50.317738 18.753167 Szkubacza 1, 41-800 Zabrze
+49.8377778 19.0038889 al.gen.Władysława Andersa 545, 43-300 Bielsko-Biała
+50.786994 19.123081 Jagiellońska 38/40, 42-216 Częstochowa
+50.263012 18.9793352 Pukowca 25, 40-847 Katowice
+50.0895577 18.5717728 Żorska 60, 44-200 Rybnik
+50.3087851 19.1799711 Jana Długosza 80, 41-219 Sosnowiec
+50.3222466 18.7694121 aleja Korfantego 17, 41-800 Zabrze
+50.29023805 19.16020927 Małe Zagórze -, 41-200 Sosnowiec
+50.802611 19.113778 Marii Skłodowskiej-Curie 20, 42-217 Częstochowa
+50.106687 18.984763 Marszałka Józefa Piłsudskiego 20, 43-100 Tychy
+50.803861 19.151694 Marysia -, 42-202 Częstochowa
+50.265821 19.029151 Góreckiego _, 40-206 Katowice
+50.251693 19.006208 Mikołowska 53, 40-065 Katowice
+50.423999 18.39064 MOP Chechło A4, 44-172 Chechło
+50.40426 19.016234 Autostrada Bursztynowa 1, 42-584 Dobieszowice
+50.405612 19.015329 Autostrada Bursztynowa 1, 42-584 Dobieszowice
+50.42492333 18.392946 MOP Proboszczowice A4, 44-180 Proboszczowice
+50.576413 19.050937 Woźniki, Parking -, 42-289 Woźniki
+50.57589333 19.04857 MOP Woźniki Zachód, 42-289 Woźniki
+50.511111 19.382444 Mrzygłodzka 273, 42-400 Zawiercie
+50.0688852 19.9048801 Rostafińskiego 7, 30-072 Kraków
+49.7110181 19.0168839 Myśliwska 52, 43-370 Szczyrk
+49.965687 18.95724 Bielska 46, 43-200 Pszczyna
+50.779542 19.6988 Różana 11 11, 42-230 Koniecpol
+50.481443 19.262297 Łysa Góra 6, 42-470 Siewierz
+50.437621 18.94494 Oświęcimska 19, 42-622 Świerklaniec
+50.101834 18.533058 Budowlanych 6, 44-217 Rybnik
+50.3053111 18.65814722 Portowa 2, 44-100 Gliwice
+50.2150417 18.9797861 Tadeusza Kościuszki 328, 40-608 Katowice
+50.285384 18.617222 Daszyńskiego 277, 44-151 Gliwice
+50.067932 18.516832 Wodzisławska 243, 44-270 Rybnik
+50.766878 19.165247 Bugajska 6/8, 42-200 Częstochowa
+50.274232 18.873679 Obrońców Westerplatte 15, 41-710 Ruda Śląska
+50.83275 19.109417 Obrońców Westerplatte 33, 42-218 Częstochowa
+50.825 19.106722 Okólna -, 42-218 Częstochowa
+50.817333 19.106389 Okólna -, 42-218 Częstochowa
+50.355788 18.902341 Olimpijska 1, 41-900 Bytom
+50.266855 19.008972 Żelazna 2, 40-851 Katowice
+50.31880188 18.94551086 Chorzowska 90, 41-910 Bytom
+50.80281067 19.08763695 Św. Barbary 105, 42-200 Częstochowa
+50.8351059 19.15393257 Warszawska 324/334, 42-200 Częstochowa
+50.31706238 19.24718094 Katowicka 30, 41-300 Dąbrowa Górnicza
+50.28691483 18.67250061 Pszczyńska 52, 44-100 Gliwice
+50.14751434 19.29609871 MOP Kępnica A4, 46-607 Jaworzno
+50.23038864 18.97271347 Piotrowicka 92, 40-724 Katowice
+50.27830505 19.08210182 Roździeńskiego 194, 40-313 Katowice
+50.2625351 19.04436111 Roździeńskiego 102, 40-226 Katowice
+50.2522049 19.04862404 Murckowska 5, 40-266 Katowice
+50.8477211 19.04508591 Częstochowska 90, 42-100 Lgota
+50.37218475 18.74320984 Wieszowa A1, 42-672 MOP Wieszowa Północ
+50.37055588 18.74152946 Wieszowa A1, 42-672 MOP Wieszowa Południe
+50.14951324 19.30126572 MOP A4, 43-607 MOP Zastawie
+50.71876907 19.15589905 Warszawska 10, 42-262 Poczesna
+50.30031586 18.86751556 Zabrzańska 27, 41-700 Ruda Śląska
+50.13231659 18.55131149 Gliwicka 196, 44-207 Rybnik
+50.46595383 19.22977257 Bytomska 67, 42-470 Siewierz
+50.29516602 18.89550781 Drogowa Trasa Średnicowa 9, 41-600 Świętochłowice
+50.1024437 19.00774193 Fabryczna 3A, 43-100 Tychy
+50.10560608 19.00688362 Beskidzka 60, 43-100 Tychy
+50.225525 19.234016 Wojska Polskiego 1, 43-603 Jaworzno
+50.274219 18.861929 Osiedlowa 4, 41-700 Ruda Śląska
+50.252289 18.909526 Oświęcimska 92, 41-707 Ruda Śląska
+50.225465 18.963944 Panewicka 41, 40-760 Katowice
+50.306712 18.646786 Aleja Jana Nowaka-Jeziorańskiego 1, 44-100 Gliwice
+50.246102 19.01507 Wita Stwosza 37, 40-042 Katowice
+50.24159 18.845082 Kłodnicka 95, 41-700 Ruda Śląska
+50.041857 18.686409 Wodzisławska 3a, 44-240 Żory
+50.439435 18.837463 Obwodnica 8, 42-600 Tarnowskie Góry
+50.46632 19.082571 Józefa Piłsudskiego 11, 42-625 Pyrzowice
+50.286522 18.687145 Akademicka 50, 44-100 Gliwice
+50.227193 19.000453 Św. Huberta 43/45, 40-543 Katowice
+50.206377 18.989305 Radockiego 70B, 40-645 Katowice
+50.295079 19.005248 Bytkowska _, 40-147 Katowice
+50.094781 18.540274 Gen. Józefa Hallera _, 44-200 Rybnik
+50.3491224 18.9143147 Parkowa 1, 41-902 Bytom
+50.3498253 18.9123686 Parkowa 2, 41-902 Bytom
+50.844806 19.127884 Generała Stanisława Sosabowskiego 21, 42-224 Częstochowa
+50.36936 18.85327 Bławatkowa 21, 41-923 Bytom
+50.396103 18.874166 Plac Pokoju 4, 41-933 Bytom
+50.341162 18.892273 Rostkowsiego 5, 41-907 Bytom
+50.286447 18.875283 Piotra Niedurnego 63, 41-709 Ruda Śląska
+50.2619845 19.0185319 Piotra Skargi 6A, 40-091 Katowice
+50.294616 18.666625 pl. Inwalidów Wojennych 8, 44-100 Gliwice
+50.347446 18.914886 pl. Kazimierza Kruczkowskiego 1, 41-900 Bytom
+50.352699 18.927255 plac Akademicki 11, 41-902 Bytom
+50.811444 19.125972 plac Daszyńskiego -, 42-200 Częstochowa
+50.347606 18.9246668 plac Grunwaldzki -, 41-902 Bytom
+50.2854156 18.8748923 plac Jana Pawła II 5, 41-709 Ruda Śląska
+50.291377 18.672353 Łużycka 2C, 44-100 Gliwice
+50.355496 18.911237 plac Rodła 1, 41-900 Bytom
+50.3490502 18.9246164 plac Sobieskiego 3, 41-900 Bytom
+50.347009 18.92005 plac Tadeusza Kościuszki 4, 41-902 Bytom
+50.389557 18.820318 plac Witkiewicza 2, 41-900 Bytom
+50.316716 18.880758 Podlas 20, 41-712 Ruda Śląska
+50.33556 18.90478 Golfowa 3, 41-907 Bytom
+50.26321242 19.01411478 Mickiewicza 29, 40-085 Katowice
+49.967014 18.941943 Łokietka 16C, 43-200 Pszczyna
+50.820495 19.116342 al. Armii Krajowej 17 _, 42-218 Częstochowa
+50.254814 18.970381 Kochłowicka 103, 40-818 Katowice
+50.254887 18.970426 Kochłowicka 103, 40-818 Katowice
+49.854244 19.027179 Warszawska 299, 43-300 Bielsko-Biała
+50.27824722 18.95498857 Drogowa Trasa Średnicowa 51, 41-506 Chorzów
+50.27873 18.95397 Drogowa Trasa Średnicowa 51, 41-506 Chorzów
+50.78761629 19.11583361 Jagiellońska 48, 42-200 Częstochowa
+50.229778 19.055083 73 Pułku Piechoty 1, 40-467 Katowice
+49.7266674 19.0033141 Poziomkowa 20, 43-370 Szczyrk
+50.2431209 19.0376989 Pułaskiego 60, 40-028 Katowice
+50.358652 18.928192 Pułkownika Jana Białego 2, 41-902 Bytom
+50.2892364 19.125191 Pusta 40, 41-205 Sosnowiec
+50.302049 18.855063 Raciborska 15, 41-700 Ruda Śląska
+50.813389 19.111333 Racławicka -, 42-217 Częstochowa
+50.8135322 19.1062017 Racławicka 39A, 42-200 Częstochowa
+50.772111 19.15375 Rakowska -, 42-208 Częstochowa
+50.252606 19.025707 Reymonta 24, 40-029 Katowice
+50.231526 18.986397 Rolna 43, 40-555 Katowice
+50.789444 19.131417 Równoległa -, 42-202 Częstochowa
+50.274948 18.866759 1 Maja 310, 41-710 Ruda Śląska
+49.962334 18.631157 Rybnicka 6c, 44-335 Jastrzębie-Zdrój
+50.09718 18.5477 Białych 3, 44-200 Rybnik
+50.10172 18.52242 Budowlanych 4, 44-200 Rybnik
+50.096153 18.537468 Raciborska 16, 44-200 Rybnik
+50.09514 18.54389 Plac Wolności 13, 44-200 Rybnik
+50.06877366 18.54841572 1 Maja 91B, 44-206 Rybnik
+50.093125 18.542718 3 Maja 10, 44-200 Rybnik
+50.100868 18.524265 Broniewskiego 16, 44-217 Rybnik
+50.098076 18.543858 Brudnioka 3, 44-200 Rybnik
+50.102104 18.532535 Budowlanych 6, 44-200 Rybnik
+50.096319 18.514203 Chabrowa 11, 44-210 Rybnik
+50.102405 18.521262 Floriańska 1, 44-217 Rybnik
+50.14201516 18.54868063 Gliwicka 257, 44-207 Rybnik
+50.111752 18.546429 Gliwicka 72, 44-200 Rybnik
+50.059138 18.488624 Górnośląska 103, 44-270 Rybnik
+50.092592 18.539902 Hallera 7, 44-217 Rybnik
+50.132738 18.594411 Hotelowa 11, 44-213 Rybnik
+50.08239 18.536497 Jankowicka 41, 44-218 Rybnik
+50.090115 18.542881 Jankowicka 1, 44-200 Rybnik
+50.096585 18.548789 Kościuszki 10, 44-200 Rybnik
+50.092307 18.540774 Młyńska 4, 44-200 Rybnik
+50.090965 18.540215 Młyńska 12, 44-200 Rybnik
+50.0516 18.5966 Patriotów 50, 44-253 Rybnik
+50.082004 18.505355 Pod Lasem 62, 44-210 Rybnik
+50.09745 18.551296 Powstańców Śląskich 27, 44-200 Rybnik
+50.046444 18.608592 Patriotów 1, 44-253 Rybnik
+50.088515 18.540843 Jankowicka 10, 44-200 Rybnik
+50.090099 18.531306 Reymonta 54, 44-200 Rybnik
+50.142013 18.48068 Rudzka 380, 44-292 Rybnik
+50.093025 18.538266 Rzeczna 8, 44-200 Rybnik
+50.129268 18.981694 Rynek -, 43-100 Tychy
+50.30564183 19.29550566 Szklanych Domów 2, 42-530 Dąbrowa Górnicza
+50.3070779 19.29520227 Szklanych Domów 2, 42-530 Dąbrowa Górnicza
+49.842418 18.998689 al. gen. Władysława Andersa 586 _, 43-300 Bielsko-Biała
+50.26474751 18.69205736 Bojkowska 73, 44-141 Gliwice
+50.088365 18.996111 Sikorskiego 100, 43-100 Tychy
+50.103085 18.979011 Sikorskiego 20, 43-100 Tychy
+50.2696412 18.9992405 Chorzowska 146/152, 40-101 Katowice
+50.270873 19.007264 Chorzowska 107, 40-959 Katowice
+50.450753 18.87949 SKODA LELLEK Leśna 2 _, 42-600 Tarnowskie Góry
+49.706742 19.014116 Skośna 4, 43-370 Szczyrk
+50.806917 19.113917 Śląska -, 42-217 Częstochowa
+50.31123 18.768177 Grunwaldzka 15, 41-819 Zabrze
+50.2633855 19.0165154 Sokolska 24, 40-086 Katowice
+50.240333 18.831839 Solidarności 7, 41-706 Ruda Śląska
+50.786278 19.140444 Sosnowa -, 42-216 Częstochowa
+50.274859 19.127638 Henryka Sienkiewicza 2, 41-200 Sosnowiec
+50.2987891 19.1557191 Jana Matejki 33, 41-219 Sosnowiec
+50.27330091 19.12977679 Kościelna 0, 41-200 Sosnowiec
+50.2787705 19.1296296 Małachowskiego 1, 41-200 Sosnowiec
+50.28844165 19.1320606 Orla/Zgoda 1, 41-200 Sosnowiec
+50.2927353 19.1609783 Ujejskiego 2-4, 41-219 Sosnowiec
+49.83205384 19.05749005 Legionów 54, 43-300 Bielsko Biała
+50.355561 18.872546 Młodzieżowa 6, 41-906 Bytom
+50.785 19.131058 Żródlana 15, 42-200 Częstochowa
+50.34150632 19.23967716 aleja Józefa Piłsudskiego 58 D, 41-300 Dąbrowa Górnicza
+50.25417799 18.72116701 Rolników 449A, 44-141 Gliwice
+50.260616 18.997967 Pukowca 1, 40-847 Katowice
+50.32363 18.871731 Emilii Plater 22, 41-712 Ruda Śląska
+50.09063518 18.56755791 Brzezińska 38 F, 44-203 Rybnik
+50.100602 19.017367 Towarowa 1, 43-100 Tychy
+50.78368 18.96633 Parkowa 17, 42-290 Blachownia
+50.0322 18.6078 Wodzisławska 0, 44-245 Zory
+49.943607 18.430245 Powstańców Śląskich 243, 44-340 Łaziska
+50.28949 18.975327 Promenada Gen. Ziętka 2, 41-500 Chorzów
+50.3437675 18.9214639 Stanisława Moniuszki 23, 41-902 Bytom
+50.2932057 19.1237337 Staropogońska 49, 41-214 Sosnowiec
+50.846028 19.133889 Stefana Starzyńskiego -, 42-224 Częstochowa
+50.368346 18.850024 Stolarzowicka 40, 41-900 Bytom
+50.384516 18.8827988 Strzelców Bytomskich 135, 41-914 Bytom
+50.39627 18.879839 Strzelców Bytomskich 250, 41-900 Bytom
+50.807472 19.095556 Świętej Barbary -, 42-226 Częstochowa
+50.827667 19.10475 Szajnowicza-Iwanowa -, 42-218 Częstochowa
+49.560194 19.347139 Szczyrbok 62, 34-340 Korbielów
+50.248399 19.079101 Szopienicka 65, 40-431 Katowice
+50.26826 18.886549 Szpaków 33, 41-717 Ruda Śląska
+50.296563 18.798113 Mochnackiego 12, 41-800 Zabrze
+50.299631 18.8819865 Szyb Barbary 3, 41-709 Ruda Śląska
+50.78886 19.133516 Aleja Niepodległości 26, 42-216 Częstochowa
+50.8128446 19.09135233 ul. Wyszyńskiego 1 / Kordeckiego 2 1, 42-225 Częstochowa
+50.327464 19.221423 11 Listopada 24, 41-300 Dąbrowa-Górnicza
+50.671533 18.707083 Klonowa 1, 42-700 Lubliniec
+50.058252 18.684615 Północna 60, 44-240 Żory
+50.260181 19.025899 Teatralna 17B, 40-003 Katowice
+50.3480592 19.2112881 Topolowa 48, 41-300 Dąbrowa Górnicza
+50.318352 18.663537 Toszecka 101, 44-100 Gliwice
+50.050445 18.713296 Katowicka 24, 44-240 Żory
+50.81140731 19.13331694 Mirowska 26, 42-202 Częstochowa
+50.274845 19.142499 1 Maja 40 DZ. 3259, 41-200 Sosnowiec
+50.289101 18.677743 Akademicka 9, 44-100 Gliwice
+50.27608645 19.13567343 Anieli Urbanowicz 8, 41-200 Sosnowiec
+50.198269 19.045537 Arki Bożka 2, 41-910 Katowice
+50.280721 18.671696 Adama Asnyka 31/15, 44-100 Gliwice
+50.29011128 19.07995877 Baczyńskiego 14B, 41-203 Sosnowiec
+50.2940097 19.18002862 Bohaterów Monte Cassino 36, 41-219 Sosnowiec
+50.303542 19.187122 Braci Mieroszewskich 55g, 41-219 Sosnowiec
+50.30904022 18.67213124 Cechowa 12, 44-102 Gliwice
+50.298102 18.671383 Chudoby 1, 44-100 Gliwice
+50.30904536 18.67213326 Cyraneczki 1, 44-100 Gliwice
+50.27528562 19.12244686 Dęblińska 7, 41-200 Sosnowiec
+50.294817 18.67172 Dworcowa 44, 44-100 Gliwice
+50.276545 19.195753 Gacka 1B, 41-218 Sosnowiec
+50.301262 18.649109 Gagarina 14, 44-121 Gliwice
+50.292196 18.666358 Górnych Wałów 4, 44-100 Gliwice
+50.300355 18.652729 Góry Chełmskiej 20, 44-100 Gliwice
+50.247455 19.036319 Graniczna 57, 40-018 Katowice
+50.323441 18.652702 Gwiazdy Polarnej 36, 44-117 Gliwice
+50.297394 18.660094 ul. Jasnogórska 8, 44-100 Gliwice
+50.26013111 19.26877888 Kadłubka 20, 41-217 Sosnowiec
+50.285584 19.017528 Karłowicza 53, 40-145 Katowice
+50.27926368 19.12366897 Kilińskiego 22, 41-200 Sosnowiec
+50.28132534 19.12754622 Kilińskiego 70, 41-200 Sosnowiec
+50.28992239 19.17506026 Kisielewskiego 1, 41-219 Sosnowiec
+50.28674525 19.15662062 Kombajnistów 291, 41-200 Sosnowiec
+50.24970286 19.16471724 Kopalniana 2A, 41-200 Sosnowiec
+50.322483 18.658926 ul. Kopernika -, 44-117 Gliwice
+50.297069 18.656983 Kozielska 8, 44-100 Gliwice
+50.293115 18.663299 Krupnicza 16, 44-100 Gliwice
+50.29148332 19.07980391 Krzysztofa Kamila Baczyńskiego 14, 41-203 Sosnowiec
+50.274951 18.981356 Krzywoustego 9, 40-870 Katowice
+50.263111 19.092842 Ks. Bskp Herberta Bednorza 14, 40-384 Katowice
+50.279985 19.13897 Legionów 23 DZ. 1520, 41-200 Sosnowiec
+50.313487 18.68732 Lubliniecka 45, 44-100 Gliwice
+50.291207 18.672217 ul. Łużycka 2C, 44-100 Gliwice
+50.277925 19.112069 Matki Teresy Kierocińskiej 24, 41-200 Sosnowiec
+50.227081 18.958974 Medyków 5, 40-751 Katowice
+50.281426 19.116185 Stanisława Moniuszki 7, 41-200 Sosnowiec
+50.289015 18.663438 Nowy Świat 14, 44-100 Gliwice
+50.327438 18.647183 Oriona 120, 44-117 Gliwice
+50.23665344 19.16019547 Śliwki 4a, 42-208 Sosnowiec
+50.320303 18.689421 Paderewskiego 56, 44-105 Gliwice
+50.226187 18.973516 Panewnicka 9, 40-709 Katowice
+50.305629 18.692501 Stefana Okrzei 20, 44-100 Gliwice
+50.303189 18.693075 Poniatowskiego 14, 44-100 Gliwice
+50.30330692 19.18617236 Jana Długosza 1, 41-219 Sosnowiec
+50.223886 19.069575 Przyjazna 5, 40-466 Katowice
+50.293803 18.64145 Radiowa 1, 44-100 Gliwice
+50.202369 18.9869 Radockiego 178, 40-645 Katowice
+50.2890024 19.18710144 Radomska 2, 41-219 Sosnowiec
+50.27492527 19.11330499 Regulacyjna 8, 41-209 Sosnowiec
+50.359224 18.64287 Rekreacyjna / przy ul. Toszeckiej -, 44-100 Gliwice
+50.241425 19.148387 Rynek 22, 41-208 Sosnowiec
+50.259467 19.011581 Sądowa 4, 40-621 Katowice
+50.289154 18.640927 Słowackiego 62, 44-100 Gliwice
+50.27993668 19.13216424 Śmigielskiego -, 41-200 Sosnowiec
+50.318624 18.666722 Sokoła 4, 44-117 Gliwice
+50.294568 18.648786 Styczyńskiego 2, 44-100 Gliwice
+50.294761 18.661522 Świętokrzyska 3, 44-100 Gliwice
+50.270324 19.126664 Teatralna 9, 41-208 Sosnowiec
+50.29212276 19.24583988 Wagowa 62A, 41-215 Sosnowiec
+50.307624 18.678032 Warszawska 35, 44-100 Gliwice
+50.276223 19.126629 Warszawska 9, 41-200 Sosnowiec
+50.276178 19.12422 Józefa Piłsudskiego 7a, 41-200 Sosnowiec
+50.305269 18.674482 Warszawska 1, 44-102 Gliwice
+50.27982355 19.14212552 Wawel 15, 41-200 Sosnowiec
+50.2763929 19.14177605 Wincentego Witosa 5c, 41-203 Sosnowiec
+50.256332 19.02156 Wojewódzka 10, 40-026 Katowice
+50.297464 18.668654 Wybrzeże Wojska Polskiego 5, 44-100 Gliwice
+50.322991 18.601753 Wyczółkowskiego 30, 44-109 Gliwice
+50.296565 18.668347 Wyszyńskiego 1, 44-100 Gliwice
+50.28599218 19.13368909 Zakątek 5, 41-205 Sosnowiec
+50.28527409 19.14613306 Zamkowa 2, 41-200 Sosnowiec
+50.338518 18.640992 Przyszowska 36, 44-113 Gliwice
+50.28822955 19.13009073 Żytnia 10, 41-205 Sosnowiec
+49.979226 18.945052 Dworcowa - dz. 1210/48, 43-200 Pszczyna
+50.2619742 19.03115756 Uniwersytecka 18, 40-007 Katowice
+50.258757 19.020893 Młyńska 2 _, 40-098 Katowice
+50.318051 19.208252 Porozumienia Dąbrowskiego 1980 1b, 41-300 Dąbrowa Górnicza
+50.094253 18.565977 Żorska 11 _, 44-203 Rybnik
+49.857965 19.026689 Warszawska 330 _, 43-346 Bielsko-Biała
+50.2522228 19.0490003 Aleja Murckowska 5a, 40-266 Katowice
+50.263921 19.059566 VW NOMA2, al. Roździeńskiego 188 E _, 40-203 Katowice
+50.852171 19.149035 Makuszyńskiego 74/76, 42-209 Częstochowa
+50.321601 18.885086 Walentego Fojkisa 6, 41-712 Ruda Śląska
+50.27058 19.015238 Widok 19, 40-118 Katowice
+50.270647 19.015176 Widok 19, 40-118 Katowice
+50.779167 19.141889 Wierzbowa -, 42-202 Częstochowa
+50.315012 18.890056 Wincentego Lipa 5, 41-712 Ruda Śląska
+50.84125 19.135444 Wincentego Witosa -, 42-224 Częstochowa
+50.398144 18.874445 Władysława Łokietka 2, 41-933 Bytom
+50.304953 18.744534 Wolności 59, 41-804 Zabrze
+50.350343 18.88699 Wrocławska 122, 41-902 Bytom
+50.112798 19.004615 Wyszyńskiego 1, 43-100 Tychy
+50.3413716 18.9038404 Wyzwolenia 10, 41-907 Bytom
+49.8311659 19.065423 Wyzwolenia 95, 43-300 Bielsko-Biała
+50.034644 18.67326 Malinowa 1, 44-240 Żory
+50.305276 18.784274 ul. Johanna Goethego 1 _, 41-800 Zabrze
+50.363853 18.800929 ul. Ofiar Katynia 33 _, 41-808 Zabrze
+50.6346336 18.8406519 Zamkowa 2, 42-286 Koszęcin
+50.0037105 18.6458823 Zamkowa 8, 44-268 Jastrzębie-Zdrój
+50.339823 18.900041 Zielna 25, 41-907 Bytom
+50.223203 18.990352 Generała Zygmunta Waltera-Jankego 13, 40-615 Katowice
+50.800778 19.107917 Zygmunta Krasińskiego -, 42-217 Częstochowa
+51.1187 20.8535 Popiełuszki 10, 26-110 Skarżysko-Kamienna
+50.882295 20.639976 Warszawska 90, 25-314 Kielce
+50.900382 20.590623 Zakładowa 18, 25-670 Kielce
+50.900382 20.590623 Zakładowa 18, 25-670 Kielce
+51.0174509 21.5485953 bałtów 171, 27-423 Bałtów
+50.274273 20.482298 Kolejowa 27, 28-500 Kazimierza Wielka
+51.1867027 20.4222869 Partyzantów 11, 26-200 Końskie
+50.7988121 21.4325149 Kopernika 15, 27-500 Opatów
+50.95387977 21.36663775 Długa 2B, 27-400 Ostrowiec Świętokrzyski
+50.56792 21.1718378 Jana Pawła II 10, 28-200 Staszów
+50.4710271 20.6905683 Bohaterów Warszawy 115, 28-100 Busko-Zdrój
+51.037152 21.088557 księdza Kardynała Stefana Wyszyńskiego 14, 27-200 Starachowice
+51.06526966 21.07502212 Batalionów Chłopskich 11, 27-200 Starachowice
+50.8913406 21.2025813 Czajęcice 31A, 27-425 Czajęcice
+50.881134 20.646247 Świętokrzyska 20, 25-406 Kielce
+50.93394954 21.38784946 Aleja 3 Maja 17, 27-400 Ostrowiec Świętokrzyski
+50.68264 21.757855 Błonie 2, 27-600 Sandomierz
+50.6476981 20.2834117 Władysława Stanisława Reymonta 11, 28-300 Jędrzejów
+50.471033 20.690527 Bohaterów Warszawy 115, 28-100 Busko-Zdrój
+50.470453 20.66855 Wełecz 142, 28-100 Wełecz
+51.0675 20.841449 Harcerska 12, 26-130 Suchedniów
+50.901228 20.879774 Kielecka 15A, 26-010 Św. Katarzyna
+50.881851 20.606965 Oskara Kolberga 19, 25-620 Kielce
+50.894813 20.621208 Karola Olszewskiego 6, 25-001 Kielce
+50.6732657 21.7379365 Krakowska 36D, 27-600 Sandomierz
+50.8060769 20.62015131 Księdza Piotra Ściegiennego 260, 25-116 Kielce
+50.8983336 20.5936736 Transportowców 15, 25-678 Kielce
+50.653594 20.288094 Wilanowska 2, 28-300 Jędrzejów
+50.895405 20.605465 1 Maja 254, 25-646 Kielce
+50.86872101 20.62002754 Żytnia 1A, 25-018 Kielce
+50.62313843 20.28400803 S7 S7, 28-300 Łączyn
+50.8727534 20.628986 plac Konstytucji 3 Maja -, 25-001 Kielce
+50.8753364 20.5965265 Podklasztorna 10, 25-738 Kielce
+50.90909005 20.68112377 Warszawska 422, 25-414 Kielce
+50.687292 21.725305 Polskiej Organizacji Wojskowej 8, 27-600 Sandomierz
+50.9076869 20.5911237 Przęsłowa 4, 25-671 Kielce
+51.0658862 21.0714819 Radomska 76a, 27-200 Starachowice
+50.903424 20.583458 Wystawowa 2, 25-672 Kielce
+50.855199 20.570451 Krakowska 283, 25-801 Kielce
+50.86231387 20.59848298 Jagiellońska 92, 25-734 Kielce
+50.68093 21.758552 Przemysłowa 2, 27-600 Sandomierz
+50.491068 20.717993 Mikułowice 283, 28-100 Mikułowice
+50.26404 20.493088 Okrężna PM, 28-500 Kazimierza Wielka
+50.4532 20.71917 Rzewuskiego 8, 28-100 Busko-Zdrój
+50.499387 20.75953469 Zbrodzice 82, 28-100 Zbrodzice
+53.6933078 20.4097867 Dorotowo 79B, 11-034 Dorotowo
+53.748856 20.461281 Aleja Warszawska 117d, 10-701 Olsztyn
+53.8381136 20.6919574 Wojska Polskiego 31, 11-010 Barczewo
+54.07635079 19.62297217 Sand Valley 23, 14-400 Zielony Grąd
+54.07644081 19.62301301 Sand Valley 23, 14-400 Zielony Grąd
+53.79594501 21.56654038 aleja Spacerowa 7, 11-730 Mikołajki
+53.647351 21.564538 Aleja Wczasów 4, 12-220 Ruciane-Nida
+54.043806 21.744083 aleja Wojska Polskiego 56, 11-500 Giżycko
+54.109429 19.49968 Komorowo Żuławskie 1A, 82-310 Elbląg
+53.784151 20.481197 Aleja Wojska Polskiego 6A, 10-225 Olsztyn
+54.320691 22.296333 Zadumy 2, 19-500 Gołdap
+54.28174749 20.48996757 Szkolna 2, 11-220 Górowo Iławeckie
+54.1230989 20.57300842 Wiejska 11, 11-100 Lidzbark Warmiński
+54.0318371 21.7727187 Dąbrowskiego 14, 11-500 Giżycko
+54.15179062 19.41721916 Plac Dworcowy 3, 82-300 Elbląg
+54.18864441 19.4021759 Szarych Szeregów 8, 82-300 Elbląg
+54.15790939 19.4072628 Bałuckiego 13, 82-300 Elbląg
+54.15895844 19.41282845 Grobla św. Jerzego 18, 82-300 Elbląg
+54.17965698 19.40012932 Robotnicza 175, 82-300 Elbląg
+54.18282318 19.38579559 Elektryczna 20, 82-300 Elbląg
+54.17710114 19.39843559 Brzeska 31, 82-300 Elbląg
+54.18513107 19.39800072 Podgórna 10, 82-300 Elbląg
+54.15836716 19.39801216 Przymurze 9b, 82-300 Elbląg
+54.15766144 19.39798927 Wigilijna 12, 82-300 Elbląg
+54.17832947 19.40637207 aleja Piłsudskiego 2, 82-300 Elbląg
+54.15775681 19.40479279 Hetmańska 5A, 82-300 Elbląg
+54.18349838 19.40844345 Wiślicka 46, 82-300 Elbląg
+54.18674088 19.42210197 Ogólna 73, 82-300 Elbląg
+54.16016769 19.40025139 Krótka 5, 82-300 Elbląg
+54.14866257 19.42960358 Grunwaldzka 135, 82-300 Elbląg
+54.15523911 19.4110508 Widok 5, 82-300 Elbląg
+54.16541672 19.42382813 Agrykola 8, 82-300 Elbląg
+54.18849182 19.40590096 Jan Pawła II 5, 82-300 Elbląg
+54.1699791 19.40401268 Brzozowa 12, 82-300 Elbląg
+54.1781044 19.42248344 aleja Piłsudskiego 19, 82-300 Elbląg
+54.15985489 19.40708351 Plac Konstytucji 1, 82-300 Elbląg
+54.16135788 19.40744019 Łączności 2, 82-300 Elbląg
+54.16962814 19.44123268 Chrobrego 34, 82-300 Elbląg
+54.15249252 19.39125633 Warszawska 83, 82-300 Elbląg
+53.26224136 19.82504654 Działdowska 10, 13-230 Lidzbark
+53.7909584 20.50313759 Cicha 7, 10-313 Olsztyn
+53.79217529 20.49712372 Wrocławska 2, 10-248 Olsztyn
+53.77706528 20.50492859 Pana Tadeusza 6, 10-459 Olsztyn
+53.7822113 20.48775482 Dąbrowszczaków 21, 10-540 Olsztyn
+53.77648926 20.48980141 Głowackiego 17, 10-447 Olsztyn
+53.78449631 20.48995018 Kolejowa 13, 10-284 Olsztyn
+53.73751068 20.50355148 Kanta 11, 10-691 Olsztyn
+53.7793541 20.50957489 Kołobrzeska 38, 10-434 Olsztyn
+53.82280731 20.48088837 Wadąska 9, 10-382 Olsztyn
+53.77993011 20.46624374 Artyleryjska 3E, 10-165 Olsztyn
+53.77984238 20.45602226 Jeziorna 5, 10-852 Olsztyn
+53.77724075 20.45116806 Kapitańska 23, 10-153 Olsztyn
+53.77215576 20.44236183 Miła 10, 10-852 Olsztyn
+53.77810287 20.42403793 Sielska 38B, 10-802 Olsztyn
+53.76535034 20.42921066 Żytnia 71, 10-822 Olsztyn
+53.75058746 20.45932388 Dybowskiego 11, 10-719 Olsztyn
+53.74979019 20.45281982 Dybowskiego 9, 10-723 Olsztyn
+53.74103165 20.47830963 Hallera 7, 10-693 Olsztyn
+53.73622131 20.49578094 Mroza 31, 10-692 Olsztyn
+53.74026871 20.50114822 Kanta 10/12, 10-691 Olsztyn
+53.78076553 20.49123383 Pułaskiego 7, 10-514 Olsztyn
+53.77383423 20.47603989 Szrajbera 9, 10-007 Olsztyn
+53.76416016 20.50380516 Wyszyńskiego 11, 10-457 Olsztyn
+53.75489807 20.50084877 Murzynowskiego 22, 10-684 Olsztyn
+53.77267075 20.48088646 Knosały 3-5, 10-015 Olsztyn
+53.77313232 20.47331047 Warszawska 13, 10-081 Olsztyn
+53.76506042 20.46901131 Gałczyńskiego 1, 10-089 Olsztyn
+53.77896118 20.48357964 Dąbrowszczaków 42, 10-543 Olsztyn
+53.74383545 20.48591042 Pileckiego 8, 10-693 Olsztyn
+53.76176071 20.49927521 Pstrowskiego 28A, 10-602 Olsztyn
+53.79452133 20.48946953 Rataja 58, 11-041 Olsztyn
+53.76795959 20.47532845 Borkowskiego 3, 10-087 Olsztyn
+53.75436783 20.49560356 Orłowicza 23, 10-684 Olsztyn
+53.74922943 20.50074768 Barcza 48, 10-685 Olsztyn
+53.74474716 20.50507355 Boenigka 12, 10-686 Olsztyn
+53.73713303 20.48820305 Pomorska 9, 10-699 Olsztyn
+53.74341202 20.51122093 Jeziołowicza 3, 10-690 Olsztyn
+53.74070358 20.51424789 Gębika 2, 10-691 Olsztyn
+53.72652817 20.4774456 Złota 6, 10-698 Olsztyn
+53.78511429 20.48237038 Wojska Polskiego 74, 10-290 Olsztyn
+53.77282715 20.49709702 Piłsudskiego 46, 10-450 Olsztyn
+53.7794342 20.47936058 Jana Pawła II 1, 10-101 Olsztyn
+53.78133392 20.45173645 Żeglarska 4, 10-160 Olsztyn
+54.38137436 19.82382011 Katedralna 3, 14-500 Braniewo
+54.26379 20.800576 Józefa Bema 40C _, 11-200 Bartoszyce
+54.150474 19.370958 Żuławska 19, 82-300 Elbląg
+53.69863174 19.9585105 Jana Pawła II 9, 14-100 Ostróda
+54.1640602 20.8212799 Galiny 110, 11-214 Bartoszyce
+53.874438 21.322258 Giżycka 6, 11-700 Mrągowo
+53.7325461 20.3736245 Golfowa 20A, 11-036 Naterki
+53.8145489 22.3738074 Ciepła 13, 19-300 Ełk
+54.12480844 20.58326068 Pl. Zamkowy 1, 11-100 Lidzbark Warmiński
+53.689401 19.983462 Grunwaldzka 74D, 14-104 Ostróda
+53.612361 21.750417 Jabłoń 1, 12-200 Jabłoń
+53.601393 19.5625084 Jarosława Dąbrowskiego 9A, 14-200 Iława
+53.7545311 20.4840122 Juliana Tuwima 26, 10-748 Olsztyn
+53.7538053 20.4839283 Juliana Tuwima 26, 10-748 Olsztyn
+54.166101 19.401743 Teatralna 5, 82-300 Elbląg
+53.710266 19.977435 Plebiscytowa 3, 14-100 Ostróda
+53.61232823 19.61238256 Księżycowa 22, 14-200 Nowa Wieś
+54.3887999 19.8296591 Królewiecka 60A, 14-500 Braniewo
+53.7587127 22.3304007 Gen. Sikorskiego 13, 19-300 Ełk
+54.0357283 21.776377 Bohaterów Westerplatte 1, 11-500 Giżycko
+54.302902 22.2979202 Wojska Polskiego 14, 19-500 Gołdap
+54.122965 20.5739429 Wiejska 1, 11-100 Lidzbark Warmiński
+54.054361 22.141278 Łękuk Mały 8, 11-510 Łękuk Mały
+53.7853828 20.5100726 Lubelska 26, 10-407 Olsztyn
+54.02119 22.488076 osiedle Siejnik II 1, 19-400 Olecko
+53.77123 20.5125 Leonharda 9, 10-454 Olsztyn
+53.515024 20.298223 MOP Lutek S7, 11-015 Warlity Małe
+53.45612134 19.72673938 Mortęgi 3, 14-260 Mortęgi
+53.349889 20.426306 Sienkiewicza 8, 13-100 Nidzica
+54.174927 19.441214 Marymoncka 5, 82-300 Elbląg
+53.77953 20.51321 Leonharda 3, 11-041 Olszyn
+54.166103 19.362416 Kazimierzowo 7A, 82-300 Elbląg
+53.74877 20.461323 Aleja Warszawska 117 D _, 10-720 Olsztyn
+53.88982391 19.73581886 MOP S7, 14-330 MOP Sople Wschód
+53.88234711 19.7327652 MOP S7, 14-330 MOP Sople Zachód
+53.86018372 21.28278732 Olsztyńska 15, 11-700 Mrągowo
+53.7460289 20.45841789 Aleja Warszawska 100, 10-702 Olsztyn
+53.75841522 20.48730659 Aleja Gen. Władysława Sikorskiego 21, 10-088 Olsztyn
+53.58237457 20.18023872 MOP Olsztynek S7, 11-015 Olsztynek
+53.29979706 20.43716049 Pawliki 12, 13-100 Pawliki
+53.63922 21.8252 Przy Plaży Miejskiej dz nr 11, 12-200 Pisz
+53.62314 21.79546 Gdańska 11, 12-200 Pisz
+53.63076 21.80557 Gizewiusza 5, 12-200 Pisz
+53.7796285 20.4822148 plac Konsulatu Polskiego 1, 11-041 Olsztyn
+53.8313929 22.3937067 Podmiejska 1, 19-300 Ełk
+54.0221538 21.7322242 Przemysłowa 17, 11-500 Wilkasy
+53.626575 21.800071 Sienkiewicza 2, 12-200 Pisz
+53.710361 20.377472 Siła 100, 11-036 Siła
+54.0802 21.49 Gierłoż 5 11-400 Gierłoż 5, 11-400 Gierłoż
+53.688639 20.099167 Spacerowa 2a, 14-133 Stare Jabłonki
+53.4055286 19.558472 Spedycyjna 1, 13-306 Kurzętnik
+54.15393999 19.39873793 Czerniakowska 8 A, 82-300 Elbląg
+53.78470574 20.53570026 Lubelska 40A, 10-410 Olsztyn
+53.782288 20.533224 Towarowa 20D, 11-041 Olsztyn
+53.781816 20.513626 Towarowa 11, 10-416 Olsztyn
+53.7080188 19.9426916 Turystyczna 15, 14-100 Ostróda
+53.77341804 20.49568287 Piłsudskiego 44, 11-041 Olsztyn
+53.7725925 20.49578262 Piłsudskiego 44, 11-041 Olsztyn
+53.627607 21.812789 Warszawska 1, 12-200 Pisz
+53.79825 21.578167 Wawrzyńca Prusa 3, 11-730 Mikołajki
+53.660333 21.576 Wrzosowa 3, 12-220 Ruciane-Nida
+53.8302435 20.7365547 Zalesie 12, 11-010 Barczewo
+52.407629 17.084192 Polna 23, 62-020 Swarzędz
+51.6092618 16.8617721 17 Stycznia 33, 63-900 Rawicz
+52.3762448 16.980648 Adama Kręglewskiego 2, 61-248 Poznań
+53.168758 16.7705109 aleja Powstańców Wielkopolskich 203, 64-920 Piła
+53.1687441 16.7704154 aleja Powstańców Wielkopolskich 203, 64-920 Piła
+51.995709 18.560598 Laski 10 _, 62-731 Przykona
+53.151395 16.769576 Bydgoska 137a, 64-920 Piła
+51.968445 17.506356 Wojska Polskiego 32, 63-200 Jarocin
+53.136651 16.752125 Poznańska 93, 64-920 Piła
+51.764963 18.080031 Aleja Wojska Polskiego 123, 62-800 Kalisz
+52.417529 16.931936 Armii Poznań 45231, 61-721 Poznań
+52.44056 16.764165 Świętego Antoniego 2, 62-080 Swadzim
+51.74721977 18.06210198 Podmiejska 22, 62-800 Kalisz
+52.435154 16.826937 ul. Sianowska 67, 60-431 Poznań
+52.413272 16.764938 Bukowska 46, 62-081 Wysogotowo
+52.39424 16.917186 Bergera 51/1, 61-538 Poznań
+52.53628162 16.94407353 Jesionowa 1, 62-003 Biedrusko
+52.8599358 16.0748183 Szosa Dworcowa 9c, 64-731 Drawski Młyn
+52.5344156 17.555851 Myśliwiecka 74, 62-200 Gniezno
+52.54101897 17.61086401 Paczkowskiego 18, 62-200 Gniezno
+51.7448695 18.0488772 Marii Skłodowskiej -Curie 12-14, 62-800 Kalisz
+52.081604 16.6259816 Antoniego Kaźmierczaka 29, 64-000 Kościan
+52.3981907 17.209906 Poznańska 116, 62-025 Kostrzyn
+51.8490971 16.6033845 Kąkolewska 14, 64-100 Leszno
+51.84619617 16.5880668 Niepodległości 71A, 64-100 Leszno
+52.70476811 16.52842471 Dworcowa 4A, 64-520 Obrzycko
+51.57881 17.66902 Krotoszyńska 29, 63-430 Odolanów
+51.6401319 17.83807647 Majorka 1, 63-400 Ostrów Wielkopolski
+51.6359361 17.8027938 Budowlanych 1, 63-400 Ostrów Wielkopolski
+51.65649725 17.78301744 Głowackiego 63, 63-410 Ostrów Wielkopolski
+51.64589 17.85642 Grabowska 115, 63-410 Ostrów Wielkopolski
+51.649568 17.807055 Kolejowa 32A, 63-400 Ostrów Wielkopolski
+53.1809257 16.7531223 Miła 1, 64-920 Piła
+53.1566148 16.7495971 Powstańców Wielkopolslkich 68, 64-920 Piła
+51.7694309 16.810201 Gostyńska Szosa 29, 64-125 Poniec
+52.45943737 16.8962607 Obornicka 334, 60-689 Poznań
+52.4417361 16.8673361 Adama Poszwińskiego 2, 60-470 Poznań
+52.3674461 16.841361 Sycowska 18, 60-003 Poznań
+52.4517192 16.9230663 Osiedle Bolesława Śmiałego 109, 60-682 Poznań
+52.3895588 16.85403138 Grunwaldzka 220, 60-166 Poznań
+52.4118 16.83195 Jana Brzechwy 99, 60-195 Poznań
+52.3584986 16.8851201 Jesionowa 16, 61-408 Poznań
+52.4437549 16.9163342 Lechicka 59, 61-695 Poznań
+52.4530578 16.94751079 Naramowicka 219, 61-611 Poznań
+51.610431 16.851665 Piłsudskiego 8, 63-900 Rawicz
+51.6130736 16.8669718 Sarnowska 4, 63-900 Rawicz
+52.3948076 16.7989721 Poznańska 90, 62-070 Skórzewo
+52.389593 16.771792 Poznańska 1, 60-185 Skórzewo
+52.27761333 16.69078309 Kościańska 54A, 62-060 Stęszew
+52.6061888 16.58083237 Wojska Polskiego 6a, 64-500 Szamotuły
+52.7108919 16.3918422 Adama Mickiewicza 24, 64-510 Wronki
+52.3294972 17.5585016 Daszyńskiego 8, 62-300 Wrześńia
+52.456638 16.951164 Boranta 67/2 i 14/11, 61-608 Poznań
+52.41263 16.935457 Bóżnicza 1/1, 61-751 Poznań
+52.378515 16.577579 Brzozowa 24, 64-320 Niepruszewo
+52.338999 16.108047 Przyłęk 125A, 64-300 Nowy Tomyśl
+52.4132419 16.8254948 Bukowska 366A, 60-189 Poznań
+52.4075472 16.8665261 ul. Pastelowa 2, 61-001 Poznań
+52.40550078 16.86584355 Kolorowa 2-10, 60-198 Poznań
+53.158879 16.755715 Aleja Powstańców Wielkopolskich 99, 64-920 Piła
+51.65093671 17.80735935 Andrzeja Kowalczyka 3, 63-400 Ostrów Wielkopolski
+51.826774 16.604616 Al. Konstytucji 3 Maja 13 _, 64-100 Leszno
+51.6845432 17.4706966 Ostrowska 122, 63-700 Krotoszyn
+52.40209961 16.90389061 Głogowska 14, 60-104 Poznań
+52.42188263 16.90207672 Litewska 22, 60-605 Poznań
+52.2874368 16.9841988 Poznańska -, 62-023 Kamionki
+52.3280811 17.0373836 Fabryczna 5, 62-023 Żerniki
+52.352218 16.887452 Dębiecka 1, 62-030 Luboń
+52.412579 16.923452 Feliksa Nowowiejskiego 7/6, 61-733 Poznań
+52.3685805 16.9886152 Torowa 14, 61-315 Poznań
+52.353632 16.840237 Głogowska 440, 60-004 Poznań
+52.380525 16.896821 Górecka 30, 60-201 Poznań
+52.323722 17.561158 Kolejowa 15, 62-300 Września
+52.398993 16.906154 Gąsiorowskich 38/9, 60-704 Poznań
+52.413148 16.83591 Bukowska 287a _, 60-189 Poznań
+52.358674 16.848589 Wajsówny 9 _, 60-002 Poznań
+52.435054 16.779368 Poznańska 33 _, 62-081 Przeźmierowo
+52.412273 16.954119 Gdańska 5, 61-001 Poznań
+52.40571 17.0747 Dworcowa 7, 62-020 Swarzędz
+52.3856215 16.8902993 ul. Głogowska 151, 62-206 Poznań
+52.41842309 16.90235052 Swiętego Wawrzyńca 15, 60-539 Poznań
+52.07649103 18.82498154 Droga Wojewódzka 473 16, 62-660 Dąbie
+51.874583 17.005611 Górna 30, 63-800 Gostyń
+51.87675 17.017806 Łąkowa 4, 63-800 Gostyń
+51.877972 17.017778 Rynek 2, 63-800 Gostyń
+52.430404 16.933804 Gronowa 7/6, 61-655 Poznań
+52.3914388 16.8580919 Grunwaldzka 182, 60-166 Poznań
+52.3865927 16.9120476 Hetmańska 91, 61-514 Poznań
+51.765687 18.082883 F. Chopina 9, 62-800 Kalisz
+52.3748 17.4637 Barczyzna 12 -, 62-330 Barczyzna
+52.3748 17.4637 Barczyzna 12 -, 62-330 Barczyzna
+52.354803 17.014203 Spławie 43A, 61-312 Poznań
+52.2018975 17.4883946 Plac Wiosny Ludów 16, 62-320 Miłosław
+52.400204 16.972012 ul. Baraniaka 77, 61-131 Poznań
+52.4792392 16.8696412 Konwaliowa 3, 62-002 Suchy Las
+52.50165 16.243214 Lwówecka 22, 62-045 Pniewy
+52.382085 16.987565 Szwedzka 10, 61-285 Poznań
+51.8422543 17.9453445 Jana Pawła II 1, 63-322 Gołuchów
+51.644 17.8304 Waryńskiego 30, 63-400 Ostrów Wielkopolski
+51.4353158 17.91776942 Leśna 51, 63-500 Ostrzeszów
+51.7355116 18.0299349 Inwestorska 9, 62-800 Kalisz
+52.352244 16.99807 Bolesława Krzywoustego 135, 61-324 Poznań, Poland 135, 61-324 Poznań
+51.847658 16.584904 Jana Ostroroga 8a, 64-100 Leszno
+52.419345 16.866014 Janusza Meissnera 1B, 60-408 Poznań
+52.385945 16.86025 Jawornicka nr 1 10959, 60-159 Poznań
+52.627345 16.217363 Jeziorna 26, 64-412 Chrzypsko Wielkie
+52.381037 16.862165 Kacza nr 1 131/2, 60-106 Poznań
+52.4352 16.928 Aleje Solidarności 42, 61-696 Poznań
+52.40930485 17.08362856 Polna 24, 62-020 Swarzędz
+52.561837 17.609515 Gdańska 119, 62-200 Gniezno
+52.403197 16.900207 Konopnickiej 47, 60-771 Poznań
+52.409216 16.935425 Kramarska 17, 61-765 Poznań
+52.4125804 16.9768709 Krańcowa 42, 61-037 Poznań
+51.96869358 16.82294266 Kościanska 75, 64-010 Krzywiń
+52.486417 16.851889 Złotnicka 1, 62-002 Suchy Las
+52.43950154 16.78648706 Szamotulska 0, 62-081 Baranowo
+52.56229 16.98515 Obornicka 127, 62-005 Bolechowo
+52.3871211 16.7407651 Ul. Różany Zakątek 23, 62-069 Dąbrówka
+51.8480934 16.5821291 Antoniny 12, 64-100 Leszno
+52.3527804 16.8857508 Dębiecka 1a, 62-030 Luboń
+52.31150255 16.87805776 Poznańska 29, 62-051 Łęczyca
+52.30640898 16.12986677 Celna 4, 64-300 Nowy Tomyśl
+53.1444594 16.7337359 Okrzei 2, 64-920 Piła
+53.1537919 16.7530212 Janusza Kusocińskiego 1, 64-920 Piła
+52.3672 16.8077051 Grunwaldzka 533/541, 62-064 Plewiska
+52.442932 16.946482 Naramowicka 142, 61-001 Poznań
+52.4167115 16.8902352 Wilkońskich 1, 60-543 Poznań
+52.3926552 16.9919309 abpa Walentego Dymka 212, 61-245 Poznań
+52.4196927 16.966547 Główna 28, 61-005 Poznań
+52.4156136 16.9048735 Kościelna 40, 60-857 Poznań
+52.366492 16.993162 Ostrowska 340, 61-312 Poznań
+52.3861693 16.9606575 Piłsudskiego 116, 61-246 Poznań
+52.4413829 16.8666174 Poszwińskiego 6, 60-461 Poznań
+51.6164892 16.8599682 ulica, Adama Olbrachta Przyjmy-Przyjemskiego 38, 63-900 Rawicz
+52.3960199 16.8016113 Poznańska 100, 60-185 Poznań
+52.2780741 16.6840469 Zachodnia 1, 62-060 Stęszew
+52.4609559 16.6539471 Poznańska 135, 62-080 Tarnowo Podgórne
+52.3173222 17.5790186 Kościuszki 20/a, 62-300 Września
+52.3901799 17.0653325 Planetarna 20, 62-020 Zalasewo
+52.192225 18.233258 Szpitalna 54, 62-500 Konin
+52.383106 16.993803 Szwajcarska 14, 61-285 Poznań
+52.317074 17.0333236 Magazynowa 5, 62-023 Gądki
+51.738789 18.048033 al.Wojska Polskiego 7, 62-800 Kalisz
+52.436566 16.914632 al.Solidarności 51, 61-696 Poznań
+52.400905 16.964337 Baraniaka 88, 61-131 Poznań
+52.3993736 16.9131244 Matyi 2, 61-586 Poznań
+52.40308548 17.05330393 Poznańska 47, 62-020 Swarzędz
+52.412503 16.91218 Mickiewicza 92, 60-833 Poznań
+52.75182 16.989594 Seminarialna brak, 64-610 Rogoźno
+51.75249 18.050257 Prymasa Stefana Wyszyńskiego 42a, 62-800 Kalisz
+52.019335 18.521216 aleja NSZZ Solidarność 17, 62-700 Turek
+52.152896 18.456548 MOP Kuny A2, 62-710 Kuny
+52.151714 18.456601 MOP Leonia A2, 62-710 Leonia
+51.955659 17.510783 Powstańców Wielkopolskich 18, 63-200 Jarocin
+52.527 17.6018 Składowa 4, 62-200 Gniezno
+52.874966 16.493894 Krucz 28, 64-720 Lubasz
+52.950378 16.93763 Podanin 65, 64-800 Chodzież
+52.164444 18.21208 Bursztynowa 35, 62-571 Modła Królewska
+51.73888 18.04562 Al.Wojska Polskiego 5, 62-800 Kalisz
+51.8027364 18.0976089 Niedzwiady 38, 62-800 Kalisz
+51.8944635 16.9908816 Niestrawskiego 1, 63-800 Gostyń
+52.419065 16.788201 Rynkowa 160, 62-081 Przeźmierowo
+51.770205 18.072215 Złota 60, 62-800 Kalisz
+52.4797974 16.8669337 Obornicka 140, 62-002 Suchy Las
+52.4489676 16.905739 Obornicka 249, 61-001 Poznań
+53.104311 16.878464 PILSKA 2, 64-810 KACZORY
+53.028671 17.121024 Plac Wolności 19, 64-820 Szamocin
+52.372267 16.903024 Opolska 168, 61-469 Poznań
+52.3272934 17.09255028 MOP Krzyżowniki A2, 63-005 Krzyżowniki
+52.17919159 18.11991692 Osiecza Pierwsza 41C, 62-586 Osiecza
+52.1795845 18.12533379 Osiecza Pierwsza 41B, 62-586 Rzgów
+52.09412766 16.61110878 MOP Sierakowo S5, 64-000 Sierakowo
+52.3292923 17.09360313 MOP Tulce A2, 63-005 Tulce
+53.1740036 16.77829361 Dębiaki 7, 64-920 Piła
+52.41096498 17.00984239 Warszawska 231, 60-101 Poznań
+52.3836937 16.94298172 Ludwika Zamenhofa 140, 61-131 Poznań
+52.40987396 17.00823975 Warszawska 246, 61-055 Poznań
+52.42686844 16.91782379 Piątkowska 68, 60-648 Poznań
+52.38744736 16.9677639 Bolesława Krzywoustego 48, 61-144 Poznań
+52.56069183 17.79318619 Wyszyńskiego 31, 62-240 Rudki
+52.38789749 16.47588539 MOP Sędzinko A2, 64-552 Sędzinko
+52.3866272 16.47602463 MOP Zalesie A2, 64-550 Zalesie
+52.39531 16.869685 Palacza 45048, 60-307 Poznań
+52.380402 16.983138 Szwedzka 10, 61-285 Poznań
+52.21879 16.369715 Fabryczna 1, 62-065 Grodzisk Wielkopolski
+52.2453548 16.8542875 Farbiarska 30, 62-050 Mosina
+52.40181658 17.05925771 Graniczna 59, 62-020 Swarzędz
+52.0195339 18.48867984 Komunalna 2, 62-700 Turek
+52.463434 16.903218 ul. Stróżyńskiego 29, 60-688 Poznań
+52.448 16.993 osiedle Leśne 21 A, 62-028 Koziegłowy
+52.707569 16.376835 Plac Targowy 3, 64-510 Wronki
+52.4127273 16.8866944 Augustyna Samarzewskiego 62, 60-569 Poznań
+52.366139 16.248972 Parkowa 1, 64-316 Wąsowo
+52.2438472 16.8150933 Parkowa 15, 62-050 Ludwikowo
+52.316333 16.421222 Parkowa 48, 64-330 Opalenica
+51.756298 18.06087 Podmiejska 39, 62-800 Kalisz
+52.365746 16.932254 Książęca 15, 61-361 Poznań
+52.30912744 16.10065077 Sękowo 4, 64-300 Nowy Tomyśl
+52.4293985 16.9167169 Piątkowska 92, 60-649 Poznań
+53.0428336 16.4611617 Plac Pocztowy 25, 64-980 Trzcianka
+52.408361 16.9277503 plac Wolności 20, 61-731 Poznań
+52.070472 18.166472 plac Wolności 28, 62-570 Rychwał
+51.743389 18.069056 Podmiejska 2A, 62-800 Kalisz
+52.4121322 16.7662287 Bukowska 39, 62-081 Wysogotowo
+52.40952 16.97222 Warszawska 67, 61-028 Poznań
+51.74361683 18.06658391 Wrocławska 2, 62-800 Kalisz
+51.743264 18.066072 Wrocławska 2, 62-800 Kalisz
+52.404113 16.922378 Powstańców Wielkopolskich 1/2, 61-001 Poznań
+52.440438 16.919236 Drużbickiego 2, 61-693 Poznań
+52.458528 16.652778 Poznańska 139, 62-080 Tarnowo Podgórne
+52.4354214 16.7787804 Poznańska 33, 62-081 Przeźmierowo
+52.4139851 16.9138221 Poznańska 68, 60-853 Poznań
+52.399171 16.883112 Promienista 14, 60-288 Poznań
+52.5772857 16.0052311 Prusim 5, 64-420 Prusim
+52.8863926 16.9737957 Przemysłowa 16A, 64-840 Budzyń
+52.38828 16.873628 Raszyńska 185/6, 60-135 Poznań
+52.514437 17.596653 Artyleryjska 1 _, 62-200 62-200 Gniezno
+51.271339 17.993412 Obrońców Pokoju 34, 63-600 Kępno
+52.382944 16.916989 Rolna 41/1, 61-495 Poznań
+52.4086026 16.9131611 Roosevelta -, 60-829 Poznań
+52.4096518 16.9129169 Roosevelta 18, 60-829 Poznań
+52.4035805 16.8701228 Rycerska 41, 60-347 Poznań
+52.35610758 16.99423551 Sanocka 92, 61-315 Poznań
+52.453142 16.40788734 ul. Szamotulska 21, 64-550 Duszniki
+52.426035 16.921526 Salon VW Berdychowski Owsiana 27, Poznań _, 61-666 Czynne: pn.- pt. 8.00 - 18.00, sob. 8.00-16.0
+52.35977 16.903326 Samotna 12/10 i 14/2, 61-441 Poznań
+52.480816 16.865873 SEAT POLCAR Obornicka 150, Suchy Las _, 62-002 Czynne: pn.- pt. 8.00 - 18.00, sob. 8.00 -14.
+52.30848051 17.54547175 Białężyce 53A, 62-300 Września
+52.553168 17.61648 Orcholska 41 _, 62-200 Gniezno
+52.3220302 17.0188623 Składowa 1, 62-023 Koninko
+52.402877 16.914299 Składowa 44929, 61-581 Poznań
+52.401172 17.059899 Graniczna 55, 62-020 Swarzędz
+52.9055383 17.4650453 Sportowa -, 62-120 Podolin
+52.353338 16.845188 Głogowska 412, 60-101 Poznań
+52.1326324 17.1078452 Mateuszewo 8 Mateuszewo, 63-100 Mateuszewo
+52.23089 18.251224 Kolejowa 1, 62-510 Konin
+52.58449 17.39443 Kamionek 11 -, 62-280 Kamionek
+52.46374786 16.65837737 Poznańska 115, 62-080 Tarnowo Podgórne
+51.738227 18.045396 Aleja Wojska Polskiego 3, 62-800 Kalisz
+51.83176 16.530063 Balonowa 55, 64-100 Strzyżewice
+52.397607 16.860889 Bułgarska 17, 60-320 Poznań
+52.9830959 16.9006016 Strzelecka 32, 64-800 Chodzież
+52.4495891 16.8935466 Strzeszyńska 62, 60-479 Poznań
+52.4443443 16.7571476 św. Mikołaja 1, 62-080 Swadzim
+52.416916 16.966011 Świętego Michała 60, 61-005 Poznań
+52.1982602 18.2603074 Świętojańska 20h, 62-508 Konin
+52.4063625 17.1042591 Wrzesińska 174, 62-020 Swarzędz
+52.3853423 16.9971062 Szwajcarska 11, 61-285 Poznań
+52.38115288 16.9863605 Szwedzka 10a, 61-302 Poznań
+52.4094756 16.9389917 Szyperska 22, 61-754 Poznań
+52.350167 17.148017 Topolowa 25, 62-025 Trzek
+52.399413 16.922764 Topolowa 28/2 i 30/4, 61-584 Poznań
+52.81786258 17.21083708 Mikołaja Reja 59, 62-100 Wągrowiec
+52.2250536 17.27238 Poselska 5, 63-000 Środa Wielkopolska
+52.2295881 17.2793055 Czerwonego Krzyża 22, 63-000 Środa Wielkopolska
+52.2368335 17.2932181 Plażowa 4, 63-000 Środa WIelkopolska
+52.8097938 17.2008667 Średnia parking, 62-100 Wągrowiec
+52.479102 17.274676 ul. Fabryczna 19, 62-010 Pobiedziska
+52.3833302 16.9752418 Wiatraczna 5, 61-242 Poznań
+52.4030843 16.9566315 Baraniaka 4, 61-131 Poznań
+52.411584 16.866484 SALON VOX, Bukowska 148 _, 60-567 Poznań
+52.211396 17.278266 Kijewo 37 _, 63-000 Kijewo
+51.270115 18.05939 Jankowy 1G _, 63-604 Baranów
+52.51158643 16.75402741 ul. Dworcowa 1a, 62-090 Rokietnica
+51.297076 17.777386 Słupia pod Bralinem 74A, 63-642 Słupia pod Bralinem
+52.9068273 16.5636075 Wodna 8, 64-700 Czarnków
+53.4179676 16.8250804 Wojska Polskiego 29, 64-915 Jastrowie
+51.5728888 17.8303745 Wrocławska 7, 63-421 Strugi
+52.397911 17.250043 Wrzesińska 70, 62-025 Kostrzyn
+52.440085 16.91292 Zakrzewskiego -, 61-001 Poznań
+52.40794 16.908875 Zeylanda 101, 60-808 Poznań
+53.403286 14.5213 9 Maja 5, 70-136 Szczecin
+53.4442222 14.4989444 Adama Mickiewicza 163, 71-899 Szczecin
+54.250778 16.01625 Akacjowa 31, 76-032 Mielenko
+53.43054 14.53813 Al. Piastów 6, 70-331 Szczecin
+53.45058 14.51407 Al. Wojska Polskiego 147/1, 70-471 Szczecin
+53.4345591 14.5321887 aleja Bohaterów Warszawy 13C, 70-342 Szczecin
+53.4292777 14.5524718 Aleja Papieża Jana Pawła II 1, 70-413 Szczecin
+53.432332 14.53896 aleja Piastów 4, 70-001 Szczecin
+53.4280556 14.5444444 Aleja Wojska Polskiego 16, 70-471 Szczecin
+53.4713461 14.4874384 Aleja Wojska Polskiego 245, 71-256 Szczecin
+53.429219 14.5432224 Aleja Wojska Polskiego 28, 70-475 Szczecin
+53.4317958 14.5411925 Aleja Wojska Polskiego 52, 70-477 Szczecin
+53.4340394 14.5555533 aleja Wyzwolenia 18, 70-554 Szczecin
+53.435889 14.554028 aleja Wyzwolenia 32, 71-500 Szczecin
+53.433378 14.554109 aleja Wyzwolenia 35, 70-531 Szczecin
+53.2631051 16.4329992 Aleja Zdobywców Wału Pomorskiego 99, 78-600 Wałcz
+54.5379908 16.5304986 Bałtycka 103, 76-107 Jarosławiec
+54.189543 15.606826 Sułkowskiego, 11 Hotel Arka Medical, 77-100 Kołobrzeg
+53.384754 14.507798 Ustowo 45, 70-001 Kołbaskowo
+52.945305 14.952641 Renice 59, 74-300 Myślibórz
+53.9715781 14.6060477 Bałtycka -, 72-514 Kołczewo
+53.3382082 15.0333371 Barnima I 6, 73-110 Stargard
+52.79136226 14.76707291 Barnówko 13, 74-311 Różańsko
+53.331333 14.542263 VW BENEPOL Szczecińska 117, Radziszewo _, 74-107 Czynne: pn.-sob. 6.00-22.00
+52.9599967 14.4431926 Ogrodowa 14B, 74-500 Chojna
+54.02176937 14.74604989 Słowackiego 8a, 72-420 Dziwnów
+53.5656612 14.8290274 Puszkina 1, 72-100 Goleniów
+53.2518766 14.5004498 Asnyka 57, 74-100 Gryfino
+53.6339228 15.6188757 Segala 7, 73-150 Łobez
+52.85171341 14.14530459 Osinów Dolny 4a, 74-520 Osinów Dolny
+53.13953831 14.89122771 Adama Mickiewicza 2a, 74-200 Pyrzyce
+53.899626 14.233196 Nowokarsiborska 2, 72-600 Świnoujście
+53.4581862 14.5441935 Zygmunta Krasińskiego 55, 71-447 Szczecin
+53.46084768 14.555467 Rostocka 1, 71-646 Szczecin
+53.2767053 16.4723196 Dąbrowskiego 28, 78-600 Wałcz
+53.317944 14.647694 Binowo 62, 74-106 Stare Czarnowo
+53.4282592 14.5508763 al. Niepodległości 36, 70-404 Szczecin
+53.389095 14.499064 Ustowo 55, 70-001 Szczecin
+53.4291305 14.5421617 Bohaterów Getta Warszawskiego 24, 70-302 Szczecin
+53.902461 14.275279 Skandynawska 17, 72-602 Świnoujście
+53.366639 14.652972 Brązowa 41, 70-781 Szczecin
+53.4079906 14.5153538 Białowieska 1, 71-010 Szczecin
+53.4008306 14.5259219 Budziszyńska 24, 70-023 Szczecin
+53.01012126 15.22446448 św. Bonifacego 35d, 74-320 Barlinek
+53.454652 14.475128 Modra 33, 71-220 Szczecin
+54.382861 16.32025 Darłowska 15, 76-156 Dąbki
+53.40761 14.50801 Mieszka I 30, 71-008 Szczecin
+53.5666487 16.2296789 Drahimska 59, 78-550 Czaplinek
+54.437139 16.375972 Dorszowa 3, 76-153 Darłowo
+53.411716 14.527539 Dunikowskiego 3/48, 10/1, 70-123 Szczecin
+54.338847 16.605083 Rzyszczewo 29A, 76-100 Rzyszczewo
+53.9264318 14.4447359 Bosmańska 2 -, 72-500 Międzyzdroje
+53.448056 14.554444 Elizy Orzeszkowej 28, 71-564 Szczecin
+53.395564 14.66943 Emilii Gierczak 15, 70-801 Szczecin
+54.16394806 15.48922157 Nadmorska 98B, 78-132 Grzybowo
+54.20019913 16.19944954 Orląt Lwowskich (parking), 75-522 Koszalin
+54.20566177 16.1912899 Jana Pawła II (parking), 75-452 Koszalin
+54.20388412 16.18477249 Władysława IV (parking), 75-347 Koszalin
+54.19897079 16.19418335 Fałata 32, 75-434 Koszalin
+54.20080185 16.19085884 Wańkowicza 62, 75-446 Koszalin
+54.19377136 16.18987083 Kościuszki (parking), 75-415 Koszalin
+54.18909836 16.17807961 Połtawska (parking), 75-072 Koszalin
+54.20802689 16.20190811 Śniadeckich 25, 75-453 Koszalin
+54.19090271 16.18328285 Asnyka 3, 75-003 Koszalin
+54.18764877 16.2215004 Morelowa 14, 75-665 Koszalin
+54.17619324 16.1985302 Gnieźnieńska (parking), 75-736 Koszalin
+54.18013763 16.17905045 Wenedów 13-15, 75-847 Koszalin
+54.19605637 16.16814423 Morska 10, 75-221 Koszalin
+54.1949234 16.21803474 Chałubińskiego 15, 75-581 Koszalin
+54.21157455 16.2023716 Bukowa 26, 75-433 Koszalin
+54.19182968 16.19904327 Waryńskiego 6, 75-541 Koszalin
+54.19285965 16.17234421 Jana z Kolna 38, 75-204 Koszalin
+54.19267654 16.17836761 Podgrodzie 1A, 75-240 Koszalin
+54.17843628 16.20954895 Paderewskiego (parking), 75-736 Koszalin
+54.20152283 16.18213654 Kutrzeby (parking), 75-332 Koszalin
+54.19079971 16.1965313 Matejki 3-5, 75-540 Koszalin
+54.20271683 16.20838737 Rolna (parking), 75-436 Koszalin
+54.19207382 16.18678665 Piastowska (parking), 75-400 Koszalin
+54.20869446 16.19679451 Kołłątaja 9-13, 75-448 Koszalin
+54.20946503 16.1961174 Staszica 10-10C, 75-449 Koszalin
+54.25085449 16.14658737 Promowa (parking), 75-900 Koszalin
+53.55336761 16.23563766 Grunwaldzka 5, 78-440 Czaplinek
+53.89669037 16.8344841 Rynek 1, 78-425 Biały Bór
+53.52906418 15.81494808 Kuczerawego 1, 78-500 Drawsko Pomorskie
+54.04850769 15.65542603 IV Dywizji Wojska Polskiego 55, 78-120 Gościno
+53.388306 14.625618 Eskadrowa 2620, 70-767 Szczecin
+53.44371918 14.56782659 1 Maja 41, 71-627 Szczecin
+54.177547 16.203935 Paderewskiego 1, 75-736 Koszalin
+53.4217977 14.5382648 Gabriela Narutowicza 17B, 70-240 Szczecin
+53.384727 14.6607 Wiosenna 32, 70-807 Szczecin
+54.178591 16.195258 Gnieźnieńska 24B _, 75-737 Koszalin
+54.177855 16.19762 Gnieźnieńska 43A _, 75-736 Koszalin
+53.399236 14.501121 Południowa 6 _, 71-001 Szczecin
+53.385071 14.650652 Struga 1A _, 70-784 Szczecin
+53.430802 14.483141 Generała Maczka 32, 71-000 Szczecin
+54.277997 16.118616 Generała Stanisława Maczka 40, 76-032 Mielno
+54.177593 16.1981 Gnieźnieńska 45A, 75-900 Koszalin
+53.399846 14.6830973 Goleniowska 69, 70-842 Szczecin
+53.40924 14.533069 Grudziądzka 15, 70-120 Szczecin
+54.0614715 14.9361311 Grunwaldzka 82a, 72-346 Pobierowo
+53.490611 15.845833 Gudowo 64, 78-500 Gudowo
+53.453546 14.48916 Romera 10 Hotel Jantar, 71-246 Szczecin
+53.407604 14.514123 Białowieska 2, 71-007 Szczecin
+54.202506 16.158323 Przemysłowa 1A, 75-216 Koszalin
+53.683512 15.122138 Armii Krajowej 28C, 72-200 Nowogard
+53.432056 14.565861 Jarowita 10, 70-501 Szczecin
+53.381016 14.662925 Jerzego Andrzejewskiego 13, 70-786 Szczecin
+53.3850275 14.6597678 Andrzeja Struga 29, 70-087 Szczecin
+53.39263194 14.49870147 Floriana Krygiera 7, 71-001 Szczecin
+53.2753488 16.48632158 Budowlanych 3, 78-600 Wałcz
+53.4461111 14.5166667 Kazimierza Przerwy-Tetmajera 7, 71-320 Szczecin
+53.425333 14.534944 Kazimierza Pułaskiego 10, 70-333 Szczecin
+53.342582 14.992998 Szczecińska 81, 73-110 Stargard
+54.192662 15.6627014 Ostrobramska 3, 78-100 Kołobrzeg
+54.1808647 15.5695256 Dworcowa 2 -, 78-100 Kołobrzeg
+54.185527 15.591033 Tadeusza Kościuszki - -, 78-100 Kołobrzeg
+54.17823 15.585198 Okopowa 3c -, 78-100 Kołobrzeg
+54.17909 15.5606 Warzelnicza - -, 78-100 Kołobrzeg
+54.1792005 15.5914181 Tarnowskiego 0, 78-100 Kołobrzeg
+54.23061703 16.17377911 Koszalińska 3, 75-900 Koszalin
+53.398752 14.50043 Południowa 6 Grupa Cichy-Zasada, 71-899 Szczecin
+53.403756 14.500435 Krakowska 67, 71-004 Szczecin
+53.424432 14.559577 Księcia Mściwoja II 9, 70-500 Szczecin
+53.4242577 14.5539573 Księdza Kardynała Stefana Wyszyńskiego 20, 70-202 Szczecin
+53.4246389 14.5535833 Księdza Kardynała Stefana Wyszyńskiego 9, 70-202 Szczecin
+53.4566504 14.5713392 Golisza 10H, 71-682 Szczecin
+53.5517207 14.5436127 Tarnowska 14, 72-010 Police
+53.7801678 15.7732329 3 Marca 27B, 78-300 Świdwin
+53.2767781 16.4818559 Budowlanych 1A, 78-600 Wałcz
+54.1837887 16.1485589 Syrenki 1, 75-123 Koszalin
+53.399802 14.504668 Południowa 35, 71-001 Szczecin
+53.428448 14.561206 Małopolska 14, 70-513 Szczecin
+53.428717 14.559571 Małopolska 46, 71-742 Szczecin
+54.021477 14.738621 Stefana Żeromskiego 141/6, 72-420 Dziwnów
+53.9245767 15.2015094 Marszałka Józefa Piłsudskiego 29g, 72-300 Gryfice
+53.437944 14.548333 Mieczysława Niedziałkowskiego 6, 71-410 Szczecin
+53.742588 15.21433 Wyszogóra Wschód -, 72-310 Wyszogóra
+53.743121 15.211413 Wyszogóra Zachód -, 72-310 Wyszogóra
+54.210555 16.183114 Wąwozowa 1A, 75-347 Koszalin
+53.094197 16.123464 Mickiewicza 9, 73-630 Człopa
+53.194156 15.748096 Borowiec 5, 73-220 Borowiec
+53.21765 15.773039 Kaliska 5, 73-220 Drawno
+54.046827 15.65713 IV Dywizji Wojska Polskiego 63, 78-120 Gościno
+54.102432 15.123956 Wojska Polskiego 15, 72-351 Pogorzelica
+54.128171 16.29474 Koszalińska 35, 76-015 Manowo
+53.340197 16.083989 Wolności 30, 78-650 Mirosławiec
+53.715078 16.679816 Polna 22, 78-400 Szczecinek
+54.146694 15.299278 Nadmorska 13, 72-330 Mrzeżyno
+54.165389 15.50425 Nadmorska 36c, 78-132 Grzybowo
+54.173736 16.124907 Koszalińska 11, 76-039 Stare Bielice
+53.383132 14.674473 Andrzeja Struga 71, 70-784 Szczecin
+53.42237575 14.56354433 Zbożowa 4, 70-653 Szczecin
+53.43528 14.555632 Malczewskiego 26, 71-612 Szczecin
+53.33841324 14.42307091 A6 124, 72-001 Kołbaskowo
+53.33666611 14.42163277 A6 123, 72-001 Kołbaskowo
+53.56866074 14.83210373 Wolińska 2, 72-100 Goleniów
+54.23103714 16.30849075 Łubuszan 1, 76-004 Sianów
+53.46564102 14.57907772 Bogumińska 44, 71-744 Szczecin
+53.40671539 14.50378513 Profesora Ludwika Janiszewskiego 2A, 71-004 Szczecin
+53.45438766 14.53739262 Chopina 16, 71-450 Szczecin
+53.4368697 14.7450648 Osiedle Kasztanowe 2D, 70-895 Szczecin
+53.910121 14.2585752 Mieszka I 7, 72-600 Świnoujście
+53.926469 14.446065 Plac Ratuszowy 1, 72-500 Międzyzdroje
+54.260056 16.056806 Piastów 4, 76-032 Mielno
+53.4225 14.54107 Plac Dziecka 11, 70-241 Szczecin
+53.432139 14.556 Plac Rodła 10, 70-419 Szczecin
+54.184075 16.145825 Bohaterów Warszawy 33a, 75-211 Koszalin
+54.208547 16.163508 Franciszkańska 120, 75-255 Koszalin
+53.27624 15.337488 Pomorska 119, 73-132 Suchań
+52.843857 14.1305899 Osinów Dolny 50, 74-520 Cedynia
+53.4329167 14.4865833 Polskich Marynarzy 76, 71-000 Szczecin
+54.4436666 16.398246 Północna 19b, 76-153 Darłowo
+53.3997772 14.5109193 Południowa 29, 71-899 Szczecin
+53.424222 14.549623 Plac Brama Portowa 1, 70-225 Szczecin
+53.4227566 14.5461036 Potulicka 3A, 70-230 Szczecin
+53.38509907 14.67988763 Pomorska 115B, 70-812 Szczecin
+53.38872888 14.49822619 Ustowo 56, 70-001 Szczecin
+53.9192428 14.2554013 Uzdrowiskowa 1, 72-600 Świnoujście
+53.4547675 14.5601389 Przyjaciół Ronda 2, 71-685 Szczecin
+53.35864 14.74431 Przyszłości 30, 70-893 Szczecin
+54.2054255 16.2074325 Rekreacyjna 14, 75-436 Koszalin
+53.458278 14.582111 Robotnicza 23a, 71-712 Szczecin
+53.393833 14.502148 Południowa 18/20, 71-001 Szczecin
+53.423237 14.553964 Rybacka 1, 70-205 Szczecin
+53.378816 14.656355 Rydla 43, 70-783 Szczecin
+54.0794615 15.0121851 Saperska 26, 72-344 Rewal
+54.189517 15.605753 Wschodnia 20, 78-100 Kołobrzeg
+53.45 14.4963889 Sebastiana Klonowica -, 71-899 Szczecin
+53.4341192 14.5481582 Śląska 35A, 70-433 Szczecin
+53.458701 14.7601123 Słoneczna 18, 72-123 Kliniska Wielkie
+54.0800851 15.0211438 Słonecznikowa 9, 72-344 Rewal
+54.015977 15.962197 Słowińska 1 _, 78-200 Białogard
+54.08364265 15.03665268 Żurawia 10, 72-344 Rewal
+53.9617944 14.5699346 Sosnowa 15, 72-513 Wisełka
+54.21086346 16.18282745 Wąwozowa 1 B, 75-339 Koszalin
+53.40291251 14.53723678 Tama Pomorzańska 10, 70-030 Szczecin
+53.9130432 14.4341898 ul. Nowomyśliwska 102, 72-500 Międzyzdroje
+53.338855 14.549347 Rymarska 127, 70-702 Szczecin
+53.925769 15.2051693 Piłsudskiego 20A, 72-300 Gryfice
+53.913687 14.234256 Legionów 2, 72-600 Świnoujście
+53.4367301 14.569923 Stanisława Dubois 3, 71-610 Szczecin
+54.004972 16.00825 Stanisława Moniuszki 29, 78-200 Białogard
+53.426222 14.547583 Świętego Wojciecha 1, 70-400 Szczecin
+54.17874077 15.57183418 SYBIRAKÓW DZ.134 obręb 12, 78-100 KOŁOBRZEG
+53.70945668 16.70668286 Cieślaka 10, 78-400 Szczecinek
+53.330598 16.023854 Łowicz Wałecki 62, 78-650 Mirosławiec
+54.001167 14.676583 Turystyczna 1, 72-415 Międzywodzie
+53.4514 14.54214 ul. Chopina 45083, 71-450 Szczecin
+53.438434 14.568382 ul. Chryzostoma Paska 28, 71-622 Szczecin
+53.40202 14.499 ul. Cukrowa 44969, 71-004 Szczecin
+53.37744 14.66148 ul. Dąbrowskiej 83/5, 70-785 Szczecin
+53.416829 14.499031 ul. Dworska 131, 71-026 Szczecin
+53.36601 14.59593 ul. Floriana Szarego 25, 70-743 Szczecin
+53.366309 14.595514 ul. Floriana Szarego 25, 70-743 Szczecin
+53.441589 14.510861 ul. Grzegorza z Sanoka 250, 71-278 Szczecin
+53.369577 14.667372 ul. Gwarna 44956, 70-789 Szczecin
+53.432442 14.51691 ul. Jana Bosko 45099, 71-125 Szczecin
+53.3779 14.64839 ul. Jasna 50/5, 70-777 Szczecin
+53.44729 14.5502 ul. Kadłubka 50, 71-524 Szczecin
+53.41978 14.54676 ul. Kaszubska 45202, 70-227 Szczecin
+53.44444 14.56178 ul. Kazimierza Królewicza 18, 71-551 Szczecin
+53.462538 14.540019 ul. Kostrzewskiego 13/27, 71-793 Szczecin
+53.43924 14.53531 ul. Królowej Korony Polskiej 44962, 70-486 Szczecin
+53.42161 14.52302 ul. Ku Słońcu 12086, 71-073 Szczecin
+53.42177 14.52298 ul. Ku Słońcu 12086, 71-073 Szczecin
+53.416 14.53366 ul. Madalińskiego 44987, 70-101 Szczecin
+53.436366 14.532923 ul. Mickiewicza 38, 70-383 Szczecin
+53.437598 14.546898 ul. Niedziałkowskiego 45034, 71-403 Szczecin
+53.44248 14.55478 ul. Ofiar Oświęcimia 6, 71-531 Szczecin
+53.42613 14.53301 ul. Puławskiego 45032, 70-322 Szczecin
+53.36673 14.663355 ul. Romantyczna 44/4, 70-789 Szczecin
+53.909722 14.263785 S. Rogozińskiego 2, 72-600 Świnoujście
+53.41812 14.54063 ul. Sowińskiego 10, 70-236 Szczecin
+53.452804 14.524729 ul. Wiosny Ludów 139/36, 71-471 Szczecin
+53.459814 14.536992 ul. Wiosny Ludów 42583, 71-471 Szczecin
+53.432559 14.507543 ul. Witkiewicza 44928, 71-121 Szczecin
+53.424203 14.565567 ul. Zbożowa 44959, 70-653 Szczecin
+53.428441 14.532477 ul. Żółkiewskiego 6, 70-345 Szczecin
+53.95442422 16.58793517 Spichrzowa PM, 76-020 Bobolice
+53.71057332 16.69027745 Jana Pawła II PM, 78-400 Szczecinek
+53.451278 14.511271 Unii Lubelskiej 2A, 71-252 Szczecin
+53.4046842 14.7069305 Uranowa 2, 70-856 Szczecin
+54.21875459 15.77026517 Spokojna 4a, 78-111 Ustronie Morskie
+53.4381134 14.5439089 Wacława Felczaka 8, 71-420 Szczecin
+53.4295533 14.5643916 Wały Chrobrego 1, 70-500 Szczecin
+53.431802 14.566953 Wawelska 5, 70-500 Szczecin
+53.4827349 14.5905268 Władysława Nehringa 6B, 71-814 Szczecin
+54.023778 14.74525 Władysława Reymonta 10, 72-420 Dziwnów
+53.3519912 15.0315002 Wojska Polskiego 119, 73-110 Stargard
+54.162545 15.438045 Wyzwolenia 35, 78-131 Dźwirzyno
+53.423079 14.563908 Zbożowa 4, 70-653 Szczecin
+53.76269 16.0944426 Zdrojowa 1/2, 78-320 Połczyn-Zdrój
+53.33522821 15.26417364 Barzkowice 2, 73-134 Barzkowice
+53.44578 14.5454 Zygmunta Krasińskiego 10, 71-435 Szczecin
